@@ -1,6 +1,18 @@
 A_Resource_Whose_Name = prayers_spa_GT_odg
 
+DoxaSoiKyrie = "Gloria a ti, Señor, gloria a ti."
+
+EvlogisonThymiama.text = "Bendice, soberano, el incienso."
+
+Thymiama.text = "Te ofrecemos el incienso a ti, Cristo Dios nuestro, como aroma de fragancia espiritual; recíbelo en tu celestial altar y envía sobre nosotros, en cambio, la gracia de tu Santísimo Espíritu. Amén. "
+
+enarxis01 = "Bendito sea nuestro Dios, perpetuamente, ahora y siempre  y por los siglos de los siglos. Amén."
+
 enarxis02 = "Bendito el reinado del ✠ Padre, y del Hijo, y del Espíritu Santo, ahora y siempre y por los siglos de los siglos."
+
+epi02 = "Paz a ti, lector."
+
+pet00 = "Roguemos al Señor."
 
 pet01 = "En paz, roguemos al Señor."
 
@@ -28,10 +40,52 @@ pet12 = "Ampáranos, sálvanos, ten piedad de nosotros y protégenos, Dios, por 
 
 pet13 = "Habiendo conmemorado a nuestra soberana la santísima, inmaculada, benditísima y gloriosa ✠ Teotocos (Madre de Dios) y siempre Virgen María, junto con todos los santos, encomendemos: cada uno a sí mismo, y unos a otros, y nuestra vida entera, a Cristo nuestro Dios."
 
+pet14 = "Una vez más, en paz roguemos al Señor."
+
+pet15 = "Digamos con toda el alma, y con todo nuestro entendimiento, digamos:"
+
+pet16 = "Señor Omnipotente, Dios de nuestros padres, te suplicamos: escúchanos y ten piedad."
+
+pet17 = "Ten piedad de nosotros, Dios nuestro, por tu gran misericordia, escúchanos y ten piedad."
+
+pet18 = "Te suplicamos una vez más por los piadosos cristianos ortodoxos."
+
+pet19 = "Suplicamos aún por nuestro arzobispo N."
+
+pet20 = "Suplicamos aún por nuestros hermanos los sacerdotes, los hieromonjes, los hierodiáconos, los monjes, y por toda nuestra hermandad en Cristo."
+
+pet21 = "Suplicamos aún por piedad, vida, paz, salud, salvación, visitación, perdón y remisión de los pecados de los servidores de Dios, de todos los piadosos cristianos ortodoxos, de los habitantes y visitantes que están en esta ciudad (o pueblo, o parroquia, o monasterio); de las parroquias, los administradores y bienhechores de esta santa iglesia."
+
+pet22 = "Suplicamos aún por los bienaventurados y siempre recordados fundadores de esta santa iglesia (o monasterio), y por todos nuestros padres y hermanos que nos precedieron y que yacen piadosamente aquí, y por todos los ortodoxos."
+
+pet23 = "Suplicamos aún por los benefactores y bienhechores de este santo y venerable templo, por los que se fatigan trabajando en él, por sus cantores, y por todo el pueblo presente que espera de ti tu grande y copiosa misericordia."
+
+pet31 = "Paz ✠ a todos."
+
 res01 = "Señor, ten piedad."
 
 res03 = "A ti, Señor."
 
 res04 = "Amén."
 
+res05 = "Y a tu espíritu."
+
 res08 = "Bendice, soberano."
+
+exc01 = "Porque a ti se debe toda gloria, honor y adoración, ✠ Padre, Hijo y Espíritu Santo, ahora y siempre y por los siglos de los siglos."
+
+exc02 = "Porque tuyo es el poder, y tuyos son el reinado, la fuerza y la gloria: del ✠ Padre, y del Hijo, y del Espíritu Santo, ahora y siempre y por los siglos de los siglos."
+
+exc03 = "Porque eres Dios bueno y amante de la humanidad, y a ti rendimos gloria: al ✠ Padre, y al Hijo, y al Espíritu Santo, ahora y siempre y por los siglos de los siglos."
+
+exc05a = "Porque eres Santo, Dios nuestro, y a ti rendimos gloria: al ✠ Padre, y al Hijo, y al Espíritu Santo, ahora y siempre …"
+
+exc05b = "…y por los siglos de los siglos."
+
+exc17 = "¡Sabiduría!"
+
+exc18 = "¡De pie!"
+
+exc19 = "Atendamos."
+
+gos02 = "Escuchemos el Santo Evangelio."

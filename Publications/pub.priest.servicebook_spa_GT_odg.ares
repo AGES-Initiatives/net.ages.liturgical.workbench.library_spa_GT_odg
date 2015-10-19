@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = pub.priest.servicebook_spa_GT_odg
+
+doxapatrikainyn = "Gloria al ✠ Padre y al Hijo, y al Espíritu Santo, ahora y siempre y por los siglos de los siglos. Amén."
+
+li.smallentrance.title = "Entrada con el Santo Evangelio"
+li.readings.title = "Lecturas"
+li.gospel.title = "Lectura del Santo Evangelio"
+li.kerygma.title = "Homilía"
+li.greatlitany.title = "Gran Letanía de la Ferviente súplica"
+
+li.blessreader = "Bendice soberano, a quien proclamará el Evangelio del santo y glorioso apóstol y evangelista N."
+li.blessreader2 = "Que Dios, por la intercesión del santo, glorioso, apóstol y evangelista N., te conceda a ti evangelizador, voz con gran fuerza, para cumplimiento del Evangelio de su amado Hijo, nuestro Señor Jesús Cristo."
+
+li.rubric.sundayantifon2 = "Y entona la antífona correspondiente. Los domingos ordinarios (si no se celebra otra fiesta) se canta:"
+li.rubric.sundayantifon3 = "El coro canta el apolitiquio del día, o, en las grandes fiestas, el correspondiente."
+li.rubric.kontakion1 = "El coro canta, a continuación, los correspondientes troparios en el orden siguiente: De nuevo el apolitiquio de la Resurrección, si es domingo, o el de la fiesta. El apolitiquio o tropario del santo del día. El tropario del santo titular del templo. El condaquio."
+li.rubric.readprokimenon = "Y el lector dice en voz alta lo pertinente con sus versículos."
+li.rubric.blessreader = " El diácono se acerca al sacerdote, se arrodilla ante el santo altar y con la cabeza inclinada dice suavemente al sacerdote:"
+li.rubric.givegospel = "Haciendo una reverencia con respeto hacia el Santo Evangelio, lo recibe del sacerdote y besa su mano diciendo:"
+li.rubric.readgospel = "El diácono proclama el Santo Evangelio. Al terminar, el sacerdote lo bendice diciendo:"
+li.rubric.preach = "La predicación tiene su lugar en este momento."
