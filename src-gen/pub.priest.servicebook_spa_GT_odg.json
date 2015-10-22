@@ -7,6 +7,8 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|catechumens', 'text' : 'Súplicas por los catecúmenos'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|liturgyfaithful|title', 'text' : 'La súplica de los fieles'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|greatentrance|title', 'text' : 'ENTRADA MAYOR'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|litanygifts|title', 'text' : 'La letanía completiva'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|creed|title', 'text' : 'El Símbolo de la Fe'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader', 'text' : 'Bendice soberano, a quien proclamará el Evangelio del santo y glorioso apóstol y evangelista N.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader2', 'text' : 'Que Dios, por la intercesión del santo, glorioso, apóstol y evangelista N., te conceda a ti evangelizador, voz con gran fuerza, para cumplimiento del Evangelio de su amado Hijo, nuestro Señor Jesús Cristo.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|cherubic2', 'text' : 'Para acoger al Rey de todos por angélicos e invisibles órdenes escoltado: ¡Aleluya, aleluya, aleluya!'}
@@ -16,6 +18,13 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|holydiaconate', 'text' : 'Dios, el Señor, se acuerde perpetuamente de tu diaconado en su Reino,  ahora y siempre y por los siglos de los siglos.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|noblejoseph', 'text' : 'El honorable José, habiendo bajado tu inmaculado Cuerpo del madero, lo envolvió con una sábana limpia con perfumes y habiéndole rendido la últimas honras lo colocó en un sepulcro nuevo.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|praypriest', 'text' : 'Ora por mí, santo soberano.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|christmidst1', 'text' : 'Cristo está entre nosotros.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|christmidst2', 'text' : 'Estuvo, está y estará.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|tasa', 'text' : 'Te ofrecemos lo que es tuyo, de lo que es tuyo, en todo y por todo.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|seimnumen', 'text' : 'Te alabamos, te bendecimos, te damos gracias, Señor, y te suplicamos, Dios nuestro.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|changebread', 'text' : 'Bendice, soberano, el Santo Pan.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|changewine', 'text' : 'Bendice, soberano, el Santo Cáliz.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessboth', 'text' : 'Bendice, soberano, ambos Santos.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon2', 'text' : 'Y entona la antífona correspondiente. Los domingos ordinarios (si no se celebra otra fiesta) se canta:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon3', 'text' : 'El coro canta el apolitiquio del día, o, en las grandes fiestas, el correspondiente.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kontakion1', 'text' : 'El coro canta, a continuación, los correspondientes troparios en el orden siguiente: De nuevo el apolitiquio de la Resurrección, si es domingo, o el de la fiesta. El apolitiquio o tropario del santo del día. El tropario del santo titular del templo. El condaquio.'}
@@ -34,3 +43,12 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|procession', 'text' : 'Precedidos por los ceroferarios, la cruz, las hexaptérigas y el turiferario, el sacerdote y el diácono salen por la puerta septentrional, llevando el cáliz y el discos.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|covergiftsaer', 'text' : 'El sacerdote descubre los Dones, tomando los velos del discos y del Santo Cáliz y los coloca en las esquinas de la Santa Mesa. Después de tomar el áer de los hombros del diácono, lo pone alrededor del incensario y cubre con él los Dones y los besa.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|rememberpriest', 'text' : 'El sacerdote, dejando el incensario e inclinando la cabeza ante la Santa Mesa, dice al diácono:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kissofpeace', 'text' : 'Si hay concelebración, los celebrantes intercambian el ósculo de paz diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kissofpeace2', 'text' : 'A lo cual responden:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|pointbread', 'text' : 'Luego el diácono, señalando el Santo Pan con el orario, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|changebread', 'text' : 'El sacerdote hace tres veces la señal de la Cruz ✠ sobre el Santo Pan, y dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|pointchalice', 'text' : 'Y otra vez el diácono, señalando con el orario el Santo Cáliz, añade:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blesschalice', 'text' : 'Y el sacerdote hace tres veces la señal de la Cruz ✠ sobre el Santo Cáliz, diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessboth', 'text' : 'Y otra vez el diácono, señalando ambos Santos Dones, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|epiclesis', 'text' : 'Y el sacerdote,  haciendo sobre ellos la señal de la Cruz ✠, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|forvigilance', 'text' : 'E inclinándose ante la santa mesa, el sacerdote dice en voz baja:'}

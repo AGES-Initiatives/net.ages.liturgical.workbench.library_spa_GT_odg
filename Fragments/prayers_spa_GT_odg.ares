@@ -6,6 +6,8 @@ EvlogisonThymiama.text = "Bendice, soberano, el incienso."
 
 Thymiama.text = "Te ofrecemos el incienso a ti, Cristo Dios nuestro, como aroma de fragancia espiritual; recíbelo en tu celestial altar y envía sobre nosotros, en cambio, la gracia de tu Santísimo Espíritu. Amén. "
 
+Pistevo.text = "Creo en un solo Dios, Padre Omnipotente, Creador del cielo y de la tierra, de todo lo visible y lo invisible. Y en un solo Señor, Jesús Cristo, Unigénito Hijo de Dios, nacido del Padre antes de todos los siglos; Luz de Luz, Dios Verdadero de Dios Verdadero, engendrado, no creado, de la misma esencia que el Padre, por quien todo fue hecho. Quien por nosotros los hombres y por nuestra Salvación descendió de los cielos, y se encarnó del Espíritu Santo y de María la Virgen, y se hizo hombre. Fue crucificado por nosotros bajo Poncio Pilato, padeció y fue sepultado.Y resucitó al tercer día, conforme a las Escrituras. Y ascendió a los cielos y está sentado a la diestra del Padre. Y de nuevo vendrá, con gloria, para juzgar a los vivos y a los muertos. Y su Reino no tendrá fin. Y en el Espíritu Santo, Señor, Vivificador, que procede del Padre, ✠ que junto con el Padre y el Hijo es adorado y glorificado, que habló por medio de los profetas. Y en la Iglesia ✠ Una, Santa, Católica y Apostólica. Confieso un solo Bautismo para la remisión de los pecados. Espero la resurrección de los muertos, Y la vida en la era futura. Amén."
+
 enarxis01 = "Bendito sea nuestro Dios, perpetuamente, ahora y siempre  y por los siglos de los siglos. Amén."
 
 enarxis02 = "Bendito el reinado del ✠ Padre, y del Hijo, y del Espíritu Santo, ahora y siempre y por los siglos de los siglos."
@@ -60,9 +62,25 @@ pet22 = "Suplicamos aún por los bienaventurados y siempre recordados fundadores
 
 pet23 = "Suplicamos aún por los benefactores y bienhechores de este santo y venerable templo, por los que se fatigan trabajando en él, por sus cantores, y por todo el pueblo presente que espera de ti tu grande y copiosa misericordia."
 
+pet24 = "Completemos nuestra súplica al Señor."
+
+pet25m = "Que el día entero sea perfecto, santo, pacífico, y sin pecado, pidamos al Señor."
+
+pet26 = "Un ángel de paz, guía fiel y custodio de nuestras almas y cuerpos, pidamos al Señor."
+
+pet27 = "Perdón y remisión de nuestros pecados y transgresiones, pidamos al Señor."
+
+pet28 = "Cuanto es bueno y conveniente para nuestras almas, y por la paz del mundo, pidamos al Señor."
+
+pet29 = "Que el tiempo restante de nuestra vida se complete en paz y penitencia, pidamos al Señor."
+
+pet30 = "Un fin cristiano de nuestra vida, exento de dolor y de vergüenza, pacífico, y una buena defensa ante el temible tribunal de Cristo, pidamos al Señor."
+
 pet31 = "Paz ✠ a todos."
 
 res01 = "Señor, ten piedad."
+
+res02 = "Concédelo, Señor."
 
 res03 = "A ti, Señor."
 
@@ -71,6 +89,8 @@ res04 = "Amén."
 res05 = "Y a tu espíritu."
 
 res08 = "Bendice, soberano."
+
+res10 = "Amén. Amén. Amén."
 
 exc01 = "Porque a ti se debe toda gloria, honor y adoración, ✠ Padre, Hijo y Espíritu Santo, ahora y siempre y por los siglos de los siglos."
 
