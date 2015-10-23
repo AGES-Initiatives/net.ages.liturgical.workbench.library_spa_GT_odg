@@ -1,3 +1,5 @@
 {'id_' : 'client_spa_GT_odg|cl|eu|lichrysbasil|R009', 'text' : 'Entonces el lector dice en voz alta el título de la lectura apostólica: 'Lectura de la Epístola de… (o Los Hechos de los Apóstoles…)':'}
 {'id_' : 'client_spa_GT_odg|cl|eu|lichrysbasil|R010', 'text' : 'El Lector recita con cuidado, claridad y respeto el fragmento indicado para la Lectura Apostólica.'}
-{'id_' : 'client_spa_GT_odg|cl|eu|lichrysbasil|R011', 'text' : 'Lectura del Santo Evangelio según San N. '}
+{'id_' : 'client_spa_GT_odg|cl|eu|lichrysbasil|R011', 'text' : 'Lectura del Santo Evangelio según San N.'}
+{'id_' : 'client_spa_GT_odg|cl|bishop1|rank', 'text' : 'de nuestro arzobispo'}
+{'id_' : 'client_spa_GT_odg|cl|bishop1|name_p', 'text' : 'N.;'}

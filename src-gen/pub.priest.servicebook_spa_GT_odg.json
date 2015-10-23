@@ -25,6 +25,11 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|changebread', 'text' : 'Bendice, soberano, el Santo Pan.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|changewine', 'text' : 'Bendice, soberano, el Santo Cáliz.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessboth', 'text' : 'Bendice, soberano, ambos Santos.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|pliroma', 'text' : 'La completud del cáliz de la fe y del Espíritu Santo.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|zesis', 'text' : 'Fervor de la fe, pleno del Espíritu Santo.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|vadizo', 'text' : 'Ahora que me acerco a la Divina Comunión, Hacedor, no me consumas por comulgar; ya que Tú eres fuego que abrasa al indigno, sino purifícame de toda mancha.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|theurgon', 'text' : 'Tiembla, hombre, cuando contemples la sangre deificante: Es una brasa que consume al indigno. El Cuerpo de Dios deifica y alimenta; deifica el espíritu y maravillosamente alimenta la mente.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|deaconcommune', 'text' : 'Acércate, diácono.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon2', 'text' : 'Y entona la antífona correspondiente. Los domingos ordinarios (si no se celebra otra fiesta) se canta:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon3', 'text' : 'El coro canta el apolitiquio del día, o, en las grandes fiestas, el correspondiente.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kontakion1', 'text' : 'El coro canta, a continuación, los correspondientes troparios en el orden siguiente: De nuevo el apolitiquio de la Resurrección, si es domingo, o el de la fiesta. El apolitiquio o tropario del santo del día. El tropario del santo titular del templo. El condaquio.'}
@@ -52,3 +57,22 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessboth', 'text' : 'Y otra vez el diácono, señalando ambos Santos Dones, dice:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|epiclesis', 'text' : 'Y el sacerdote,  haciendo sobre ellos la señal de la Cruz ✠, dice:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|forvigilance', 'text' : 'E inclinándose ante la santa mesa, el sacerdote dice en voz baja:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessmercy', 'text' : 'El sacerdote, volviéndose hacia el pueblo y bendiciendo, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|communionhymn', 'text' : 'Y el coro entona el cántico de comunión correspondiente:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|communionhymnsunday', 'text' : 'Los domingos ordinarios (es decir, si no se celebra otra fiesta) se canta:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|crossorarion', 'text' : 'El diácono, después de decir “Estemos atentos…” entra en el santuario y se coloca ante la santa mesa, a la derecha del sacerdote, sosteniendo el Santo Pan, y dice al sacerdote:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|breakbread', 'text' : 'El sacerdote divide el Santo Pan en cuatro partes con cuidado y reverencia diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|placecrosswise', 'text' : 'El sacerdote acomoda las porciones del Santo Pan en el borde del discos en forma de Cruz.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|fillchalice', 'text' : 'Y el diácono, señalando el Santo Cáliz, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|ic', 'text' : 'El sacerdote toma la porción que tiene el sello IC, hace con ella la señal de la Cruz sobre el borde del Santo Cáliz, y la vierte en el Santo Cáliz diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|takezeon', 'text' : 'El diácono, llevando en el zeón el agua caliente al sacerdote para que la bendiga, dice: '}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blesszeon', 'text' : 'El sacerdote bendice el agua caliente, diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|pourzeon', 'text' : 'El diácono, sosteniendo cuidadosamente con su mano izquierda el Santo Cáliz, vierte suficiente cantidad de agua caliente en el Santo Cáliz en forma de Cruz, mientras el sacerdote dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|seepage', 'text' : 'Las oraciones para la Comunión son recitadas por el clero, en voz baja, y deben serlo, también, por aquellos que se preparan a recibir los Sagrados Misterios.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|approachbody', 'text' : 'Entonces se acercan para la Comunión. Y el sacerdote dice al diácono o a su concelebrante, o a otros que están presentes, inclinándose:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|xc', 'text' : 'Y acercándose a los Santos (Dones) con temor y reverencia, toma una porción del Santo Pan (la que tiene las letras XC ) y dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|wipehand', 'text' : 'El sacerdote consume la porción que tiene en sus manos con temor, reverencia y devoción.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune', 'text' : 'El diácono, extendiendo la palma de la mano derecha sobre la izquierda, en forma de cruz, se acerca al sacerdote diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune2', 'text' : 'El sacerdote coloca una porción del Cordero en las manos del diácono, diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune3', 'text' : 'El diácono besa la mano del sacerdote, recibe el Santo Pan y va detrás de la Santa Mesa, inclinando la cabeza toma la Comunión  que está en la palma de su mano. Lo mismo hacen los sacerdotes cuando concelebran. El primero de los sacerdotes, después de comulgar el Cuerpo Precioso lo da al diácono.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|chaliceandcloth', 'text' : 'El sacerdote, levantando el Cáliz con la cálima, dice:'}
