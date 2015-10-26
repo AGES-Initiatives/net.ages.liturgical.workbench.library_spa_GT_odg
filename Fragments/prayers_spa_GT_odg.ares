@@ -2,11 +2,17 @@ A_Resource_Whose_Name = prayers_spa_GT_odg
 
 Allilouia3.text = "¡Aleluya, aleluya, aleluya!"
 
+DoxaSoiChriste2 = "Gloria a ti, Dios, esperanza nuestra, gloria a ti."
+
 DoxaSoiKyrie = "Gloria a ti, Señor, gloria a ti."
 
 EvlogisonThymiama.text = "Bendice, soberano, el incienso."
 
 Thymiama.text = "Te ofrecemos el incienso a ti, Cristo Dios nuestro, como aroma de fragancia espiritual; recíbelo en tu celestial altar y envía sobre nosotros, en cambio, la gracia de tu Santísimo Espíritu. Amén. "
+
+EvlogitosOTheosImon.text = "Bendito sea nuestro Dios."
+
+PantoteNyn.text = "Perpetuamente, ahora y siempre y por los siglos de los siglos."
 
 PaterImon.text = "Padre nuestro, que estás en los cielos, santificado sea tu nombre, venga tu Reino, hágase tu voluntad en la tierra como en el cielo; danos hoy nuestro pan de cada día; perdona nuestras deudas así como nosotros perdonamos a nuestros deudores; no nos dejes caer en la tentación, y líbranos del Mal."
 
@@ -83,6 +89,8 @@ pet30 = "Un fin cristiano de nuestra vida, exento de dolor y de vergüenza, pac�
 pet31 = "Paz ✠ a todos."
 
 pet32 = "Inclinemos la cabeza ante el Señor."
+
+pet37 = "La bendición del Señor y su misericordia desciendan sobre ustedes, por su divina gracia y su amor a la Humanidad, eternamente, ahora y siempre y por los siglos de los siglos."
 
 res01 = "Señor, ten piedad."
 

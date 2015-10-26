@@ -9,6 +9,7 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|greatentrance|title', 'text' : 'ENTRADA MAYOR'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|litanygifts|title', 'text' : 'La letanía completiva'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|creed|title', 'text' : 'El Símbolo de la Fe'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|thanksdismissal|title', 'text' : 'Acción de gracias'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader', 'text' : 'Bendice soberano, a quien proclamará el Evangelio del santo y glorioso apóstol y evangelista N.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader2', 'text' : 'Que Dios, por la intercesión del santo, glorioso, apóstol y evangelista N., te conceda a ti evangelizador, voz con gran fuerza, para cumplimiento del Evangelio de su amado Hijo, nuestro Señor Jesús Cristo.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|cherubic2', 'text' : 'Para acoger al Rey de todos por angélicos e invisibles órdenes escoltado: ¡Aleluya, aleluya, aleluya!'}
@@ -30,6 +31,9 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|vadizo', 'text' : 'Ahora que me acerco a la Divina Comunión, Hacedor, no me consumas por comulgar; ya que Tú eres fuego que abrasa al indigno, sino purifícame de toda mancha.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|theurgon', 'text' : 'Tiembla, hombre, cuando contemples la sangre deificante: Es una brasa que consume al indigno. El Cuerpo de Dios deifica y alimenta; deifica el espíritu y maravillosamente alimenta la mente.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|deaconcommune', 'text' : 'Acércate, diácono.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|deaconcommune2', 'text' : 'Acércate, diácono.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|etimetadidotai', 'text' : 'A ti piadoso diácono N., te es comulgada la Preciosa, Santísima y Vivificante Sangre de Nuestro Señor, Dios y Salvador Jesús Cristo, para remisión de tus pecados y para la vida eterna. Amén.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|distributionprayershort', 'text' : 'El siervo de Dios, N., comulga los sagrados Cuerpo y Sangre de Nuestro Señor, Dios y Salvador, Jesús Cristo, para remisión de sus pecados y la vida eterna. Amén.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon2', 'text' : 'Y entona la antífona correspondiente. Los domingos ordinarios (si no se celebra otra fiesta) se canta:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon3', 'text' : 'El coro canta el apolitiquio del día, o, en las grandes fiestas, el correspondiente.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kontakion1', 'text' : 'El coro canta, a continuación, los correspondientes troparios en el orden siguiente: De nuevo el apolitiquio de la Resurrección, si es domingo, o el de la fiesta. El apolitiquio o tropario del santo del día. El tropario del santo titular del templo. El condaquio.'}
@@ -76,3 +80,20 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune2', 'text' : 'El sacerdote coloca una porción del Cordero en las manos del diácono, diciendo:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune3', 'text' : 'El diácono besa la mano del sacerdote, recibe el Santo Pan y va detrás de la Santa Mesa, inclinando la cabeza toma la Comunión  que está en la palma de su mano. Lo mismo hacen los sacerdotes cuando concelebran. El primero de los sacerdotes, después de comulgar el Cuerpo Precioso lo da al diácono.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|chaliceandcloth', 'text' : 'El sacerdote, levantando el Cáliz con la cálima, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|drinkthrice', 'text' : 'Luego el sacerdote recibe el santo y comulga sin decir nada con tres sorbos, enjuga sus labios con la cálima, y enseguida el borde del Cáliz por donde ha bebido. Después besa el Cáliz en el borde y levantándolo dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune4', 'text' : 'Después el sacerdote invita al diácono diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune5', 'text' : 'El diácono se acerca frente a la Santa Mesa y, después de desprender de sus dedos sobre el discos, con la esponja, toda partícula que tuviere en la mano, dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|chaliceandcloth', 'text' : 'El sacerdote le comulga por tres veces el Santo Cáliz diciendo:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|deaconcommune6', 'text' : 'Luego, limpiando él también con la cálima que tiene en las manos sus labios y el borde del Cáliz, besa el Santo Cáliz. Después de esto, el sacerdote dice, levantando el Santo Cáliz:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|nika', 'text' : 'Luego el diácono recibe el santo discο en su mano izquierda, y con dos dedos de su mano derecha, con la esponja, vierte las porciones del Santo Cuerpo (XΣ, NI y KA), que corta en pequeños fragmentos, en el Santo Cáliz, con gran reverencia y cuidado.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|approach', 'text' : 'El sacerdote cubre el Cáliz con la cálima y da el Cáliz y la cuchara al diácono. Estando en la Puerta Real mirando al occidente, el diácono eleva el Cáliz hacia el pueblo, y dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|distributionprayer', 'text' : 'Los fieles ortodoxos que se prepararon adecuadamente para recibir la Santa Comunión se acercan en este momento. El sacerdote dice a cada uno:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|toudeipnou', 'text' : 'Durante la comunión de los fieles el coro canta, generalmente, dependiendo del periodo litúrgico:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|replacechalice', 'text' : 'Al terminar de comulgar los fieles, el sacerdote bendice al pueblo con el Santo Cáliz, exclamando:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|wipeparticles', 'text' : 'El diácono vierte en el Santo Cáliz todas las porciones (de la Teotocos, de los Santos y de las almas) con temor y sumo cuidado, de tal modo que ninguna partícula, por pequeña que sea, quede afuera, y dice:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|censeexalt', 'text' : 'El sacerdote inciensa el Cáliz tres veces diciendo en voz baja:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|showcoversstar', 'text' : 'Luego entrega al diácono el santo discos con su cálima y él lo levanta sobre la cabeza con sus dos manos, y haciendo una inclinación hacia el pueblo, rodeando la Santa Mesa, lo lleva hasta la Santa Prótesis.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessed', 'text' : 'Y el sacerdote, haciendo una reverencia y recibiendo el Santo Cáliz cubierto, dice ante la Santa Mesa, en voz baja:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessed2', 'text' : 'Se vuelve entonces hacia el pueblo y exclama:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|ambonprayer', 'text' : 'El sacerdote, ante el icono de Cristo, dice en voz alta:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|pliromanomou', 'text' : 'Entre tanto, el sacerdote se dirige a la Mesa de la Oblación y dice allí:'}
