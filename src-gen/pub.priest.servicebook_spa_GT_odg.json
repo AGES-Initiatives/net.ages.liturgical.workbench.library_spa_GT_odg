@@ -10,6 +10,9 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|litanygifts|title', 'text' : 'La letanía completiva'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|creed|title', 'text' : 'El Símbolo de la Fe'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|thanksdismissal|title', 'text' : 'Acción de gracias'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|end|title', 'text' : 'FIN DE LA DIVINA LITURGIA <br> Y GLORIA A DIOS'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikia|title', 'text' : 'Apolitiquios'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|intones|title', 'text' : 'del Libro de Ocho Tonos'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader', 'text' : 'Bendice soberano, a quien proclamará el Evangelio del santo y glorioso apóstol y evangelista N.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessreader2', 'text' : 'Que Dios, por la intercesión del santo, glorioso, apóstol y evangelista N., te conceda a ti evangelizador, voz con gran fuerza, para cumplimiento del Evangelio de su amado Hijo, nuestro Señor Jesús Cristo.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|cherubic2', 'text' : 'Para acoger al Rey de todos por angélicos e invisibles órdenes escoltado: ¡Aleluya, aleluya, aleluya!'}
@@ -34,6 +37,7 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|deaconcommune2', 'text' : 'Acércate, diácono.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|etimetadidotai', 'text' : 'A ti piadoso diácono N., te es comulgada la Preciosa, Santísima y Vivificante Sangre de Nuestro Señor, Dios y Salvador Jesús Cristo, para remisión de tus pecados y para la vida eterna. Amén.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|distributionprayershort', 'text' : 'El siervo de Dios, N., comulga los sagrados Cuerpo y Sangre de Nuestro Señor, Dios y Salvador, Jesús Cristo, para remisión de sus pecados y la vida eterna. Amén.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|blessingmercy', 'text' : 'Que la bendición y la misericordia del Señor vengan a ti.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon2', 'text' : 'Y entona la antífona correspondiente. Los domingos ordinarios (si no se celebra otra fiesta) se canta:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundayantifon3', 'text' : 'El coro canta el apolitiquio del día, o, en las grandes fiestas, el correspondiente.'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|kontakion1', 'text' : 'El coro canta, a continuación, los correspondientes troparios en el orden siguiente: De nuevo el apolitiquio de la Resurrección, si es domingo, o el de la fiesta. El apolitiquio o tropario del santo del día. El tropario del santo titular del templo. El condaquio.'}
@@ -97,3 +101,20 @@
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|blessed2', 'text' : 'Se vuelve entonces hacia el pueblo y exclama:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|ambonprayer', 'text' : 'El sacerdote, ante el icono de Cristo, dice en voz alta:'}
 {'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|pliromanomou', 'text' : 'Entre tanto, el sacerdote se dirige a la Mesa de la Oblación y dice allí:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|giveantidoron', 'text' : 'El sacerdote distribuye el Andídoron diciendo a cada uno:'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|oanastas', 'text' : 'El que resucitó de entre los muertos'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|rubric|sundaydismissal', 'text' : '(si es domingo o Día de Pascua, por la mañana, si no, simplemente:)'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|ofsaint', 'text' : 'del santo'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|oftemple', 'text' : 'titular del templo;'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|fathersmothers', 'text' : 'de nuestros justos y teóforos Padres;'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|chrysostom', 'text' : 'de nuestro padre entre los santos Juan el Crisóstomo, arzobispo de Constantinopla (si es el caso: cuya Liturgia hoy celebramos);'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|ofday', 'text' : '(del día)'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|dis|memory', 'text' : 'cuya memoria celebramos;'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone1', 'text' : 'Estando la piedra sellada por los judíos, y mientras los soldados vigilaban tu purísimo cuerpo, te levantaste, Salvador, al tercer día, dando vida al mundo. Por ello las potestades de los cielos te aclamaron, Dador de Vida: ¡Gloria a tu Resurrección, Cristo! ¡Gloria a tu reino, gloria a tu economía, Tú, el único que amas a la humanidad!'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone2', 'text' : 'Al descender a la muerte, Vida Inmortal, diste muerte al infierno con el esplendor de tu divinidad. Y cuando de las entrañas de la tierra levantaste a los muertos, todas las potestades celestiales exclamaron: ¡Dador de la Vida, Cristo nuestro Dios, gloria a ti!'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone3', 'text' : 'Regocíjense los habitantes de los cielos, y alégrense los moradores de la tierra, porque el Señor ha hecho valentía con su brazo y ha vencido a la muerte con su muerte. Se ha hecho el Primogénito de entre los muertos, y nos ha salvado de las entrañas del infierno, concediendo al mundo grande misericordia.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone4', 'text' : 'Las mujeres discípulas del Señor conocieron por el ángel las nuevas alegres de la Resurrección, y arrojando la maldición ancestral anunciaron con regocijo a los apóstoles: ¡la muerte ha sido derrotada, Cristo nuestro Dios ha resucitado dando al mundo grande misericordia!'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone5', 'text' : 'Al Verbo, coeterno con el Padre y el Espíritu, nacido por nuestra salvación de una Virgen, fieles, adoremos y alabemos; pues Él quiso ser levantado en la Cruz, en la carne, y padecer la muerte; y levantar a los muertos por su gloriosa Resurrección.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone6', 'text' : 'Estando las potestades angelicales ante tu tumba, los que te vigilaban cayeron como muertos; y María, entrando en tu sepulcro, buscaba tu purísimo cuerpo. Te despojaste del Hades sin ser entrampado por él. Descendiste al encuentro de la virgen dando vida, Señor que resucitaste de entre los muertos: ¡Gloria a ti!'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone7', 'text' : 'Por tu Cruz has destruido la muerte, al ladrón has abierto el Paraíso, has tornado en regocijo los lamentos de las portadoras de mirra; y has mandado a tus apóstoles proclamar que Tú, Cristo Dios nuestro, has resucitado y concedes al mundo grande misericordia.'}
+{'id_' : 'pub|priest|servicebook_spa_GT_odg|li|apolytikiontone8', 'text' : 'De las alturas descendiste, Compasivo, queriendo sufrir la sepultura de tres días para librarnos de las pasiones: ¡Vida y Resurrección nuestra, Señor, gloria a ti!'}
