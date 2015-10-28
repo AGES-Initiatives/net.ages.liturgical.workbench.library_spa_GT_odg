@@ -1,6 +1,9 @@
 {'id_' : 'prayers_spa_GT_odg|AgiosOTheos|text', 'text' : 'Santo ✠ Dios, Santo Poderoso, Santo Inmortal, ten piedad de nosotros.'}
 {'id_' : 'prayers_spa_GT_odg|Allilouia3|text', 'text' : '¡Aleluya, aleluya, aleluya!'}
+{'id_' : 'prayers_spa_GT_odg|Allilouia3Doxa|text', 'text' : 'Aleluya, Aleluya, Aleluya. Gloria a ti, Dios.'}
 {'id_' : 'prayers_spa_GT_odg|DiEfchonPateron|text', 'text' : 'Por las oraciones de nuestros Santos Padres, Señor Jesús Cristo, Dios Nuestro, ten piedad de nosotros y sálvanos.'}
+{'id_' : 'prayers_spa_GT_odg|DoxaPatri|text', 'text' : 'Gloria al ✠ Padre y  al Hijo y al Espíritu Santo.'}
+{'id_' : 'prayers_spa_GT_odg|KaiNynKaiAei|text', 'text' : 'Ahora y siempre y por los siglos de los siglos. Amén.'}
 {'id_' : 'prayers_spa_GT_odg|DoxaSoiChriste2', 'text' : 'Gloria a ti, Dios, esperanza nuestra, gloria a ti.'}
 {'id_' : 'prayers_spa_GT_odg|DoxaSoiKyrie', 'text' : 'Gloria a ti, Señor, gloria a ti.'}
 {'id_' : 'prayers_spa_GT_odg|DoxaSoiOTheosImon|text', 'text' : 'Gloria a Ti, Dios Nuestro, Gloria a Ti.'}
@@ -50,6 +53,7 @@
 {'id_' : 'prayers_spa_GT_odg|pet31', 'text' : 'Paz ✠ a todos.'}
 {'id_' : 'prayers_spa_GT_odg|pet32', 'text' : 'Inclinemos la cabeza ante el Señor.'}
 {'id_' : 'prayers_spa_GT_odg|pet37', 'text' : 'La bendición del Señor y su misericordia desciendan sobre ustedes, por su divina gracia y su amor a la Humanidad, eternamente, ahora y siempre y por los siglos de los siglos.'}
+{'id_' : 'prayers_spa_GT_odg|petFuneral01', 'text' : 'De nuevo suplicamos por el descanso del alma del siervo/a de Dios N., difunto/a, quien ha caído dormido, y por el perdón de todos sus pecados, voluntarios e involuntarios.'}
 {'id_' : 'prayers_spa_GT_odg|res01', 'text' : 'Señor, ten piedad.'}
 {'id_' : 'prayers_spa_GT_odg|res02', 'text' : 'Concédelo, Señor.'}
 {'id_' : 'prayers_spa_GT_odg|res03', 'text' : 'A ti, Señor.'}
@@ -59,6 +63,7 @@
 {'id_' : 'prayers_spa_GT_odg|res08', 'text' : 'Bendice, soberano.'}
 {'id_' : 'prayers_spa_GT_odg|res13', 'text' : 'Bendice, santo soberano.'}
 {'id_' : 'prayers_spa_GT_odg|res10', 'text' : 'Amén. Amén. Amén.'}
+{'id_' : 'prayers_spa_GT_odg|res16', 'text' : '¡Memoria eterna!, ¡Memoria eterna!, ¡Que su memoria sea eterna!'}
 {'id_' : 'prayers_spa_GT_odg|exc01', 'text' : 'Porque a ti se debe toda gloria, honor y adoración, ✠ Padre, Hijo y Espíritu Santo, ahora y siempre y por los siglos de los siglos.'}
 {'id_' : 'prayers_spa_GT_odg|exc02', 'text' : 'Porque tuyo es el poder, y tuyos son el reinado, la fuerza y la gloria: del ✠ Padre, y del Hijo, y del Espíritu Santo, ahora y siempre y por los siglos de los siglos.'}
 {'id_' : 'prayers_spa_GT_odg|exc03', 'text' : 'Porque eres Dios bueno y amante de la humanidad, y a ti rendimos gloria: al ✠ Padre, y al Hijo, y al Espíritu Santo, ahora y siempre y por los siglos de los siglos.'}

@@ -4,7 +4,13 @@ AgiosOTheos.text = "Santo ✠ Dios, Santo Poderoso, Santo Inmortal, ten piedad d
 
 Allilouia3.text = "¡Aleluya, aleluya, aleluya!"
 
+Allilouia3Doxa.text = "Aleluya, Aleluya, Aleluya. Gloria a ti, Dios."
+
 DiEfchonPateron.text = "Por las oraciones de nuestros Santos Padres, Señor Jesús Cristo, Dios Nuestro, ten piedad de nosotros y sálvanos."
+
+DoxaPatri.text = "Gloria al ✠ Padre y  al Hijo y al Espíritu Santo."
+
+KaiNynKaiAei.text = "Ahora y siempre y por los siglos de los siglos. Amén."
 
 DoxaSoiChriste2 = "Gloria a ti, Dios, esperanza nuestra, gloria a ti."
 
@@ -104,6 +110,8 @@ pet32 = "Inclinemos la cabeza ante el Señor."
 
 pet37 = "La bendición del Señor y su misericordia desciendan sobre ustedes, por su divina gracia y su amor a la Humanidad, eternamente, ahora y siempre y por los siglos de los siglos."
 
+petFuneral01 = "De nuevo suplicamos por el descanso del alma del siervo/a de Dios N., difunto/a, quien ha caído dormido, y por el perdón de todos sus pecados, voluntarios e involuntarios."
+
 res01 = "Señor, ten piedad."
 
 res02 = "Concédelo, Señor."
@@ -121,6 +129,8 @@ res08 = "Bendice, soberano."
 res13 = "Bendice, santo soberano."
 
 res10 = "Amén. Amén. Amén."
+
+res16 = "¡Memoria eterna!, ¡Memoria eterna!, ¡Que su memoria sea eterna!"
 
 exc01 = "Porque a ti se debe toda gloria, honor y adoración, ✠ Padre, Hijo y Espíritu Santo, ahora y siempre y por los siglos de los siglos."
 
