@@ -728,386 +728,386 @@
 {'id_' : 'ps_spa_GT_odg|psa20|v13|text', 'text' : 'Pues tú harás que te den vuelta la espalda y contra ellos dispararás tus flechas.'}
 {'id_' : 'ps_spa_GT_odg|psa20|v14|number', 'text' : '(20:14)'}
 {'id_' : 'ps_spa_GT_odg|psa20|v14|text', 'text' : '¡Señor, levántate, muestra tu poder y cantaremos con salmos tus proezas!'}
-{'id_' : 'ps_spa_GT_odg|psa21|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa21|title', 'text' : 'Salmo 21 (22)'}
 {'id_' : 'ps_spa_GT_odg|psa21|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa21|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa21|text', 'text' : 'Dios mío, Dios mío, ¿por qué me abandonaste? ¡Las palabras que lanzo no me salvan! Mi Dios, de día llamo y no me atiendes, de noche, mas no encuentro mi reposo. Tú, sin embargo, estás en el Santuario, de allí sube hasta ti la alabanza de Israel. En ti nuestros padres esperaron, esperaban y tú los liberabas. A ti clamaban y quedaban libres, su espera puesta en ti no fue fallida. Mas yo soy un gusano y ya no un hombre, los hombres de mí tienen vergüenza y el pueblo me desprecia. Todos los que me ven, de mí se burlan, hacen muecas y mueven la cabeza: '¡Confía en el Señor, pues que lo libre, que lo salve si le tiene aprecio!' Me has sacado del vientre de mi madre, me has confiado a sus pechos maternales. Me entregaron a ti apenas nacido; tú eres mi Dios desde el seno materno. No te alejes de mí, que la angustia está cerca, y no hay nadie que pueda ayudarme. Me rodean novillos numerosos y me cercan los toros de Basán. Amenazándome abren sus hocicos como leones que desgarran y rugen. Yo soy como el arroyo que se escurre; todos mis huesos se han descoyuntado; mi corazón se ha vuelto como cera, dentro mis entrañas se derriten. Mi garganta está seca como teja, y al paladar mi lengua está pegada: ya están para echarme a la sepultura. Como perros de presa me rodean, me acorrala una banda de malvados. Han lastimado mis manos y mis pies. Con tanto mirarme y observarme pudieron contar todos mis huesos. Reparten entre sí mis vestiduras y mi túnica la tiran a la suerte. Pero tú, Señor, no te quedes lejos; ¡fuerza mía, corre a socorrerme! Libra tú de la espada mi alma, de las garras del can salva mi vida. Sálvame de la boca del león, y de los cuernos del toro lo poco que soy. Yo hablaré de tu Nombre a mis hermanos, te alabaré también en la asamblea. Alaben al Señor sus servidores, todo el linaje de Jacob lo aclame, toda la raza de Israel lo tema. porque no ha despreciado ni ha desdeñado al pobre en su miseria, no le ha vuelto la cara y a sus invocaciones le hizo caso. Para ti mi alabanza en la asamblea, mis votos cumpliré ante su vista. Los pobres comerán hasta saciarse, alabarán a Dios los que lo buscan: ¡vivan sus corazones para siempre! De Dios se acordará toda la tierra y a él se volverá, todos los pueblos, razas y naciones ante él se postrarán. ¡Rey es Dios, Señor de las naciones! Todo mortal honor le rendirá, se agacharán al verlo los que al sepulcro van. Para Dios será sólo mi existencia. Lo servirán mis hijos, hablarán del Señor a los que vengan, al pueblo que va a nacer: Que es justo, les dirán. Tal es su obra.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v1|number', 'text' : '(21:1)'}
 {'id_' : 'ps_spa_GT_odg|psa21|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa21|v2|number', 'text' : '(21:2)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v2|text', 'text' : 'Ὁ Θεός, ὁ Θεός μου, πρόσχες μοι· ἵνα τί ἐγκατέλιπές με; μακρὰν ἀπὸ τῆς σωτηρίας μου οἱ λόγοι τῶν παραπτωμάτων μου.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v2|text', 'text' : 'Dios mío, Dios mío, ¿por qué me abandonaste? ¡Las palabras que lanzo no me salvan!'}
 {'id_' : 'ps_spa_GT_odg|psa21|v2a|number', 'text' : '(21:2a)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v2a|text', 'text' : 'Ὁ Θεός, ὁ Θεός μου, πρόσχες μοι· ἵνα τί ἐγκατέλιπές με;'}
+{'id_' : 'ps_spa_GT_odg|psa21|v2a|text', 'text' : 'Dios mío, Dios mío, ¿por qué me abandonaste?'}
 {'id_' : 'ps_spa_GT_odg|psa21|v2b|number', 'text' : '(21:2b)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v2b|text', 'text' : 'Μακρὰν ἀπὸ τῆς σωτηρίας μου οἱ λόγοι τῶν παραπτωμάτων μου.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v2b|text', 'text' : '¡Las palabras que lanzo no me salvan!'}
 {'id_' : 'ps_spa_GT_odg|psa21|v3|number', 'text' : '(21:3)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v3|text', 'text' : 'Ὁ Θεός μου, κεκράξομαι ἡμέρας, καὶ οὐκ εἰσακούσῃ, καὶ νυκτός, καὶ οὐκ εἰς ἄνοιαν ἐμοί.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v3|text', 'text' : 'Mi Dios, de día llamo y no me atiendes, de noche, mas no encuentro mi reposo.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v4|number', 'text' : '(21:4)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v4|text', 'text' : 'Σὺ δὲ ἐν ἁγίῳ κατοικεῖς, ὁ ἔπαινος τοῦ Ἰσραήλ.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v4|text', 'text' : 'Tú, sin embargo, estás en el Santuario, de allí sube hasta ti la alabanza de Israel.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v5|number', 'text' : '(21:5)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v5|text', 'text' : 'Ἐπὶ σοὶ ἤλπισαν οἱ πατέρες ἡμῶν, ἤλπισαν, καὶ ἐῤῥύσω αὐτούς·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v5|text', 'text' : 'En ti nuestros padres esperaron, esperaban y tú los liberabas.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v6|number', 'text' : '(21:6)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v6|text', 'text' : 'Πρὸς σὲ ἐκέκραξαν καὶ ἐσώθησαν, ἐπὶ σοὶ ἤλπισαν καὶ οὐ κατῃσχύνθησαν.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v6|text', 'text' : 'A ti clamaban y quedaban libres, su espera puesta en ti no fue fallida.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v7|number', 'text' : '(21:7)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v7|text', 'text' : 'Ἐγὼ δέ εἰμι σκώληξ καὶ οὐκ ἄνθρωπος, ὄνειδος ἀνθρώπων καὶ ἐξουθένημα λαοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v7|text', 'text' : 'Mas yo soy un gusano y ya no un hombre, los hombres de mí tienen vergüenza y el pueblo me desprecia.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v8|number', 'text' : '(21:8)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v8|text', 'text' : 'Πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με, ἐλάλησαν ἐν χείλεσιν, ἐκίνησαν κεφαλήν·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v8|text', 'text' : 'Todos los que me ven, de mí se burlan, hacen muecas y mueven la cabeza:'}
 {'id_' : 'ps_spa_GT_odg|psa21|v9|number', 'text' : '(21:9)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v9|text', 'text' : 'Ἤλπισεν ἐπὶ Κύριον, ῥυσάσθω αὐτόν· σωσάτω αὐτόν, ὅτι θέλει αὐτόν.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v9|text', 'text' : ''¡Confía en el Señor, pues que lo libre, que lo salve si le tiene aprecio!''}
 {'id_' : 'ps_spa_GT_odg|psa21|v10|number', 'text' : '(21:10)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v10|text', 'text' : 'Ὅτι σὺ εἶ ὁ ἐκσπάσας με ἐκ γαστρός, ἡ ἐλπίς μου ἀπὸ μαστῶν τῆς μητρός μου·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v10|text', 'text' : 'Me has sacado del vientre de mi madre, me has confiado a sus pechos maternales.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v11|number', 'text' : '(21:11)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v11|text', 'text' : 'Ἐπὶ σὲ ἐπεῤῥίφην ἐκ μήτρας, ἐκ κοιλίας μητρός μου Θεός μου εἶ σύ·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v11|text', 'text' : 'Me entregaron a ti apenas nacido; tú eres mi Dios desde el seno materno.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v12|number', 'text' : '(21:12)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v12|text', 'text' : 'Μὴ ἀποστῇς ἀπ' ἐμοῦ, ὅτι θλῖψις ἐγγύς, ὅτι οὐκ ἔστιν ὁ βοηθῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v12|text', 'text' : 'No te alejes de mí, que la angustia está cerca, y no hay nadie que pueda ayudarme.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v13|number', 'text' : '(21:13)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v13|text', 'text' : 'Περιεκύκλωσάν με μόσχοι πολλοί, ταῦροι πίονες περιέσχον με·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v13|text', 'text' : 'Me rodean novillos numerosos y me cercan los toros de Basán.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v14|number', 'text' : '(21:14)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v14|text', 'text' : 'Ἤνοιξαν ἐπ' ἐμὲ τὸ στόμα αὐτῶν ὡς λέων ἁρπάζων καὶ ὠρυόμενος.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v14|text', 'text' : 'Amenazándome abren sus hocicos como leones que desgarran y rugen.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v15|number', 'text' : '(21:15)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v15|text', 'text' : 'Ὡσεὶ ὕδωρ ἐξεχύθην, καὶ διεσκορπίσθη πάντα τὰ ὀστᾶ μου, ἐγενήθη ἡ καρδία μου ὡσεὶ κηρὸς τηκόμενος ἐν μέσῳ τῆς κοιλίας μου·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v15|text', 'text' : 'Yo soy como el arroyo que se escurre; todos mis huesos se han descoyuntado; mi corazón se ha vuelto como cera, dentro mis entrañas se derriten.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v16|number', 'text' : '(21:16)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v16|text', 'text' : 'Ἐξηράνθη ὡσεὶ ὄστρακον ἡ ἰσχύς μου, καὶ ἡ γλῶσσά μου κεκόλληται τῷ λάρυγγί μου, καὶ εἰς χοῦν θανάτου κατήγαγές με.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v16|text', 'text' : 'Mi garganta está seca como teja, y al paladar mi lengua está pegada: ya están para echarme a la sepultura.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v17|number', 'text' : '(21:17)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v17|text', 'text' : 'Ὅτι ἐκύκλωσάν με κύνες πολλοί, συναγωγὴ πονηρευομένων περιέσχον με, ὤρυξαν χεῖράς μου καὶ πόδας.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v17|text', 'text' : 'Como perros de presa me rodean, me acorrala una banda de malvados. Han lastimado mis manos y mis pies.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v18|number', 'text' : '(21:18)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v18|text', 'text' : 'Ἐξηρίθμησαν πάντα τὰ ὀστᾶ μου, αὐτοὶ δὲ κατενόησαν καὶ ἐπεῖδόν με.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v18|text', 'text' : 'Con tanto mirarme y observarme pudieron contar todos mis huesos.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v19|number', 'text' : '(21:19)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v19|text', 'text' : 'Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v19|text', 'text' : 'Reparten entre sí mis vestiduras y mi túnica la tiran a la suerte.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v20|number', 'text' : '(21:20)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v20|text', 'text' : 'Σὺ δέ, Κύριε, μὴ μακρύνῃς τὴν βοήθειάν μου ἀπ' ἐμοῦ, εἰς τὴν ἀντίληψίν μου πρόσχες.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v20|text', 'text' : 'Pero tú, Señor, no te quedes lejos; ¡fuerza mía, corre a socorrerme!'}
 {'id_' : 'ps_spa_GT_odg|psa21|v21|number', 'text' : '(21:21)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v21|text', 'text' : 'Ρῦσαι ἀπὸ ῥομφαίας τὴν ψυχήν μου, καὶ ἐκ χειρὸς κυνὸς τὴν μονογενῆ μου·'}
+{'id_' : 'ps_spa_GT_odg|psa21|v21|text', 'text' : 'Libra tú de la espada mi alma, de las garras del can salva mi vida.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v22|number', 'text' : '(21:22)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v22|text', 'text' : 'Σῶσόν με ἐκ στόματος λέοντος καὶ ἀπὸ κεράτων μονοκερώτων τὴν ταπείνωσίν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v22|text', 'text' : 'Sálvame de la boca del león, y de los cuernos del toro lo poco que soy.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v23|number', 'text' : '(21:23)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v23|text', 'text' : 'Διηγήσομαι τὸ ὄνομά σου τοῖς ἀδελφοῖς μου, ἐν μέσῳ ἐκκλησίας ὑμνήσω σε.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v23|text', 'text' : 'Yo hablaré de tu Nombre a mis hermanos, te alabaré también en la asamblea.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v24|number', 'text' : '(21:24)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v24|text', 'text' : 'Οἱ φοβούμενοι τὸν Κύριον, αἰνέσατε αὐτόν, ἅπαν τὸ σπέρμα Ἰακώβ, δοξάσατε αὐτόν, φοβηθήτωσαν αὐτὸν ἅπαν τὸ σπέρμα Ἰσραήλ,'}
+{'id_' : 'ps_spa_GT_odg|psa21|v24|text', 'text' : 'Alaben al Señor sus servidores, todo el linaje de Jacob lo aclame, toda la raza de Israel lo tema.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v25|number', 'text' : '(21:25)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v25|text', 'text' : 'Ὅτι οὐκ ἐξουδένωσεν οὐδὲ προσώχθισε τῇ δεήσει τοῦ πτωχοῦ, οὐδὲ ἀπέστρεψε τὸ πρόσωπον αὐτοῦ ἀπ' ἐμοῦ καὶ ἐν τῷ κεκραγέναι με πρὸς αὐτὸν εἰσήκουσέ μου.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v25|text', 'text' : 'porque no ha despreciado ni ha desdeñado al pobre en su miseria, no le ha vuelto la cara y a sus invocaciones le hizo caso.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v26|number', 'text' : '(21:26)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v26|text', 'text' : 'Παρὰ σοῦ ὁ ἔπαινός μου ἐν ἐκκλησίᾳ μεγάλῃ, τὰς εὐχάς μου ἀποδώσω ἐνώπιον τῶν φοβουμένων αὐτόν.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v26|text', 'text' : 'Para ti mi alabanza en la asamblea, mis votos cumpliré ante su vista.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v27|number', 'text' : '(21:27)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v27|text', 'text' : 'Φάγονται πένητες καὶ ἐμπλησθήσονται, καὶ αἰνέσουσι Κύριον οἱ ἐκζητοῦντες αὐτόν· ζήσονται αἱ καρδίαι αὐτῶν εἰς αἰῶνα αἰῶνος.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v27|text', 'text' : 'Los pobres comerán hasta saciarse, alabarán a Dios los que lo buscan: ¡vivan sus corazones para siempre!'}
 {'id_' : 'ps_spa_GT_odg|psa21|v28|number', 'text' : '(21:28)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v28|text', 'text' : 'Μνησθήσονται καὶ ἐπιστραφήσονται πρὸς Κύριον πάντα τὰ πέρατα τῆς γῆς καὶ προσκυνήσουσιν ἐνώπιον αὐτοῦ πᾶσαι αἱ πατριαὶ τῶν ἐθνῶν,'}
+{'id_' : 'ps_spa_GT_odg|psa21|v28|text', 'text' : 'De Dios se acordará toda la tierra y a él se volverá; todos los pueblos, razas y naciones ante él se postrarán.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v29|number', 'text' : '(21:29)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v29|text', 'text' : 'Ὅτι τοῦ Κυρίου ἡ βασιλεία, καὶ αὐτὸς δεσπόζει τῶν ἐθνῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa21|v29|text', 'text' : '¡Rey es Dios, Señor de las naciones! Todo mortal honor le rendirá,'}
 {'id_' : 'ps_spa_GT_odg|psa21|v30|number', 'text' : '(21:30)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v30|text', 'text' : 'Ἔφαγον καὶ προσεκύνησαν πάντες οἱ πίονες τῆς γῆς, ἐνώπιον αὐτοῦ προπεσοῦνται πάντες οἱ καταβαίνοντες εἰς γῆν. καὶ ἡ ψυχή μου αὐτῷ ζῇ,'}
+{'id_' : 'ps_spa_GT_odg|psa21|v30|text', 'text' : 'se agacharán al verlo los que al sepulcro van. Para Dios será sólo mi existencia.'}
 {'id_' : 'ps_spa_GT_odg|psa21|v31|number', 'text' : '(21:31)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v31|text', 'text' : 'Καὶ τὸ σπέρμα μου δουλεύσει αὐτῷ· ἀναγγελήσεται τῷ Κυρίῳ γενεὰ ἡ ἐρχομένη,'}
+{'id_' : 'ps_spa_GT_odg|psa21|v31|text', 'text' : 'Lo servirán mis hijos, hablarán del Señor a los que vengan,'}
 {'id_' : 'ps_spa_GT_odg|psa21|v32|number', 'text' : '(21:32)'}
-{'id_' : 'ps_spa_GT_odg|psa21|v32|text', 'text' : 'Καὶ ἀναγγελοῦσι τὴν δικαιοσύνην αὐτοῦ λαῷ τῷ τεχθησομένῳ, ὃν ἐποίησεν ὁ Κύριος.'}
-{'id_' : 'ps_spa_GT_odg|psa22|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa21|v32|text', 'text' : 'al pueblo que va a nacer: Que es justo, les dirán. Tal es su obra.'}
+{'id_' : 'ps_spa_GT_odg|psa22|title', 'text' : 'Salmo 22 (23)'}
 {'id_' : 'ps_spa_GT_odg|psa22|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa22|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa22|text', 'text' : 'El Señor es mi pastor: nada me falta; en verdes pastos él me hace reposar. A las aguas de descanso me conduce, y reconforta mi alma. Por el camino del bueno me dirige, por amor de su nombre. Aunque pase por quebradas oscuras, no temo ningún mal, porque tú estás conmigo con tu vara y tu bastón, y al verlas voy sin miedo. La mesa has preparado para mí frente a mis adversarios, con aceites perfumas mi cabeza y rellenas mi copa. Irán conmigo la dicha y tu favor mientras dura mi vida, mi mansión será la casa del Señora por largos, largos días.'}
 {'id_' : 'ps_spa_GT_odg|psa22|v1|number', 'text' : '(22:1)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v1|text', 'text' : 'Κύριος ποιμαίνει με καὶ οὐδέν με ὑστερήσει.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v1|text', 'text' : 'El Señor es mi pastor: nada me falta;'}
 {'id_' : 'ps_spa_GT_odg|psa22|v2|number', 'text' : '(22:2)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v2|text', 'text' : 'Εἰς τόπον χλόης, ἐκεῖ με κατεσκήνωσεν, ἐπὶ ὕδατος ἀναπαύσεως ἐξέθρεψέ με,'}
+{'id_' : 'ps_spa_GT_odg|psa22|v2|text', 'text' : 'en verdes pastos él me hace reposar. A las aguas de descanso me conduce,'}
 {'id_' : 'ps_spa_GT_odg|psa22|v3|number', 'text' : '(22:3)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v3|text', 'text' : 'Τὴν ψυχήν μου ἐπέστρεψεν. ὡδήγησέ με ἐπὶ τρίβους δικαιοσύνης ἕνεκεν τοῦ ὀνόματος αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v3|text', 'text' : 'y reconforta mi alma. Por el camino del bueno me dirige, por amor de su nombre.'}
 {'id_' : 'ps_spa_GT_odg|psa22|v4|number', 'text' : '(22:4)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v4|text', 'text' : 'Ἐὰν γὰρ καὶ πορευθῶ ἐν μέσῳ σκιᾶς θανάτου, οὐ φοβηθήσομαι κακά, ὅτι σὺ μετ' ἐμοῦ εἶ· ἡ ράβδος σου καὶ ἡ βακτηρία σου, αὗταί με παρεκάλεσαν.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v4|text', 'text' : 'Aunque pase por quebradas oscuras, no temo ningún mal, porque tú estás conmigo con tu vara y tu bastón, y al verlas voy sin miedo.'}
 {'id_' : 'ps_spa_GT_odg|psa22|v4a|number', 'text' : '(22:4a)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v4a|text', 'text' : 'Ἐὰν γὰρ καὶ πορευθῶ ἐν μέσῳ σκιᾶς θανάτου, οὐ φοβηθήσομαι κακά, ὅτι σὺ μετ' ἐμοῦ εἶ.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v4a|text', 'text' : 'Aunque pase por quebradas oscuras, no temo ningún mal, porque tú estás conmigo'}
 {'id_' : 'ps_spa_GT_odg|psa22|v4b|number', 'text' : '(22:4b)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v4b|text', 'text' : 'Ἡ ράβδος σου καὶ ἡ βακτηρία σου, αὗταί με παρεκάλεσαν.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v4b|text', 'text' : 'con tu vara y tu bastón, y al verlas voy sin miedo.'}
 {'id_' : 'ps_spa_GT_odg|psa22|v5|number', 'text' : '(22:5)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v5|text', 'text' : 'Ἡτοίμασας ἐνώπιόν μου τράπεζαν, ἐξεναντίας τῶν θλιβόντων με· ἐλίπανας ἐν ἐλαίῳ τὴν κεφαλήν μου, καὶ τὸ ποτήριόν σου μεθύσκον με ὡσεὶ κράτιστον.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v5|text', 'text' : 'La mesa has preparado para mí frente a mis adversarios, con aceites perfumas mi cabeza y rellenas mi copa.'}
 {'id_' : 'ps_spa_GT_odg|psa22|v6|number', 'text' : '(22:6)'}
-{'id_' : 'ps_spa_GT_odg|psa22|v6|text', 'text' : 'Καὶ τὸ ἔλεός σου καταδιώξει με πάσας τὰς ἡμέρας τῆς ζωῆς μου, καὶ τὸ κατοικεῖν με ἐν οἴκῳ Κυρίου εἰς μακρότητα ἡμερῶν.'}
-{'id_' : 'ps_spa_GT_odg|psa22|v6alt|text', 'text' : 'Τὸ ἔλεός σου, Κύριε, καταδιώξει με πάσας τὰς ἡμέρας τῆς ζωῆς μου.'}
-{'id_' : 'ps_spa_GT_odg|psa23|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa22|v6|text', 'text' : 'Irán conmigo la dicha y tu favor mientras dura mi vida, mi mansión será la casa del Señora por largos, largos días.'}
+{'id_' : 'ps_spa_GT_odg|psa22|v6alt|text', 'text' : 'Señor, tu favor irá conmigo mientras dura mi vida.'}
+{'id_' : 'ps_spa_GT_odg|psa23|title', 'text' : 'Salmo 23 (24)'}
 {'id_' : 'ps_spa_GT_odg|psa23|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa23|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa23|text', 'text' : 'Del Señor es la tierra y lo que contiene, el mundo y todos sus habitantes; pues él la edifició sobre los mares, y la puso más arriba que las aguas. ¿Quién subirá a la montaña del Señor? ¿quién estará de pie en su santo recinto? El de manos limpias y de puro corazón, el que no pone su alma en cosas vanas ni jura con engaño. se obtendrá la bendición del Señor y la aprobación de Dios, su salvador. Así es la raza de los que Le buscan, de los que buscan tu rostro, ¡Dios de Jacob! ¡Ea puertas, levanten sus dinteles, elévense, portones eternos, y que pase el Rey de la gloria! ¿Quién es ese Rey de la gloria? El Señor, el fuerte, el poderoso, el Señor, valiente en la batalla. ¡Puertas, levanten sus dinteles, elévense, portones eternos y que pase el Rey de la gloria! ¿Quién es ese Rey de la gloria? Es Yahvé, Dios de los Ejércitos, él es el Rey de la Gloria.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v1|number', 'text' : '(23:1)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v1|text', 'text' : 'Τοῦ Κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς, ἡ οἰκουμένη καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v1|text', 'text' : 'Del Señor es la tierra y lo que contiene, el mundo y todos sus habitantes;'}
 {'id_' : 'ps_spa_GT_odg|psa23|v2|number', 'text' : '(23:2)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v2|text', 'text' : 'Αὐτὸς ἐπὶ θαλασσῶν ἐθεμελίωσεν αὐτὴν καὶ ἐπὶ ποταμῶν ἡτοίμασεν αὐτήν.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v2|text', 'text' : 'pues él la edifició sobre los mares, y la puso más arriba que las aguas.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v3|number', 'text' : '(23:3)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v3|text', 'text' : 'Τίς ἀναβήσεται εἰς τὸ ὄρος τοῦ Κυρίου καὶ τίς στήσεται ἐν τόπῳ ἁγίῳ αὐτοῦ;'}
+{'id_' : 'ps_spa_GT_odg|psa23|v3|text', 'text' : '¿Quién subirá a la montaña del Señor? ¿quién estará de pie en su santo recinto?'}
 {'id_' : 'ps_spa_GT_odg|psa23|v4|number', 'text' : '(23:4)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v4|text', 'text' : 'Ἀθῷος χερσὶ καὶ καθαρὸς τῇ καρδίᾳ, ὃς οὐκ ἔλαβεν ἐπὶ ματαίῳ τὴν ψυχὴν αὐτοῦ καὶ οὐκ ὤμοσεν ἐπὶ δόλῳ τῷ πλησίον αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v4|text', 'text' : 'El de manos limpias y de puro corazón, el que no pone su alma en cosas vanas ni jura con engaño.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v5|number', 'text' : '(23:5)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v5|text', 'text' : 'Οὗτος λήψεται εὐλογίαν παρὰ Κυρίου καὶ ἐλεημοσύνην παρὰ Θεοῦ σωτῆρος αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v5|text', 'text' : 'se obtendrá la bendición del Señor y la aprobación de Dios, su salvador.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v6|number', 'text' : '(23:6)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v6|text', 'text' : 'Αὕτη ἡ γενεὰ ζητούντων τὸν Κύριον, ζητούντων τὸ πρόσωπον τοῦ Θεοῦ Ἰακώβ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v6|text', 'text' : 'Así es la raza de los que Le buscan, de los que buscan tu rostro, ¡Dios de Jacob!'}
 {'id_' : 'ps_spa_GT_odg|psa23|v7|number', 'text' : '(23:7)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v7|text', 'text' : 'Ἄρατε πύλας, οἱ ἄρχοντες ὑμῶν, καὶ ἐπάρθητε, πύλαι αἰώνιοι, καὶ εἰσελεύσεται ὁ Βασιλεὺς τῆς δόξης.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v7|text', 'text' : '¡Ea puertas, levanten sus dinteles, elévense, portones eternos, y que pase el Rey de la gloria!'}
 {'id_' : 'ps_spa_GT_odg|psa23|v8|number', 'text' : '(23:8)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v8|text', 'text' : 'Τίς ἐστιν οὗτος ὁ Βασιλεὺς τῆς δόξης; Κύριος κραταιὸς καὶ δυνατός, Κύριος δυνατὸς ἐν πολέμῳ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v8|text', 'text' : '¿Quién es ese Rey de la gloria? El Señor, el fuerte, el poderoso, el Señor, valiente en la batalla.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v8a|number', 'text' : '(23:8a)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v8a|text', 'text' : 'Τίς ἐστιν οὗτος ὁ Βασιλεὺς τῆς δόξης;'}
+{'id_' : 'ps_spa_GT_odg|psa23|v8a|text', 'text' : '¿Quién es ese Rey de la gloria?'}
 {'id_' : 'ps_spa_GT_odg|psa23|v8b|number', 'text' : '(23:8b)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v8b|text', 'text' : 'Κύριος κραταιὸς καὶ δυνατός, Κύριος δυνατὸς ἐν πολέμῳ.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v8b|text', 'text' : 'El Señor, el fuerte, el poderoso, el Señor, valiente en la batalla.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v9|number', 'text' : '(23:9)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v9|text', 'text' : 'Ἄρατε πύλας, οἱ ἄρχοντες ὑμῶν, καὶ ἐπάρθητε, πύλαι αἰώνιοι, καὶ εἰσελεύσεται ὁ Βασιλεὺς τῆς δόξης.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v9|text', 'text' : '¡Puertas, levanten sus dinteles, elévense, portones eternos y que pase el Rey de la gloria!'}
 {'id_' : 'ps_spa_GT_odg|psa23|v10|number', 'text' : '(23:10)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v10|text', 'text' : 'Τίς ἐστιν οὗτος ὁ Βασιλεὺς τῆς δόξης; Κύριος τῶν δυνάμεων, αὐτός ἐστιν ὁ Βασιλεὺς τῆς δόξης.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v10|text', 'text' : '¿Quién es ese Rey de la gloria? Es Yahvé, Dios de los Ejércitos, él es el Rey de la Gloria.'}
 {'id_' : 'ps_spa_GT_odg|psa23|v10a|number', 'text' : '(23:10a)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v10a|text', 'text' : 'Τίς ἐστιν οὗτος ὁ Βασιλεὺς τῆς δόξης;'}
+{'id_' : 'ps_spa_GT_odg|psa23|v10a|text', 'text' : '¿Quién es ese Rey de la gloria?'}
 {'id_' : 'ps_spa_GT_odg|psa23|v10b|number', 'text' : '(23:10b)'}
-{'id_' : 'ps_spa_GT_odg|psa23|v10b|text', 'text' : 'Κύριος τῶν δυνάμεων, αὐτός ἐστιν ὁ Βασιλεὺς τῆς δόξης.'}
+{'id_' : 'ps_spa_GT_odg|psa23|v10b|text', 'text' : 'Es Yahvé, Dios de los Ejércitos, él es el Rey de la Gloria.'}
 {'id_' : 'ps_spa_GT_odg|kathisma_4|title', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa24|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa24|title', 'text' : 'Salmo 24 (25)'}
 {'id_' : 'ps_spa_GT_odg|psa24|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa24|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa24|text', 'text' : 'A ti, Señor, elevo mi alma, a ti que eres mi Dios. En ti he confiado, que no quede avergonzado ni se rían de mí mis enemigos. Los que esperan en ti no serán confundidos, pero sí lo serán quienes te mienten. Haz, Señor, que conozca tus caminos, muéstrame tus senderos. En tu verdad guía mis pasos, instrúyeme, tú que eres mi Dios y mi Salvador. Te estuve esperando todo el día, sé bueno conmigo y acuérdate de mí. Acuérdate que has sido compasivo y generoso desde toda la eternidad. No recuerdes las faltas ni los extravíos de mi juventud; pero acuérdate de mí según tu amor. El Señor es bueno y recto; por eso muestra el camino a los que han pecado. Dirige los pasos de los humildes, y muestra a los sencillos el camino. Amor y lealtad son todos sus caminos, para el que guarda su alianza y sus mandatos. ¡Rinde honor a tu nombre, Señor, y perdona mi deuda, que es muy grande! En cuanto un hombre teme al Señor, él le enseña a escoger su camino. Su alma en la dicha morará, y sus hijos heredarán la tierra. El secreto del Señor es para quien lo teme, le da el conocimiento de su alianza. Mis ojos nunca se apartan del Señor, pues él saca mis pies de la trampa. Mírame y ten compasión de mí, que estoy solo y desvalido. Afloja lo que aprieta mi corazón y hazme salir de mis angustias. Contempla mi miseria y mi fatiga y quítame de encima todos mis pecados. Mira cuántos son mis enemigos y con qué odio violento me persiguen. Defiende mi vida, líbrame: no quede confundido de haber confiado en ti. Integridad y rectitud me guardarán, en ti, Señor, he puesto mi confianza. Oh Dios, redime a Israel de todas sus angustias.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v1|number', 'text' : '(24:1)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v1|text', 'text' : 'Πρὸς σέ, Κύριε, ἦρα τὴν ψυχήν μου, ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v1|text', 'text' : 'A ti, Señor, elevo mi alma, a ti que eres mi Dios.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v2|number', 'text' : '(24:2)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v2|text', 'text' : 'Ἐπὶ σοὶ πέποιθα· μὴ καταισχυνθείην, μηδὲ καταγελασάτωσάν με οἱ ἐχθροί μου.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v2|text', 'text' : 'En ti he confiado, que no quede avergonzado ni se rían de mí mis enemigos.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v3|number', 'text' : '(24:3)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v3|text', 'text' : 'Καὶ γὰρ πάντες οἱ ὑπομένοντές σε οὐ μὴ καταισχυνθῶσιν· αἰσχυνθήτωσαν οἱ ἀνομοῦντες διακενῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v3|text', 'text' : 'Los que esperan en ti no serán confundidos, pero sí lo serán quienes te mienten.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v4|number', 'text' : '(24:4)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v4|text', 'text' : 'Τὰς ὁδούς σου, Κύριε, γνώρισόν μοι, καὶ τὰς τρίβους σου δίδαξόν με.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v4|text', 'text' : 'Haz, Señor, que conozca tus caminos, muéstrame tus senderos.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v5|number', 'text' : '(24:5)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v5|text', 'text' : 'Ὁδήγησόν με ἐπὶ τὴν ἀλήθειάν σου καὶ δίδαξόν με, ὅτι σὺ εἶ ὁ Θεὸς ὁ σωτήρ μου, καὶ σὲ ὑπέμεινα ὅλην τὴν ἡμέραν.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v5|text', 'text' : 'En tu verdad guía mis pasos, instrúyeme, tú que eres mi Dios y mi Salvador. Te estuve esperando todo el día, sé bueno conmigo y acuérdate de mí.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v6|number', 'text' : '(24:6)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v6|text', 'text' : 'Μνήσθητι τῶν οἰκτιρμῶν σου, Κύριε, καὶ τὰ ἐλέη σου, ὅτι ἀπὸ τοῦ αἰῶνός εἰσιν.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v6|text', 'text' : 'Acuérdate que has sido compasivo y generoso desde toda la eternidad.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v7|number', 'text' : '(24:7)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v7|text', 'text' : 'Ἁμαρτίας νεότητός μου καὶ ἀγνοίας μου μὴ μνησθῇς· κατὰ τὸ ἔλεός σου μνήσθητί μου, σύ, ἕνεκεν χρηστότητός σου, Κύριε.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v7|text', 'text' : 'No recuerdes las faltas ni los extravíos de mi juventud; pero acuérdate de mí según tu amor.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v8|number', 'text' : '(24:8)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v8|text', 'text' : 'Χρηστὸς καὶ εὐθὴς ὁ Κύριος· διὰ τοῦτο νομοθετήσει ἁμαρτάνοντας ἐν ὁδῷ.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v8|text', 'text' : 'El Señor es bueno y recto; por eso muestra el camino a los que han pecado.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v9|number', 'text' : '(24:9)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v9|text', 'text' : 'Ὁδηγήσει πραεῖς ἐν κρίσει, διδάξει πραεῖς ὁδοὺς αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v9|text', 'text' : 'Dirige los pasos de los humildes, y muestra a los sencillos el camino.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v10|number', 'text' : '(24:10)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v10|text', 'text' : 'Πᾶσαι αἱ ὁδοὶ Κυρίου ἔλεος καὶ ἀλήθεια τοῖς ἐκζητοῦσι τὴν διαθήκην αὐτοῦ καὶ τὰ μαρτύρια αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v10|text', 'text' : 'Amor y lealtad son todos sus caminos, para el que guarda su alianza y sus mandatos.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v11|number', 'text' : '(24:11)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v11|text', 'text' : 'Ἕνεκεν τοῦ ὀνόματός σου, Κύριε, καὶ ἱλάσῃ τῇ ἁμαρτίᾳ μου, πολλὴ γάρ ἐστι.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v11|text', 'text' : '¡Rinde honor a tu nombre, Señor, y perdona mi deuda, que es muy grande!'}
 {'id_' : 'ps_spa_GT_odg|psa24|v12|number', 'text' : '(24:12)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v12|text', 'text' : 'Τίς ἐστιν ἄνθρωπος ὁ φοβούμενος τὸν Κύριον; νομοθετήσει αὐτῷ ἐν ὁδῷ, ᾗ ᾑρετίσατο.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v12|text', 'text' : 'En cuanto un hombre teme al Señor, él le enseña a escoger su camino.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v13|number', 'text' : '(24:13)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v13|text', 'text' : 'Ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται, καὶ τὸ σπέρμα αὐτοῦ κληρονομήσει γῆν.'}
-{'id_' : 'ps_spa_GT_odg|psa24|v13alt|text', 'text' : 'Αἱ ψυχαὶ αὐτῶν ἐν ἀγαθοῖς αὐλισθήσονται.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v13|text', 'text' : 'Su alma en la dicha morará, y sus hijos heredarán la tierra.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v13alt|text', 'text' : 'Sus almas en la dicha morará.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v14|number', 'text' : '(24:14)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v14|text', 'text' : 'Κραταίωμα Κύριος τῶν φοβουμένων αὐτόν, καὶ ἡ διαθήκη αὐτοῦ δηλώσει αὐτοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v14|text', 'text' : 'El secreto del Señor es para quien lo teme, le da el conocimiento de su alianza.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v15|number', 'text' : '(24:15)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v15|text', 'text' : 'Οἱ ὀφθαλμοί μου διὰ παντὸς πρὸς τὸν Κύριον, ὅτι αὐτὸς ἐκσπάσει ἐκ παγίδος τοὺς πόδας μου.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v15|text', 'text' : 'Mis ojos nunca se apartan del Señor, pues él saca mis pies de la trampa.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v16|number', 'text' : '(24:16)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v16|text', 'text' : 'Ἐπίβλεψον ἐπ' ἐμὲ καὶ ἐλέησόν με, ὅτι μονογενὴς καὶ πτωχός εἰμι ἐγώ.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v16|text', 'text' : 'Mírame y ten compasión de mí, que estoy solo y desvalido.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v17|number', 'text' : '(24:17)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v17|text', 'text' : 'Αἱ θλίψεις τῆς καρδίας μου ἐπληθύνθησαν· ἐκ τῶν ἀναγκῶν μου ἐξάγαγέ με.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v17|text', 'text' : 'Afloja lo que aprieta mi corazón y hazme salir de mis angustias.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v18|number', 'text' : '(24:18)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v18|text', 'text' : 'Ἴδε τὴν ταπείνωσίν μου καὶ τὸν κόπον μου καὶ ἄφες πάσας τὰς ἁμαρτίας μου.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v18|text', 'text' : 'Contempla mi miseria y mi fatiga y quítame de encima todos mis pecados.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v19|number', 'text' : '(24:19)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v19|text', 'text' : 'Ἴδε τοὺς ἐχθρούς μου, ὅτι ἐπληθύνθησαν καὶ μῖσος ἄδικον ἐμίσησάν με.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v19|text', 'text' : 'Mira cuántos son mis enemigos y con qué odio violento me persiguen.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v20|number', 'text' : '(24:20)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v20|text', 'text' : 'Φύλαξον τὴν ψυχήν μου καὶ ῥῦσαί με· μὴ καταισχυνθείην, ὅτι ἤλπισα ἐπὶ σέ.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v20|text', 'text' : 'Defiende mi vida, líbrame: no quede confundido de haber confiado en ti.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v21|number', 'text' : '(24:21)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v21|text', 'text' : 'Ἄκακοι καὶ εὐθεῖς ἐκολλῶντό μοι, ὅτι ὑπέμεινά σε, Κύριε.'}
+{'id_' : 'ps_spa_GT_odg|psa24|v21|text', 'text' : 'Integridad y rectitud me guardarán, en ti, Señor, he puesto mi confianza.'}
 {'id_' : 'ps_spa_GT_odg|psa24|v22|number', 'text' : '(24:22)'}
-{'id_' : 'ps_spa_GT_odg|psa24|v22|text', 'text' : 'Λύτρωσαι, ὁ Θεός, τὸν Ἰσραὴλ ἐκ πασῶν τῶν θλίψεων αὐτοῦ.'}
-{'id_' : 'ps_spa_GT_odg|psa25|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa24|v22|text', 'text' : 'Oh Dios, redime a Israel de todas sus angustias.'}
+{'id_' : 'ps_spa_GT_odg|psa25|title', 'text' : 'Salmo 25 (26)'}
 {'id_' : 'ps_spa_GT_odg|psa25|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa25|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa25|text', 'text' : 'Júzgame, Señor, y ve que seguí la senda de los perfectos. En el Señor me apoyaba y por eso no me desviaba. Revísame, Señor, y ponme a prueba, pon en el crisol mi conciencia, mi corazón. Tu amor lo tengo ante mis ojos y tomo en cuenta tu fidelidad. Con hombres tramposos no me siento ni me meto en la casa del hipócrita. Aborrezco el partido de los malos y con los malvados no me siento. Lavo mis manos, que están limpias, y en torno a tu altar voy caminando, mientras entono mi acción de gracias y recuerdo tus obras admirables. Señor, cuánto amo la casa en que moras, y el lugar donde reside tu gloria. No me confundas con las almas pecadoras, que no tenga mi vida el fin de los violentos, cuyas manos están manchadas y cuyos bolsillos se llenan con sobornos. Y a mí, como busco ser perfecto, rescátame, Señor, ten piedad de mí. Mis pies pisan en terreno llano, bendeciré al Señor en las asambleas.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v1|number', 'text' : '(25:1)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v1|text', 'text' : 'Κρίνόν με, Κύριε, ὅτι ἐγὼ ἐν ἀκακίᾳ μου ἐπορεύθην καὶ ἐπὶ τῷ Κυρίῳ ἐλπίζων, οὐ μὴ ἀσθενήσω.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v1|text', 'text' : 'Júzgame, Señor, y ve que seguí la senda de los perfectos. En el Señor me apoyaba y por eso no me desviaba.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v2|number', 'text' : '(25:2)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v2|text', 'text' : 'Δοκίμασόν με, Κύριε, καὶ πείρασόν με, πύρωσον τοὺς νεφρούς μου καὶ τὴν καρδίαν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v2|text', 'text' : 'Revísame, Señor, y ponme a prueba, pon en el crisol mi conciencia, mi corazón.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v3|number', 'text' : '(25:3)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v3|text', 'text' : 'Ὅτι τὸ ἔλεός σου κατέναντι τῶν ὀφθαλμῶν μού ἐστι, καὶ εὐηρέστησα ἐν τῇ ἀληθείᾳ σου.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v3|text', 'text' : 'Tu amor lo tengo ante mis ojos y tomo en cuenta tu fidelidad.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v4|number', 'text' : '(25:4)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v4|text', 'text' : 'Οὐκ ἐκάθισα μετὰ συνεδρίου ματαιότητος καὶ μετὰ παρανομούντων οὐ μὴ εἰσέλθω·'}
+{'id_' : 'ps_spa_GT_odg|psa25|v4|text', 'text' : 'Con hombres tramposos no me siento ni me meto en la casa del hipócrita.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v5|number', 'text' : '(25:5)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v5|text', 'text' : 'Ἐμίσησα ἐκκλησίαν πονηρευομένων καὶ μετὰ ἀσεβῶν οὐ μὴ καθίσω.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v5|text', 'text' : 'Aborrezco el partido de los malos y con los malvados no me siento.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v6|number', 'text' : '(25:6)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v6|text', 'text' : 'Νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου καὶ κυκλώσω τὸ θυσιαστήριόν σου, Κύριε,'}
+{'id_' : 'ps_spa_GT_odg|psa25|v6|text', 'text' : 'Lavo mis manos, que están limpias, y en torno a tu altar voy caminando,'}
 {'id_' : 'ps_spa_GT_odg|psa25|v7|number', 'text' : '(25:7)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v7|text', 'text' : 'Τοῦ ἀκοῦσαί με φωνῆς αἰνέσεώς σου καὶ διηγήσασθαι πάντα τὰ θαυμάσιά σου.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v7|text', 'text' : 'mientras entono mi acción de gracias y recuerdo tus obras admirables.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v8|number', 'text' : '(25:8)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v8|text', 'text' : 'Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v8|text', 'text' : 'Señor, cuánto amo la casa en que moras, y el lugar donde reside tu gloria.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v9|number', 'text' : '(25:9)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v9|text', 'text' : 'Μὴ συναπολέσῃς μετὰ ἀσεβῶν τὴν ψυχήν μου καὶ μετὰ ἀνδρῶν αἱμάτων τὴν ζωήν μου,'}
+{'id_' : 'ps_spa_GT_odg|psa25|v9|text', 'text' : 'No me confundas con las almas pecadoras, que no tenga mi vida el fin de los violentos,'}
 {'id_' : 'ps_spa_GT_odg|psa25|v10|number', 'text' : '(25:10)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v10|text', 'text' : 'Ὧν ἐν χερσὶν ἀνομίαι, ἡ δεξιὰ αὐτῶν ἐπλήσθη δώρων.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v10|text', 'text' : 'cuyas manos están manchadas y cuyos bolsillos se llenan con sobornos.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v11|number', 'text' : '(25:11)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v11|text', 'text' : 'Ἐγὼ δὲ ἐν ἀκακίᾳ μου ἐπορεύθην· λύτρωσαί με καὶ ἐλέησόν με.'}
+{'id_' : 'ps_spa_GT_odg|psa25|v11|text', 'text' : 'Y a mí, como busco ser perfecto, rescátame, Señor, ten piedad de mí.'}
 {'id_' : 'ps_spa_GT_odg|psa25|v12|number', 'text' : '(25:12)'}
-{'id_' : 'ps_spa_GT_odg|psa25|v12|text', 'text' : 'Ὁ πούς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε.'}
-{'id_' : 'ps_spa_GT_odg|psa26|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa25|v12|text', 'text' : 'Mis pies pisan en terreno llano, bendeciré al Señor en las asambleas.'}
+{'id_' : 'ps_spa_GT_odg|psa26|title', 'text' : 'Salmo 26 (27)'}
 {'id_' : 'ps_spa_GT_odg|psa26|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa26|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa26|text', 'text' : 'El Señor es mi luz y mi salvación, ¿a quién he de temer? Amparo de mi vida es el Señor, ¿ante quién temblaré? Cuando los malvados se lanzan contra mí para comer mi carne, ellos, mis enemigos y contrarios, tropiezan y perecen. Si me sitia un ejército contrario, mi corazón no teme, si una guerra estalla contra mí, aún tendré confianza. Una cosa al Señor, sólo le pido, la cosa que yo busco es habitar la casa del Señor mientras dure mi vida, para gozar de la dulzura del Señor y cuidar de su santuario. Porque él me dará asilo en su cabaña en tiempos de desdicha, me ocultará en el secreto de su tienda, y me alzará sobre la roca. Y ahora mi cabeza se levanta sobre mis enemigos que me cercan. Jubiloso en su carpa ofreceré sacrificios con aclamaciones. Quiero cantar, tocar para el Señor. Señor, oye la voz con que a ti clamo, escucha, por piedad. Mi corazón de ti me habla diciendo: 'Procura ver su faz.' Es tu rostro, Señor, lo que yo busco, no me escondas tu cara. Con enojo a tu siervo no rechaces; eres tú mi defensa, ¡no me abandones, no me dejes solo, mi Dios y Salvador! Si me abandonaran mi padre y mi madre, me acogería el Señor. Enséñame, Señor, tus caminos, y guíame por sendero llano. Líbrame del afán de mis contrarios, pues contra mí se levantan falsos testigos que lanzan amenazas. La bondad del Señor espero ver en la tierra de los vivientes. Confía en el Señor, ¡ánimo, arriba! espera en el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v1|number', 'text' : '(26:1)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v1|text', 'text' : 'Κύριος φωτισμός μου καὶ σωτήρ μου· τίνα φοβηθήσομαι; Κύριος ὑπερασπιστὴς τῆς ζωῆς μου· ἀπὸ τίνος δειλιάσω;'}
+{'id_' : 'ps_spa_GT_odg|psa26|v1|text', 'text' : 'El Señor es mi luz y mi salvación, ¿a quién he de temer? Amparo de mi vida es el Señor, ¿ante quién temblaré?'}
 {'id_' : 'ps_spa_GT_odg|psa26|v1a|number', 'text' : '(26:1a)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v1a|text', 'text' : 'Κύριος φωτισμός μου καὶ σωτήρ μου· τίνα φοβηθήσομαι;'}
+{'id_' : 'ps_spa_GT_odg|psa26|v1a|text', 'text' : 'El Señor es mi luz y mi salvación, ¿a quién he de temer?'}
 {'id_' : 'ps_spa_GT_odg|psa26|v1b|number', 'text' : '(26:1b)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v1b|text', 'text' : 'Κύριος ὑπερασπιστὴς τῆς ζωῆς μου· ἀπὸ τίνος δειλιάσω;'}
+{'id_' : 'ps_spa_GT_odg|psa26|v1b|text', 'text' : 'Amparo de mi vida es el Señor, ¿ante quién temblaré?'}
 {'id_' : 'ps_spa_GT_odg|psa26|v2|number', 'text' : '(26:2)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v2|text', 'text' : 'Ἐν τῷ ἐγγίζειν ἐπ' ἐμὲ κακοῦντας τοῦ φαγεῖν τὰς σάρκας μου, οἱ θλίβοντές με καὶ οἱ ἐχθροί μου, αὐτοὶ ἠσθένησαν καὶ ἔπεσαν.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v2|text', 'text' : 'Cuando los malvados se lanzan contra mí para comer mi carne, ellos, mis enemigos y contrarios, tropiezan y perecen.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v3|number', 'text' : '(26:3)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v3|text', 'text' : 'Ἐὰν παρατάξηται ἐπ' ἐμὲ παρεμβολή, οὐ φοβηθήσεται ἡ καρδία μου· ἐὰν ἐπαναστῇ ἐπ' ἐμὲ πόλεμος, ἐν ταύτῃ ἐγὼ ἐλπίζω.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v3|text', 'text' : 'Si me sitia un ejército contrario, mi corazón no teme, si una guerra estalla contra mí, aún tendré confianza.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v4|number', 'text' : '(26:4)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v4|text', 'text' : 'Μίαν ᾐτησάμην παρὰ Κυρίου, ταύτην ἐκζητήσω· τοῦ κατοικεῖν με ἐν οἴκῳ Κυρίου πάσας τὰς ἡμέρας τῆς ζωῆς μου, τοῦ θεωρεῖν με τὴν τερπνότητα Κυρίου καὶ ἐπισκέπτεσθαι τὸν ναὸν τὸν ἅγιον αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v4|text', 'text' : 'Una cosa al Señor, sólo le pido, la cosa que yo busco es habitar la casa del Señor mientras dure mi vida, para gozar de la dulzura del Señor y cuidar de su santuario.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v5|number', 'text' : '(26:5)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v5|text', 'text' : 'Ὅτι ἔκρυψέ με ἐν σκηνῇ αὐτοῦ ἐν ἡμέρᾳ κακῶν μου, ἐσκέπασέ με ἐν ἀποκρύφῳ τῆς σκηνῆς αὑτοῦ, ἐν πέτρᾳ ὕψωσέ με.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v5|text', 'text' : 'Porque él me dará asilo en su cabaña en tiempos de desdicha, me ocultará en el secreto de su tienda, y me alzará sobre la roca.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v6|number', 'text' : '(26:6)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v6|text', 'text' : 'Καὶ νῦν ἰδοὺ ὕψωσε κεφαλήν μου ἐπ' ἐχθρούς μου· ἐκύκλωσα καὶ ἔθυσα ἐν τῇ σκηνῇ αὐτοῦ θυσίαν ἀλαλαγμοῦ, ᾄσομαι καὶ ψαλῶ τῷ Κυρίῳ.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v6|text', 'text' : 'Y ahora mi cabeza se levanta sobre mis enemigos que me cercan. Jubiloso en su carpa ofreceré sacrificios con aclamaciones. Quiero cantar, tocar para el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v7|number', 'text' : '(26:7)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v7|text', 'text' : 'Εἰσάκουσον, Κύριε, τῆς φωνῆς μου, ἧς ἐκέκραξα· ἐλέησόν με καὶ εἰσάκουσόν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v7|text', 'text' : 'Señor, oye la voz con que a ti clamo, escucha, por piedad.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v8|number', 'text' : '(26:8)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v8|text', 'text' : 'Σοὶ εἶπεν ἡ καρδία μου· ἐξεζήτησέ σε τὸ πρόσωπόν μου· τὸ πρόσωπόν σου, Κύριε, ζητήσω.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v8|text', 'text' : 'Mi corazón de ti me habla diciendo: 'Procura ver su faz.' Es tu rostro, Señor, lo que yo busco,'}
 {'id_' : 'ps_spa_GT_odg|psa26|v9|number', 'text' : '(26:9)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v9|text', 'text' : 'Μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπ' ἐμοῦ καὶ μὴ ἐκκλίνῃς ἐν ὀργῇ ἀπὸ τοῦ δούλου σου· βοηθός μου γενοῦ, μὴ ἀποσκορακίσῃς με καὶ μὴ ἐγκαταλίπῃς με, ὁ Θεός, ὁ σωτήρ μου.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v9|text', 'text' : 'no me escondas tu cara. Con enojo a tu siervo no rechaces; eres tú mi defensa, ¡no me abandones, no me dejes solo, mi Dios y Salvador!'}
 {'id_' : 'ps_spa_GT_odg|psa26|v10|number', 'text' : '(26:10)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v10|text', 'text' : 'Ὅτι ὁ πατήρ μου καὶ ἡ μήτηρ μου ἐγκατέλιπόν με, ὁ δὲ Κύριος προσελάβετό με.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v10|text', 'text' : 'Si me abandonaran mi padre y mi madre, me acogería el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v11|number', 'text' : '(26:11)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v11|text', 'text' : 'Νομοθέτησόν με, Κύριε, ἐν τῇ ὁδῷ σου καὶ ὁδήγησόν με ἐν τρίβῳ εὐθείᾳ ἕνεκα τῶν ἐχθρῶν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v11|text', 'text' : 'Enséñame, Señor, tus caminos, y guíame por sendero llano.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v12|number', 'text' : '(26:12)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v12|text', 'text' : 'Μὴ παραδῷς με εἰς ψυχὰς θλιβόντων με, ὅτι ἐπανέστησάν μοι μάρτυρες ἄδικοι, καὶ ἐψεύσατο ἡ ἀδικία ἑαυτῇ.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v12|text', 'text' : 'Líbrame del afán de mis contrarios, pues contra mí se levantan falsos testigos que lanzan amenazas.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v13|number', 'text' : '(26:13)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v13|text', 'text' : 'Πιστεύω τοῦ ἰδεῖν τὰ ἀγαθὰ Κυρίου ἐν γῇ ζώντων.'}
+{'id_' : 'ps_spa_GT_odg|psa26|v13|text', 'text' : 'La bondad del Señor espero ver en la tierra de los vivientes.'}
 {'id_' : 'ps_spa_GT_odg|psa26|v14|number', 'text' : '(26:14)'}
-{'id_' : 'ps_spa_GT_odg|psa26|v14|text', 'text' : 'Ὑπόμεινον τὸν Κύριον· ἀνδρίζου, καὶ κραταιούσθω ἡ καρδία σου, καὶ ὑπόμεινον τὸν Κύριον.'}
-{'id_' : 'ps_spa_GT_odg|psa27|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa26|v14|text', 'text' : 'Confía en el Señor, ¡ánimo, arriba! espera en el Señor.'}
+{'id_' : 'ps_spa_GT_odg|psa27|title', 'text' : 'Salmo 27 (28)'}
 {'id_' : 'ps_spa_GT_odg|psa27|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa27|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa27|text', 'text' : 'A ti te llamo, Señor, Roca mía, no te hagas el sordo; no sea que, si guardas silencio, me ocurra como a los que bajan a la tumba. Escucha la voz de mi plegaria cuando a ti grito y elevo mis manos hacia tu Templo santo. Junto con los malvados no me arrastres ni con los que cometen iniquidad, que hablan de paz a sus hermanos, pero llevan dentro la maldad. Págales tú de acuerdo a sus obras y según la malicia de sus crímenes, dáles lo mismo que han hecho sus manos, págales como se lo merecen. Ya que no miran las obras del Señor ni entienden lo que hacen sus manos, él los destruirá y no los rehará. Bendito sea el Señor, que ha escuchado la voz de mi oración. El Señor es mi fuerza y mi escudo, mi corazón confiaba en él, y me socorrió, por eso mi corazón se alegra y le canto agradecido. El Señor es la fuerza de su pueblo, un refugio seguro para su ungido. ¡Salva a tu pueblo y bendice a los tuyos, pastoréalos y llévalos por siempre!'}
 {'id_' : 'ps_spa_GT_odg|psa27|v1|number', 'text' : '(27:1)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v1|text', 'text' : 'Πρὸς σέ, Κύριε, κεκράξομαι, ὁ Θεός μου, μὴ παρασιωπήσῃς ἀπ' ἐμοῦ, μήποτε παρασιωπήσῃς ἀπ' ἐμοῦ καὶ ὁμοιωθήσομαι τοῖς καταβαίνουσιν εἰς λάκκον.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v1|text', 'text' : 'A ti te llamo, Señor, Roca mía, no te hagas el sordo; no sea que, si guardas silencio, me ocurra como a los que bajan a la tumba.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v1a|number', 'text' : '(27:1a)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v1a|text', 'text' : 'Πρὸς σέ, Κύριε, κεκράξομαι, ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v1a|text', 'text' : 'A ti te llamo, Señor, Roca mía,'}
 {'id_' : 'ps_spa_GT_odg|psa27|v2|number', 'text' : '(27:2)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v2|text', 'text' : 'Εἰσάκουσον τῆς φωνῆς τῆς δεήσεώς μου ἐν τῷ δέεσθαί με πρὸς σέ, ἐν τῷ αἴρειν με χεῖράς μου πρὸς ναὸν ἅγιόν σου.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v2|text', 'text' : 'Escucha la voz de mi plegaria cuando a ti grito y elevo mis manos hacia tu Templo santo.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v3|number', 'text' : '(27:3)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v3|text', 'text' : 'Μὴ συνελκύσῃς μετὰ ἁμαρτωλῶν τὴν ψυχήν μου καὶ μετὰ ἐργαζομένων ἀδικίαν μὴ συναπολέσῃς με τῶν λαλούντων εἰρήνην μετὰ τῶν πλησίον αὐτῶν, κακὰ δὲ ἐν ταῖς καρδίαις αὐτῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v3|text', 'text' : 'Junto con los malvados no me arrastres ni con los que cometen iniquidad, que hablan de paz a sus hermanos, pero llevan dentro la maldad.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v4|number', 'text' : '(27:4)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v4|text', 'text' : 'Δὸς αὐτοῖς, Κύριε, κατὰ τὰ ἔργα αὐτῶν καὶ κατὰ τὴν πονηρίαν τῶν ἐπιτηδευμάτων αὐτῶν· κατὰ τὰ ἔργα τῶν χειρῶν αὐτῶν δὸς αὐτοῖς, ἀπόδος τὸ ἀνταπόδομα αὐτῶν αὐτοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v4|text', 'text' : 'Págales tú de acuerdo a sus obras y según la malicia de sus crímenes, dáles lo mismo que han hecho sus manos, págales como se lo merecen.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v5|number', 'text' : '(27:5)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v5|text', 'text' : 'Ὅτι οὐ συνῆκαν εἰς τὰ ἔργα Κυρίου καὶ εἰς τὰ ἔργα τῶν χειρῶν αὐτοῦ· καθελεῖς αὐτοὺς καὶ οὐ μὴ οἰκοδομήσεις αὐτούς.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v5|text', 'text' : 'Ya que no miran las obras del Señor ni entienden lo que hacen sus manos, él los destruirá y no los rehará.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v6|number', 'text' : '(27:6)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v6|text', 'text' : 'Εὐλογητὸς Κύριος, ὅτι εἰσήκουσε τῆς φωνῆς τῆς δεήσεώς μου.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v6|text', 'text' : 'Bendito sea el Señor, que ha escuchado la voz de mi oración.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v7|number', 'text' : '(27:7)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v7|text', 'text' : 'Κύριος βοηθός μου καὶ ὑπερασπιστής μου· ἐπ' αὐτῷ ἤλπισεν ἡ καρδία μου, καὶ ἐβοηθήθην, καὶ ἀνέθαλεν ἡ σάρξ μου· καὶ ἐκ θελήματός μου ἐξομολογήσομαι αὐτῷ.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v7|text', 'text' : 'El Señor es mi fuerza y mi escudo, mi corazón confiaba en él, y me socorrió, por eso mi corazón se alegra y le canto agradecido.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v8|number', 'text' : '(27:8)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v8|text', 'text' : 'Κύριος κραταίωμα τοῦ λαοῦ αὐτοῦ καὶ ὑπερασπιστὴς τῶν σωτηρίων τοῦ χριστοῦ αὐτοῦ ἐστι.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v8|text', 'text' : 'El Señor es la fuerza de su pueblo, un refugio seguro para su ungido.'}
 {'id_' : 'ps_spa_GT_odg|psa27|v9|number', 'text' : '(27:9)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v9|text', 'text' : 'Σῶσον τὸν λαόν σου καὶ εὐλόγησον τὴν κληρονομίαν σου, καὶ ποίμανον αὐτοὺς καὶ ἔπαρον αὐτοὺς ἕως τοῦ αἰῶνος.'}
-{'id_' : 'ps_spa_GT_odg|psa27|v9alt|text', 'text' : 'Σῶσον, Κύριε, τὸν λαόν σου καὶ εὐλόγησον τὴν κληρονομίαν σου, καὶ ποίμανον αὐτοὺς καὶ ἔπαρον αὐτοὺς ἕως τοῦ αἰῶνος.'}
-{'id_' : 'ps_spa_GT_odg|psa27|v9aalt|text', 'text' : 'Σῶσον, ὁ Θεός, τὸν λαόν σου καὶ εὐλόγησον τὴν κληρονομίαν σου.'}
+{'id_' : 'ps_spa_GT_odg|psa27|v9|text', 'text' : '¡Salva a tu pueblo y bendice a los tuyos, pastoréalos y llévalos por siempre!'}
+{'id_' : 'ps_spa_GT_odg|psa27|v9alt|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa27|v9aalt|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa27|v9b|number', 'text' : '(27:9b)'}
-{'id_' : 'ps_spa_GT_odg|psa27|v9b|text', 'text' : 'Καὶ ποίμανον αὐτοὺς καὶ ἔπαρον αὐτοὺς ἕως τοῦ αἰῶνος.'}
-{'id_' : 'ps_spa_GT_odg|psa28|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa27|v9b|text', 'text' : '¡pastoréalos y llévalos por siempre!'}
+{'id_' : 'ps_spa_GT_odg|psa28|title', 'text' : 'Salmo 28 (29)'}
 {'id_' : 'ps_spa_GT_odg|psa28|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa28|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa28|text', 'text' : '¡Tributen a Yahvé, hijos de Dios, tributen a Yahvé gloria y poder! Devuelvan al Señor la gloria de su Nombre, adoren al Señor en solemne liturgia. ¡Voz del Señor sobre las aguas! retumba el trueno del Dios de majestad: es el Señor, por encima del diluvio. Voz del Señor, llena de fuerza, voz del Señor, voz esplendorosa. Voz del Señor: ¡ha partido los cedros! El Señor derriba los cedros del Líbano. Hace saltar como un novillo al Líbano, y al monte Sarón como búfalo joven. Voz del Señor: ¡se ha tallado relámpagos! Voz del Señor que sacude el desierto; estremece el Señor el desierto de Cadés. Voz del Señor: ¡ha doblegado encinas y ha arrancado la corteza de los bosques! En su templo resuena una sola voz: ¡Gloria! El Señor dominaba el diluvio, el Señor se ha sentado como rey y por siempre. El Señor dará fuerza a su pueblo, dará a su pueblo bendiciones de paz.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v1|number', 'text' : '(28:1)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v1|text', 'text' : 'Ἐνέγκατε τῷ Κυρίῳ, υἱοὶ Θεοῦ, ἐνέγκατε τῷ Κυρίῳ υἱοὺς κριῶν, ἐνέγκατε τῷ Κυρίῳ δόξαν καὶ τιμήν.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v1|text', 'text' : '¡Tributen a Yahvé, hijos de Dios, tributen a Yahvé gloria y poder!'}
 {'id_' : 'ps_spa_GT_odg|psa28|v2|number', 'text' : '(28:2)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v2|text', 'text' : 'Ἐνέγκατε τῷ Κυρίῳ δόξαν ὀνόματι αὐτοῦ, προσκυνήσατε τῷ Κυρίῳ ἐν αὐλῇ ἁγίᾳ αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v2|text', 'text' : 'Devuelvan al Señor la gloria de su Nombre, adoren al Señor en solemne liturgia.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v3|number', 'text' : '(28:3)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v3|text', 'text' : 'Φωνὴ Κυρίου ἐπὶ τῶν ὑδάτων, ὁ Θεὸς τῆς δόξης ἐβρόντησε, Κύριος ἐπὶ ὑδάτων πολλῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v3|text', 'text' : '¡Voz del Señor sobre las aguas! retumba el trueno del Dios de majestad: es el Señor, por encima del diluvio.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v4|number', 'text' : '(28:4)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v4|text', 'text' : 'Φωνὴ Κυρίου ἐν ἰσχύϊ, φωνὴ Κυρίου ἐν μεγαλοπρεπείᾳ.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v4|text', 'text' : 'Voz del Señor, llena de fuerza, voz del Señor, voz esplendorosa.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v5|number', 'text' : '(28:5)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v5|text', 'text' : 'Φωνὴ Κυρίου συντρίβοντος κέδρους, καὶ συντρίψει Κύριος τὰς κέδρους τοῦ Λιβάνου·'}
+{'id_' : 'ps_spa_GT_odg|psa28|v5|text', 'text' : 'Voz del Señor: ¡ha partido los cedros! El Señor derriba los cedros del Líbano.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v6|number', 'text' : '(28:6)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v6|text', 'text' : 'Καὶ λεπτυνεῖ αὐτὰς ὡς τὸν μόσχον τὸν Λίβανον, καὶ ὁ ἠγαπημένος ὡς υἱὸς μονοκερώτων.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v6|text', 'text' : 'Hace saltar como un novillo al Líbano, y al monte Sarón como búfalo joven.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v7|number', 'text' : '(28:7)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v7|text', 'text' : 'Φωνὴ Κυρίου διακόπτοντος φλόγα πυρός·'}
+{'id_' : 'ps_spa_GT_odg|psa28|v7|text', 'text' : 'Voz del Señor: ¡se ha tallado relámpagos!'}
 {'id_' : 'ps_spa_GT_odg|psa28|v8|number', 'text' : '(28:8)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v8|text', 'text' : 'Φωνὴ Κυρίου συσσείοντος ἔρημον καὶ συσσείσει Κύριος τὴν ἔρημον Κάδης.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v8|text', 'text' : 'Voz del Señor que sacude el desierto; estremece el Señor el desierto de Cadés.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v9|number', 'text' : '(28:9)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v9|text', 'text' : 'Φωνὴ Κυρίου καταρτιζομένη ἐλάφους, καὶ ἀποκαλύψει δρυμούς· καὶ ἐν τῷ ναῷ αὐτοῦ πᾶς τις λέγει δόξαν.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v9|text', 'text' : 'Voz del Señor: ¡ha doblegado encinas y ha arrancado la corteza de los bosques! En su templo resuena una sola voz: ¡Gloria!'}
 {'id_' : 'ps_spa_GT_odg|psa28|v10|number', 'text' : '(28:10)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v10|text', 'text' : 'Κύριος τὸν κατακλυσμὸν κατοικιεῖ, καὶ καθιεῖται Κύριος βασιλεὺς εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa28|v10|text', 'text' : 'El Señor dominaba el diluvio, el Señor se ha sentado como rey y por siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa28|v11|number', 'text' : '(28:11)'}
-{'id_' : 'ps_spa_GT_odg|psa28|v11|text', 'text' : 'Κύριος ἰσχὺν τῷ λαῷ αὐτοῦ δώσει, Κύριος εὐλογήσει τὸν λαὸν αὐτοῦ ἐν εἰρήνῃ.'}
-{'id_' : 'ps_spa_GT_odg|psa29|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa28|v11|text', 'text' : 'El Señor dará fuerza a su pueblo, dará a su pueblo bendiciones de paz.'}
+{'id_' : 'ps_spa_GT_odg|psa29|title', 'text' : 'Salmo 29 (30)'}
 {'id_' : 'ps_spa_GT_odg|psa29|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa29|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa29|text', 'text' : 'Te alabaré, Señor, porque me has levantado y muy poco se han reído mis contrarios. Señor, Dios mío, clamé a ti y tu me sanaste. Señor, me has sacado de la tumba, me iba a la fosa y me has vuelto a la vida. Que sus fieles canten al Señor, y den gracias a su Nombre santo. Porque su enojo dura unos momentos, y su bondad toda una vida. Al caer la tarde nos visita el llanto, pero a la mañana es un grito de alegría. Cuando me iba bien, decía entre mí: 'Nada jamás me perturbará.' Por tu favor, Señor, yo me mantenía como plantado en montes poderosos; apenas escondiste tu rostro, vacilé. A ti clamé, Señor, a mi Dios supliqué. ¿Qué ganas si me muero y me bajan al hoyo? ¿Podrá cantar el polvo tu alabanza o pregonar tu fidelidad? ¡Escúchame, Señor, y ten piedad de mí; sé, Señor, mi socorro! Tu has cambiado mi duelo en una danza, me quitaste el luto y me ceñiste de alegría. Así mi corazón te cantará sin callarse jamás. ¡Señor, mi Dios, por siempre te alabaré!'}
 {'id_' : 'ps_spa_GT_odg|psa29|v1|number', 'text' : '(29:1)'}
 {'id_' : 'ps_spa_GT_odg|psa29|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa29|v2|number', 'text' : '(29:2)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v2|text', 'text' : 'Ὑψώσω σε, Κύριε, ὅτι ὑπέλαβές με καὶ οὐκ εὔφρανας τοὺς ἐχθρούς μου ἐπ' ἐμέ.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v2|text', 'text' : 'Te alabaré, Señor, porque me has levantado y muy poco se han reído mis contrarios.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v3|number', 'text' : '(29:3)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v3|text', 'text' : 'Κύριε ὁ Θεός μου, ἐκέκραξα πρὸς σέ, καὶ ἰάσω με·'}
+{'id_' : 'ps_spa_GT_odg|psa29|v3|text', 'text' : 'Señor, Dios mío, clamé a ti y tu me sanaste.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v4|number', 'text' : '(29:4)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v4|text', 'text' : 'Κύριε, ἀνήγαγες ἐξ ᾅδου τὴν ψυχήν μου, ἔσωσάς με ἀπὸ τῶν καταβαινόντων εἰς λάκκον.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v4|text', 'text' : 'Señor, me has sacado de la tumba, me iba a la fosa y me has vuelto a la vida.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v5|number', 'text' : '(29:5)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v5|text', 'text' : 'Ψάλατε τῷ Κυρίῳ, οἱ ὅσιοι αὐτοῦ, καὶ ἐξομολογεῖσθε τῇ μνήμῃ τῆς ἁγιωσύνης αὐτοῦ·'}
+{'id_' : 'ps_spa_GT_odg|psa29|v5|text', 'text' : 'Que sus fieles canten al Señor, y den gracias a su Nombre santo.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v6|number', 'text' : '(29:6)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v6|text', 'text' : 'Ὅτι ὀργὴ ἐν τῷ θυμῷ αὐτοῦ, καὶ ζωὴ ἐν τῷ θελήματι αὐτοῦ· τὸ ἑσπέρας αὐλισθήσεται κλαυθμὸς καὶ εἰς τὸ πρωΐ ἀγαλλίασις.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v6|text', 'text' : 'Porque su enojo dura unos momentos, y su bondad toda una vida. Al caer la tarde nos visita el llanto, pero a la mañana es un grito de alegría.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v7|number', 'text' : '(29:7)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v7|text', 'text' : 'Ἐγὼ δὲ εἶπα ἐν τῇ εὐθηνίᾳ μου· οὐ μὴ σαλευθῶ εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v7|text', 'text' : 'Cuando me iba bien, decía entre mí: 'Nada jamás me perturbará.''}
 {'id_' : 'ps_spa_GT_odg|psa29|v8|number', 'text' : '(29:8)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v8|text', 'text' : 'Κύριε, ἐν τῷ θελήματί σου παρέσχου τῷ κάλλει μου δύναμιν· ἀπέστρεψας δὲ τὸ πρόσωπόν σου καὶ ἐγενήθην τεταραγμένος.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v8|text', 'text' : 'Por tu favor, Señor, yo me mantenía como plantado en montes poderosos; apenas escondiste tu rostro, vacilé.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v9|number', 'text' : '(29:9)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v9|text', 'text' : 'Πρὸς σέ, Κύριε, κεκράξομαι, καὶ πρὸς τὸν Θεόν μου δεηθήσομαι.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v9|text', 'text' : 'A ti clamé, Señor, a mi Dios supliqué.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v10|number', 'text' : '(29:10)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v10|text', 'text' : 'Τίς ὠφέλεια ἐν τῷ αἵματί μου ἐν τῷ καταβαίνειν με εἰς διαφθοράν; μὴ ἐξομολογήσεταί σοι χοῦς ἢ ἀναγγελεῖ τὴν ἀλήθειάν σου;'}
+{'id_' : 'ps_spa_GT_odg|psa29|v10|text', 'text' : '¿Qué ganas si me muero y me bajan al hoyo? ¿Podrá cantar el polvo tu alabanza o pregonar tu fidelidad?'}
 {'id_' : 'ps_spa_GT_odg|psa29|v11|number', 'text' : '(29:11)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v11|text', 'text' : 'Ἤκουσε Κύριος, καὶ ἠλέησέ με, Κύριος ἐγενήθη βοηθός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v11|text', 'text' : '¡Escúchame, Señor, y ten piedad de mí; sé, Señor, mi socorro!'}
 {'id_' : 'ps_spa_GT_odg|psa29|v12|number', 'text' : '(29:12)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v12|text', 'text' : 'Ἔστρεψας τὸν κοπετόν μου εἰς χαρὰν ἐμοί, διέῤῥηξας τὸν σάκκον μου καὶ περιέζωσάς με εὐφροσύνην,'}
+{'id_' : 'ps_spa_GT_odg|psa29|v12|text', 'text' : 'Tu has cambiado mi duelo en una danza, me quitaste el luto y me ceñiste de alegría.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v13|number', 'text' : '(29:13)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v13|text', 'text' : 'Ὅπως ἂν ψάλῃ σοι ἡ δόξα μου καὶ οὐ μὴ κατανυγῶ. Κύριε ὁ Θεός μου, εἰς τὸν αἰῶνα ἐξομολογήσομαί σοι.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v13|text', 'text' : 'Así mi corazón te cantará sin callarse jamás. ¡Señor, mi Dios, por siempre te alabaré!'}
 {'id_' : 'ps_spa_GT_odg|psa29|v13a|number', 'text' : '(29:13a)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v13a|text', 'text' : 'Ὅπως ἂν ψάλῃ σοι ἡ δόξα μου καὶ οὐ μὴ κατανυγῶ.'}
+{'id_' : 'ps_spa_GT_odg|psa29|v13a|text', 'text' : 'Así mi corazón te cantará sin callarse jamás.'}
 {'id_' : 'ps_spa_GT_odg|psa29|v13b|number', 'text' : '(29:13b)'}
-{'id_' : 'ps_spa_GT_odg|psa29|v13b|text', 'text' : 'Κύριε ὁ Θεός μου, εἰς τὸν αἰῶνα ἐξομολογήσομαί σοι.'}
-{'id_' : 'ps_spa_GT_odg|psa30|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa29|v13b|text', 'text' : '¡Señor, mi Dios, por siempre te alabaré!'}
+{'id_' : 'ps_spa_GT_odg|psa30|title', 'text' : 'Salmo 30 (31)'}
 {'id_' : 'ps_spa_GT_odg|psa30|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa30|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa30|text', 'text' : 'A ti, Señor, me acojo, no quede yo nunca defraudado: ¡tú que eres justo, ponme a salvo! Inclina tu oído hacia mí, date prisa en librarme. Sé para mí una roca de refugio, el recinto amurallado que me salve. Porque tú eres mi roca y mi fortaleza; por tu nombre me guías y diriges. Sácame de la red que me han tendido, porque eres tú mi refugio. En tus manos encomiendo mi espíritu, y tú, Señor, Dios fiel, me librarás. Aborreces a los que adoran ídolos vanos, pero yo confío en el Señor. Gozaré y me alegraré de tu bondad porque has mirado mi aflicción y comprendido la angustia de mi alma; no me dejaste en manos del enemigo, me has hecho caminar a campo abierto. Ten piedad de mí, Señor, pues estoy angustiado; mis ojos languidecen de tristeza. Mi vida se consume en la aflicción y mis años entre gemidos; mi fuerza desfallece entre tanto dolor y mis huesos se deshacen. Mi enemigo se alegra, mis vecinos se horrorizan, y se espantan de mí mis conocidos: si me ven en la calle, se alejan de mí. Se olvidaron de mí, como de un muerto, soy como un objeto inservible. Oigo los cuchicheos de la gente, y se asoma el terror por todas partes. Se unieron todos en mi contra, tramaron arrebatarme la vida. Pero yo, Señor, confío en ti, yo dije: Tú eres mi Dios. Mi porvenir está en tus manos, líbrame de los enemigos que me persiguen. Que sobre tu servidor brille tu rostro, sálvame por tu amor. A ti clamé, Señor, no sea confundido; confundidos sean los impíos, lánzalos a la mansión del silencio. Enmudece los labios embusteros, que hablan insolencias contra el justo con orgullo y desprecio. Qué bondad tan grande, Señor, es la que reservas para los que te temen. Se la brindas a los que en ti esperan, a la vista de los hijos de los hombres. En secreto, junto a ti los escondes, lejos de las intrigas de los hombres; los mantienes ocultos en tu carpa, y los guardas de las querellas. Bendito sea el Señor, su gracia hizo maravillas para mí: Mi corazón es como una ciudad fuerte. Yo decía en mi desconcierto: 'Me ha arrojado de su presencia.' Pero tú oías la voz de mi plegaria cuando clamaba a ti. Amen al Señor todos sus fieles, pues él guarda a los que le son leales, pero les devolverá el doble a los soberbios. Fortalezcan su corazón, sean valientes, todos los que esperan en el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v1|number', 'text' : '(30:1)'}
 {'id_' : 'ps_spa_GT_odg|psa30|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa30|v2|number', 'text' : '(30:2)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v2|text', 'text' : 'Ἐπὶ σοί, Κύριε, ἤλπισα, μὴ καταισχυνθείην εἰς τὸν αἰῶνα· ἐν τῇ δικαιοσύνῃ σου ῥῦσαί με καὶ ἐξελοῦ με.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v2|text', 'text' : 'A ti, Señor, me acojo, no quede yo nunca defraudado: ¡tú que eres justo, ponme a salvo!'}
 {'id_' : 'ps_spa_GT_odg|psa30|v2a|number', 'text' : '(30:2a)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v2a|text', 'text' : 'Ἐπὶ σοί, Κύριε, ἤλπισα, μὴ καταισχυνθείην εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v2a|text', 'text' : 'A ti, Señor, me acojo, no quede yo nunca defraudado:'}
 {'id_' : 'ps_spa_GT_odg|psa30|v2b|number', 'text' : '(30:2b)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v2b|text', 'text' : 'Ἐν τῇ δικαιοσύνῃ σου ῥῦσαί με καὶ ἐξελοῦ με.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v2b|text', 'text' : '¡tú que eres justo, ponme a salvo!'}
 {'id_' : 'ps_spa_GT_odg|psa30|v3|number', 'text' : '(30:3)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v3|text', 'text' : 'Κλῖνον πρός με τὸ οὖς σου, τάχυνον τοῦ ἐξελέσθαι με. Γενοῦ μοι εἰς Θεὸν ὑπερασπιστὴν καὶ εἰς οἶκον καταφυγῆς τοῦ σῶσαί με.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v3|text', 'text' : 'Inclina tu oído hacia mí, date prisa en librarme. Sé para mí una roca de refugio, el recinto amurallado que me salve.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v3a|number', 'text' : '(30:3a)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v3a|text', 'text' : 'Κλῖνον πρός με τὸ οὖς σου, τάχυνον τοῦ ἐξελέσθαι με.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v3a|text', 'text' : 'Inclina tu oído hacia mí, date prisa en librarme.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v3b|number', 'text' : '(30:3b)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v3b|text', 'text' : 'Γενοῦ μοι εἰς Θεὸν ὑπερασπιστὴν καὶ εἰς οἶκον καταφυγῆς τοῦ σῶσαί με.'}
-{'id_' : 'ps_spa_GT_odg|psa30|v3balt|text', 'text' : 'Γενοῦ μοι εἰς Θεὸν ὑπερασπιστὴν.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v3b|text', 'text' : 'Sé para mí una roca de refugio, el recinto amurallado que me salve.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v3balt|text', 'text' : 'Sé para mí una roca de refugio.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v4|number', 'text' : '(30:4)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v4|text', 'text' : 'Ὅτι κραταίωμά μου καὶ καταφυγή μου εἶ σὺ καὶ ἕνεκεν τοῦ ὀνόματός σου ὁδηγήσεις με καὶ διαθρέψεις με·'}
+{'id_' : 'ps_spa_GT_odg|psa30|v4|text', 'text' : 'Porque tú eres mi roca y mi fortaleza; por tu nombre me guías y diriges.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v5|number', 'text' : '(30:5)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v5|text', 'text' : 'Ἐξάξεις με ἐκ παγίδος ταύτης, ἧς ἔκρυψάν μοι, ὅτι σὺ εἶ ὁ ὑπερασπιστής μου, Κύριε.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v5|text', 'text' : 'Sácame de la red que me han tendido, porque eres tú mi refugio.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v6|number', 'text' : '(30:6)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v6|text', 'text' : 'Εἰς χεῖράς σου παραθήσομαι τὸ πνεῦμά μου· ἐλυτρώσω με, Κύριε ὁ Θεὸς τῆς ἀληθείας.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v6|text', 'text' : 'En tus manos encomiendo mi espíritu, y tú, Señor, Dios fiel, me librarás.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v7|number', 'text' : '(30:7)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v7|text', 'text' : 'Ἐμίσησας τοὺς διαφυλάσσοντας ματαιότητας διακενῆς· ἐγὼ δὲ ἐπὶ τῷ Κυρίῳ ἤλπισα.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v7|text', 'text' : 'Aborreces a los que adoran ídolos vanos, pero yo confío en el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v8|number', 'text' : '(30:8)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v8|text', 'text' : 'Ἀγαλλιάσομαι καὶ εὐφρανθήσομαι ἐπὶ τῷ ἐλέει σου, ὅτι ἐπεῖδες τὴν ταπείνωσίν μου, ἔσωσας ἐκ τῶν ἀναγκῶν τὴν ψυχήν μου'}
+{'id_' : 'ps_spa_GT_odg|psa30|v8|text', 'text' : 'Gozaré y me alegraré de tu bondad porque has mirado mi aflicción y comprendido la angustia de mi alma;'}
 {'id_' : 'ps_spa_GT_odg|psa30|v9|number', 'text' : '(30:9)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v9|text', 'text' : 'Καὶ οὐ συνέκλεισάς με εἰς χεῖρας ἐχθρῶν, ἔστησας ἐν εὐρυχώρῳ τοὺς πόδας μου.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v9|text', 'text' : 'no me dejaste en manos del enemigo, me has hecho caminar a campo abierto.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v10|number', 'text' : '(30:10)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v10|text', 'text' : 'Ἐλέησόν με, Κύριε, ὅτι θλίβομαι· ἐταράχθη ἐν θυμῷ ὁ ὀφθαλμός μου, ἡ ψυχή μου καὶ ἡ γαστήρ μου.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v10|text', 'text' : 'Ten piedad de mí, Señor, pues estoy angustiado; mis ojos languidecen de tristeza.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v11|number', 'text' : '(30:11)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v11|text', 'text' : 'Ὅτι ἐξέλιπεν ἐν ὀδύνῃ ἡ ζωή μου καὶ τὰ ἔτη μου ἐν στεναγμοῖς· ἠσθένησεν ἐν πτωχείᾳ ἡ ἰσχύς μου, καὶ τὰ ὀστᾶ μου ἐταράχθησαν.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v11|text', 'text' : 'Mi vida se consume en la aflicción y mis años entre gemidos; mi fuerza desfallece entre tanto dolor y mis huesos se deshacen.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v12|number', 'text' : '(30:12)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v12|text', 'text' : 'Παρὰ πάντας τοὺς ἐχθρούς μου ἐγενήθην ὄνειδος καὶ τοῖς γείτοσί μου σφόδρα, καὶ φόβος τοῖς γνωστοῖς μου· οἱ θεωροῦντες με ἔξω ἔφυγον ἀπ' ἐμοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v12|text', 'text' : 'Mi enemigo se alegra, mis vecinos se horrorizan, y se espantan de mí mis conocidos: si me ven en la calle, se alejan de mí.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v13|number', 'text' : '(30:13)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v13|text', 'text' : 'Ἐπελήσθην ὡσεὶ νεκρὸς ἀπὸ καρδίας, ἐγενήθην ὡσεὶ σκεῦος ἀπολωλός.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v13|text', 'text' : 'Se olvidaron de mí, como de un muerto, soy como un objeto inservible.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v14|number', 'text' : '(30:14)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v14|text', 'text' : 'Ὅτι ἤκουσα ψόγον πολλῶν παροικούντων κυκλόθεν· ἐν τῷ ἐπισυναχθῆναι αὐτοὺς ἅμα ἐπ' ἐμὲ τοῦ λαβεῖν τὴν ψυχήν μου ἐβουλεύσαντο.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v14|text', 'text' : 'Oigo los cuchicheos de la gente, y se asoma el terror por todas partes. Se unieron todos en mi contra, tramaron arrebatarme la vida.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v15|number', 'text' : '(30:15)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v15|text', 'text' : 'Ἐγὼ δὲ ἐπὶ σοὶ ἤλπισα, Κύριε, εἶπα· σὺ εἶ ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v15|text', 'text' : 'Pero yo, Señor, confío en ti, yo dije: Tú eres mi Dios.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v16|number', 'text' : '(30:16)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v16|text', 'text' : 'Ἐν ταῖς χερσί σου οἱ κλῆροί μου*· ρῦσαί με ἐκ χειρὸς ἐχθρῶν μου καὶ ἐκ τῶν καταδιωκόντων με.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v16|text', 'text' : 'Mi porvenir está en tus manos, líbrame de los enemigos que me persiguen.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v17|number', 'text' : '(30:17)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v17|text', 'text' : 'Ἐπίφανον τὸ πρόσωπόν σου ἐπὶ τὸν δοῦλόν σου, σῶσόν με ἐν τῷ ἐλέει σου.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v17|text', 'text' : 'Que sobre tu servidor brille tu rostro, sálvame por tu amor.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v18|number', 'text' : '(30:18)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v18|text', 'text' : 'Κύριε, μὴ καταισχυνθείην, ὅτι ἐπεκαλεσάμην σε· αἰσχυνθείησαν οἱ ἀσεβεῖς καὶ καταχθείησαν εἰς ᾅδου.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v18|text', 'text' : 'A ti clamé, Señor, no sea confundido; confundidos sean los impíos, lánzalos a la mansión del silencio.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v19|number', 'text' : '(30:19)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v19|text', 'text' : 'Ἄλαλα γενηθήτω τὰ χείλη τὰ δόλια τὰ λαλοῦντα κατὰ τοῦ δικαίου ἀνομίαν ἐν ὑπερηφανίᾳ καὶ ἐξουδενώσει.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v19|text', 'text' : 'Enmudece los labios embusteros, que hablan insolencias contra el justo con orgullo y desprecio.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v20|number', 'text' : '(30:20)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v20|text', 'text' : 'Ὡς πολὺ τὸ πλῆθος τῆς χρηστότητός σου, Κύριε, ἧς ἔκρυψας τοῖς φοβουμένοις σε, ἐξειργάσω τοῖς ἐλπίζουσιν ἐπὶ σὲ ἐναντίον τῶν υἱῶν τῶν ἀνθρώπων.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v20|text', 'text' : 'Qué bondad tan grande, Señor, es la que reservas para los que te temen. Se la brindas a los que en ti esperan, a la vista de los hijos de los hombres.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v21|number', 'text' : '(30:21)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v21|text', 'text' : 'Κατακρύψεις αὐτοὺς ἐν ἀποκρύφῳ τοῦ προσώπου σου ἀπὸ ταραχῆς ἀνθρώπων, σκεπάσεις αὐτοὺς ἐν σκηνῇ ἀπὸ ἀντιλογίας γλωσσῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v21|text', 'text' : 'En secreto, junto a ti los escondes, lejos de las intrigas de los hombres; los mantienes ocultos en tu carpa, y los guardas de las querellas.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v22|number', 'text' : '(30:22)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v22|text', 'text' : 'Εὐλογητὸς Κύριος, ὅτι ἐθαυμάστωσε τὸ ἔλεος αὐτοῦ ἐν πόλει περιοχῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v22|text', 'text' : 'Bendito sea el Señor, su gracia hizo maravillas para mí: Mi corazón es como una ciudad fuerte.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v23|number', 'text' : '(30:23)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v23|text', 'text' : 'Ἐγὼ δὲ εἶπα ἐν τῇ ἐκστάσει μου· ἀπέῤῥιμμαι ἀπὸ προσώπου τῶν ὀφθαλμῶν σου. διὰ τοῦτο εἰσήκουσας τῆς φωνῆς τῆς δεήσεώς μου ἐν τῷ κεκραγέναι με πρὸς σέ.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v23|text', 'text' : 'Yo decía en mi desconcierto: 'Me ha arrojado de su presencia.' Pero tú oías la voz de mi plegaria cuando clamaba a ti.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v24|number', 'text' : '(30:24)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v24|text', 'text' : 'Ἀγαπήσατε τὸν Κύριον πάντες οἱ ὅσιοι αὐτοῦ, ὅτι ἀληθείας ἐκζητεῖ Κύριος καὶ ἀνταποδίδωσι τοῖς περισσῶς ποιοῦσιν ὑπερηφανίαν.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v24|text', 'text' : 'Amen al Señor todos sus fieles, pues él guarda a los que le son leales, pero les devolverá el doble a los soberbios.'}
 {'id_' : 'ps_spa_GT_odg|psa30|v25|number', 'text' : '(30:25)'}
-{'id_' : 'ps_spa_GT_odg|psa30|v25|text', 'text' : 'Ἀνδρίζεσθε, καὶ κραταιούσθω ἡ καρδία ὑμῶν, πάντες οἱ ἐλπίζοντες ἐπὶ Κύριον.'}
+{'id_' : 'ps_spa_GT_odg|psa30|v25|text', 'text' : 'Fortalezcan su corazón, sean valientes, todos los que esperan en el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa31|title', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa31|version', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa31|text', 'text' : ''}
