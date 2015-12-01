@@ -1605,538 +1605,540 @@
 {'id_' : 'ps_spa_GT_odg|psa41|v11|number', 'text' : '(41:11)'}
 {'id_' : 'ps_spa_GT_odg|psa41|v11|text', 'text' : 'Mis adversarios me insultan y se me quiebran los huesos al oír que a cada rato me dicen: 'Dónde quedó tu Dios?''}
 {'id_' : 'ps_spa_GT_odg|psa41|v12|number', 'text' : '(41:12)'}
-{'id_' : 'ps_spa_GT_odg|psa41|v12|text', 'text' : 'Ἱνατί περίλυπος εἶ, ἡ ψυχή μου; καὶ ἱνατί συνταράσσεις με; ἔλπισον ἐπὶ τὸν Θεόν, ὅτι ἐξομολογήσομαι αὐτῷ· σωτήριον τοῦ προσώπου μου καὶ ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa41|v12|text', 'text' : '¿Qué te abate, alma mía; por qué gimes en mí? Pon tu confianza en Dios que aún le cantaré a mi Dios salvador.'}
 {'id_' : 'ps_spa_GT_odg|psa41|v12a|number', 'text' : '(41:12a)'}
-{'id_' : 'ps_spa_GT_odg|psa41|v12a|text', 'text' : 'Ἱνατί περίλυπος εἶ, ἡ ψυχή μου; καὶ ἱνατί συνταράσσεις με;'}
+{'id_' : 'ps_spa_GT_odg|psa41|v12a|text', 'text' : '¿Qué te abate, alma mía; por qué gimes en mí?'}
 {'id_' : 'ps_spa_GT_odg|psa41|v12b|number', 'text' : '(41:12b)'}
-{'id_' : 'ps_spa_GT_odg|psa41|v12b|text', 'text' : '¿Qué te abate, alma mía; por qué gimes en mí? Pon tu confianza en Dios que aún le cantaré a mi Dios salvador.'}
-{'id_' : 'ps_spa_GT_odg|psa42|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa41|v12b|text', 'text' : 'Pon tu confianza en Dios que aún le cantaré a mi Dios salvador.'}
+{'id_' : 'ps_spa_GT_odg|psa42|title', 'text' : 'Salmo 42 (43)'}
 {'id_' : 'ps_spa_GT_odg|psa42|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa42|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa42|text', 'text' : 'Hazme justicia, oh Dios, y defiende mi causa del hombre sin piedad; de la gente tramposa y depravada líbrame, tú, Señor. Si tú eres el Dios de mi refugio: ¿por qué me desamparas? ¿por qué tengo que andar tan afligido bajo la presión del enemigo? Envíame tu luz y tu verdad: que ellas sean mi guía y a tu santa montaña me conduzcan, al lugar donde habitas. Al altar de Dios me acercaré, al Dios de mi alegría; jubiloso con arpa cantaré al Señor, mi Dios. ¿Qué tienes alma mía, qué te abate, por qué gimes en mí? Confía en Dios, que aún le cantaré a mi Dios salvador.'}
 {'id_' : 'ps_spa_GT_odg|psa42|v1|number', 'text' : '(42:1)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v1|text', 'text' : 'Κρῖνόν με, ὁ Θεός, καὶ δίκασον τὴν δίκην μου ἐξ ἔθνους οὐχ ὁσίου· ἀπὸ ἀνθρώπου ἀδίκου καὶ δολίου ῥῦσαί με.'}
+{'id_' : 'ps_spa_GT_odg|psa42|v1|text', 'text' : 'Hazme justicia, oh Dios, y defiende mi causa del hombre sin piedad; de la gente tramposa y depravada líbrame, tú, Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa42|v2|number', 'text' : '(42:2)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v2|text', 'text' : 'Ὅτι σὺ εἶ ὁ Θεὸς κραταίωμά μου· ἱνατί ἀπώσω με; καὶ ἱνατί σκυθρωπάζων πορεύομαι ἐν τῷ ἐκθλίβειν τὸν ἐχθρόν μου;'}
+{'id_' : 'ps_spa_GT_odg|psa42|v2|text', 'text' : 'Si tú eres el Dios de mi refugio: ¿por qué me desamparas? ¿por qué tengo que andar tan afligido bajo la presión del enemigo?'}
 {'id_' : 'ps_spa_GT_odg|psa42|v3|number', 'text' : '(42:3)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v3|text', 'text' : 'Ἐξαπόστειλον τὸ φῶς σου καὶ τὴν ἀλήθειάν σου· αὐτά με ὡδήγησαν καὶ ἤγαγόν με εἰς ὄρος ἅγιόν σου καὶ εἰς τὰ σκηνώματά σου.'}
+{'id_' : 'ps_spa_GT_odg|psa42|v3|text', 'text' : 'Envíame tu luz y tu verdad: que ellas sean mi guía y a tu santa montaña me conduzcan, al lugar donde habitas.'}
 {'id_' : 'ps_spa_GT_odg|psa42|v4|number', 'text' : '(42:4)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v4|text', 'text' : 'Καὶ εἰσελεύσομαι πρὸς τὸ θυσιαστήριον τοῦ Θεοῦ, πρὸς τὸν Θεὸν τὸν εὐφραίνοντα τὴν νεότητά μου· ἐξομολογήσομαί σοι ἐν κιθάρᾳ, ὁ Θεός, ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa42|v4|text', 'text' : 'Al altar de Dios me acercaré, al Dios de mi alegría; jubiloso con arpa cantaré al Señor, mi Dios.'}
 {'id_' : 'ps_spa_GT_odg|psa42|v5|number', 'text' : '(42:5)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v5|text', 'text' : 'Ἱνατί περίλυπος εἶ, ἡ ψυχή μου; καὶ ἱνατί συνταράσσεις με; ἔλπισον ἐπὶ τὸν Θεόν, ὅτι ἐξομολογήσομαι αὐτῷ· σωτήριον τοῦ προσώπου μου καὶ ὁ Θεός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa42|v5|text', 'text' : '¿Qué tienes alma mía, qué te abate, por qué gimes en mí? Confía en Dios, que aún le cantaré a mi Dios salvador.'}
 {'id_' : 'ps_spa_GT_odg|psa42|v5a|number', 'text' : '(42:5a)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v5a|text', 'text' : 'Ἱνατί περίλυπος εἶ, ἡ ψυχή μου; καὶ ἱνατί συνταράσσεις με; ἔλπισον ἐπὶ τὸν Θεόν, ὅτι ἐξομολογήσομαι αὐτῷ.'}
+{'id_' : 'ps_spa_GT_odg|psa42|v5a|text', 'text' : '¿Qué tienes alma mía, qué te abate, por qué gimes en mí?'}
 {'id_' : 'ps_spa_GT_odg|psa42|v5b|number', 'text' : '(42:5b)'}
-{'id_' : 'ps_spa_GT_odg|psa42|v5b|text', 'text' : 'Σωτήριον τοῦ προσώπου μου καὶ ὁ Θεός μου.'}
-{'id_' : 'ps_spa_GT_odg|psa43|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa42|v5b|text', 'text' : 'Confía en Dios, que aún le cantaré a mi Dios salvador.'}
+{'id_' : 'ps_spa_GT_odg|psa43|title', 'text' : 'Salmo 43 (44)'}
 {'id_' : 'ps_spa_GT_odg|psa43|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa43|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa43|text', 'text' : 'Lo escuchamos, oh Dios, con nuestros oídos y nos lo transmitieron nuestros padres: las hazañas que en su época tú hiciste, con tu propia mano, en otros tiempos. Para implantarlos, expulsaste a naciones y para extenderlos, maltraste a pueblos. No conquistó al país su propia espada, ni su brazo los hizo vencedores, sino que fueron tu diestra y tu brazo y la luz de tu rostro, porque los amabas. Tú, mi rey y mi Dios es quien decide las victorias de Jacob. Por ti hundimos a nuestros adversarios y en tu nombre pisamos a nuestros agresores. No es mi arco en quien yo confío, ni es mi espada quien me da la victoria; mas por ti vencemos a nuestros adversarios, tú dejas en vergüenza a los que nos odian. A Dios cada día celebramos y sin cesar alabamos tu nombre. Ahora, en cambio, nos rechazas y humillas y no sales al frente de nuestras tropas. Nos haces ceder ante el adversario y los que nos odian saquean a gusto. Nos entregas como ovejas a la matanza, y nos dispersas en medio de las naciones. Vendes a tu pueblo por un precio irrisorio y no ganas nada con tu negocio. Nos haces el escarnio de nuestros vecinos, todos en derredor se burlan y se ríen. Servimos de escarmiento a las naciones, y los pueblos menean la cabeza. Tengo siempre delante mi deshonra y enrojece mi rostro la vergüenza al oír los insultos y blasfemias, al ver el odio y la venganza. Todo esto nos pasó sin que nosotros te olvidáramos o rompiéramos tu alianza. No se dio vuelta nuestro corazón ni dejaron tu senda nuestros pasos. Pero nos aplastaste en el desierto, y nos cubrió la sombra de la muerte. Si hubiéramos olvidado el nombre de nuestro Dios tendiendo las manos hacia un dios extranjero, ¿no es cierto que Dios lo hubiera visto, el que conoce los secretos del corazón? Por tu causa nos matan a cada rato, y nos vemos como ovejas ante el cuchillo. Despiértate, ¿por qué duermes, Señor? ¡Levántate y ven a socorrernos! ¿Por qué escondes tu cara? ¿olvidas nuestra opresión, nuestra miseria? Nos arrastramos por el polvo y a la tierra se pega nuestro vientre. ¡Levántate, Señor, y socórrenos, acuérdate de tu bondad y líbranos!'}
 {'id_' : 'ps_spa_GT_odg|psa43|v1|number', 'text' : '(43:1)'}
 {'id_' : 'ps_spa_GT_odg|psa43|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa43|v2|number', 'text' : '(43:2)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v2|text', 'text' : 'Ὁ Θεός, ἐν τοῖς ὠσὶν ἡμῶν ἠκούσαμεν, καὶ οἱ πατέρες ἡμῶν ἀνήγγειλαν ἡμῖν ἔργον, ὃ εἰργάσω ἐν ταῖς ἡμέραις αὐτῶν, ἐν ἡμέραις ἀρχαίαις.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v2|text', 'text' : 'Lo escuchamos, oh Dios, con nuestros oídos y nos lo transmitieron nuestros padres: las hazañas que en su época tú hiciste, con tu propia mano, en otros tiempos.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v3|number', 'text' : '(43:3)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v3|text', 'text' : 'Ἡ χείρ σου ἔθνη ἐξωλόθρευσε, καὶ κατεφύτευσας αὐτούς, ἐκάκωσας λαοὺς καὶ ἐξέβαλες αὐτούς.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v3|text', 'text' : 'Para implantarlos, expulsaste a naciones y para extenderlos, maltraste a pueblos.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v4|number', 'text' : '(43:4)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v4|text', 'text' : 'Οὐ γὰρ ἐν τῇ ῥομφαίᾳ αὐτῶν ἐκληρονόμησαν γῆν, καὶ ὁ βραχίων αὐτῶν οὐκ ἔσωσεν αὐτούς, ἀλλ' ἡ δεξιά σου καὶ ὁ βραχίων σου καὶ ὁ φωτισμὸς τοῦ προσώπου σου, ὅτι ηὐδόκησας ἐν αὐτοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v4|text', 'text' : 'No conquistó al país su propia espada, ni su brazo los hizo vencedores, sino que fueron tu diestra y tu brazo y la luz de tu rostro, porque los amabas.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v5|number', 'text' : '(43:5)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v5|text', 'text' : 'Σὺ εἶ αὐτὸς ὁ Βασιλεύς μου καὶ ὁ Θεός μου ὁ ἐντελλόμενος τὰς σωτηρίας Ἰακώβ·'}
+{'id_' : 'ps_spa_GT_odg|psa43|v5|text', 'text' : 'Tú, mi rey y mi Dios es quien decide las victorias de Jacob.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v6|number', 'text' : '(43:6)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v6|text', 'text' : 'Ἐν σοὶ τοὺς ἐχθροὺς ἡμῶν κερατιοῦμεν καὶ ἐν τῷ ὀνόματί σου ἐξουδενώσομεν τοὺς ἐπανισταμένους ἡμῖν.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v6|text', 'text' : 'Por ti hundimos a nuestros adversarios y en tu nombre pisamos a nuestros agresores.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v7|number', 'text' : '(43:7)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v7|text', 'text' : 'Οὐ γὰρ ἐπὶ τῷ τόξῳ μου ἐλπιῶ, καὶ ἡ ρομφαία μου οὐ σώσει με·'}
+{'id_' : 'ps_spa_GT_odg|psa43|v7|text', 'text' : 'No es mi arco en quien yo confío, ni es mi espada quien me da la victoria;'}
 {'id_' : 'ps_spa_GT_odg|psa43|v8|number', 'text' : '(43:8)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v8|text', 'text' : 'Ἔσωσας γὰρ ἡμᾶς ἐκ τῶν θλιβόντων ἡμᾶς καὶ τοὺς μισοῦντας ἡμᾶς κατῄσχυνας.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v8|text', 'text' : 'mas por ti vencemos a nuestros adversarios, tú dejas en vergüenza a los que nos odian.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v9|number', 'text' : '(43:9)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v9|text', 'text' : 'Ἐν τῷ Θεῷ ἐπαινεθησόμεθα ὅλην τὴν ἡμέραν καὶ ἐν τῷ ὀνόματί σου ἐξομολογηθησόμεθα εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v9|text', 'text' : 'A Dios cada día celebramos y sin cesar alabamos tu nombre.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v10|number', 'text' : '(43:10)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v10|text', 'text' : 'Νυνὶ δὲ ἀπώσω καὶ κατῄσχυνας ἡμᾶς καὶ οὐκ ἐξελεύσῃ, ὁ Θεός, ἐν ταῖς δυνάμεσιν ἡμῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v10|text', 'text' : 'Ahora, en cambio, nos rechazas y humillas y no sales al frente de nuestras tropas.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v11|number', 'text' : '(43:11)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v11|text', 'text' : 'Ἀπέστρεψας ἡμᾶς εἰς τὰ ὀπίσω παρὰ τοὺς ἐχθροὺς ἡμῶν, καὶ οἱ μισοῦντες ἡμᾶς διήρπαζον ἑαυτοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v11|text', 'text' : 'Nos haces ceder ante el adversario y los que nos odian saquean a gusto.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v12|number', 'text' : '(43:12)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v12|text', 'text' : 'Ἔδωκας ἡμᾶς ὡς πρόβατα βρώσεως καὶ ἐν τοῖς ἔθνεσι διέσπειρας ἡμᾶς·'}
+{'id_' : 'ps_spa_GT_odg|psa43|v12|text', 'text' : 'Nos entregas como ovejas a la matanza, y nos dispersas en medio de las naciones.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v13|number', 'text' : '(43:13)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v13|text', 'text' : 'Ἀπέδου τὸν λαόν σου ἄνευ τιμῆς, καὶ οὐκ ἦν πλῆθος ἐν τοῖς ἀλαλάγμασιν αὐτῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v13|text', 'text' : 'Vendes a tu pueblo por un precio irrisorio y no ganas nada con tu negocio.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v14|number', 'text' : '(43:14)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v14|text', 'text' : 'Ἔθου ἡμᾶς ὄνειδος τοῖς γείτοσιν ἡμῶν, μυκτηρισμὸν καὶ χλευασμὸν τοῖς κύκλῳ ἡμῶν·'}
+{'id_' : 'ps_spa_GT_odg|psa43|v14|text', 'text' : 'Nos haces el escarnio de nuestros vecinos, todos en derredor se burlan y se ríen.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v15|number', 'text' : '(43:15)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v15|text', 'text' : 'Ἔθου ἡμᾶς εἰς παραβολὴν ἐν τοῖς ἔθνεσιν, κίνησιν κεφαλῆς ἐν τοῖς λαοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v15|text', 'text' : 'Servimos de escarmiento a las naciones, y los pueblos menean la cabeza.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v16|number', 'text' : '(43:16)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v16|text', 'text' : 'Ὅλην τὴν ἡμέραν ἡ ἐντροπή μου κατεναντίον μού ἐστι, καὶ ἡ αἰσχύνη τοῦ προσώπου μου ἐκάλυψέ με'}
+{'id_' : 'ps_spa_GT_odg|psa43|v16|text', 'text' : 'Tengo siempre delante mi deshonra y enrojece mi rostro la vergüenza'}
 {'id_' : 'ps_spa_GT_odg|psa43|v17|number', 'text' : '(43:17)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v17|text', 'text' : 'Ἀπὸ φωνῆς ὀνειδίζοντος καὶ καταλαλοῦντος, ἀπὸ προσώπου ἐχθροῦ καὶ ἐκδιώκοντος.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v17|text', 'text' : 'al oír los insultos y blasfemias, al ver el odio y la venganza.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v18|number', 'text' : '(43:18)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v18|text', 'text' : 'Ταῦτα πάντα ἦλθεν ἐφ' ἡμᾶς καὶ οὐκ ἐπελαθόμεθά σου καὶ οὐκ ἠδικήσαμεν ἐν τῇ διαθήκῃ σου,'}
+{'id_' : 'ps_spa_GT_odg|psa43|v18|text', 'text' : 'Todo esto nos pasó sin que nosotros te olvidáramos o rompiéramos tu alianza.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v19|number', 'text' : '(43:19)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v19|text', 'text' : 'Καὶ οὐκ ἀπέστη εἰς τὰ ὀπίσω ἡ καρδία ἡμῶν καὶ ἐξέκλινας τὰς τρίβους ἡμῶν ἀπὸ τῆς ὁδοῦ σου.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v19|text', 'text' : 'No se dio vuelta nuestro corazón ni dejaron tu senda nuestros pasos.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v20|number', 'text' : '(43:20)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v20|text', 'text' : 'Ὅτι ἐταπείνωσας ἡμᾶς ἐν τόπῳ κακώσεως, καὶ ἐπεκάλυψεν ἡμᾶς σκιὰ θανάτου.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v20|text', 'text' : 'Pero nos aplastaste en el desierto, y nos cubrió la sombra de la muerte.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v21|number', 'text' : '(43:21)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v21|text', 'text' : 'Εἰ ἐπελαθόμεθα τοῦ ὀνόματος τοῦ Θεοῦ ἡμῶν καὶ εἰ διεπετάσαμεν χεῖρας ἡμῶν πρὸς Θεὸν ἀλλότριον,'}
+{'id_' : 'ps_spa_GT_odg|psa43|v21|text', 'text' : 'Si hubiéramos olvidado el nombre de nuestro Dios tendiendo las manos hacia un dios extranjero,'}
 {'id_' : 'ps_spa_GT_odg|psa43|v22|number', 'text' : '(43:22)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v22|text', 'text' : 'Οὐχὶ ὁ Θεὸς ἐκζητήσει ταῦτα; αὐτὸς γὰρ γινώσκει τὰ κρύφια τῆς καρδίας.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v22|text', 'text' : '¿no es cierto que Dios lo hubiera visto, el que conoce los secretos del corazón?'}
 {'id_' : 'ps_spa_GT_odg|psa43|v23|number', 'text' : '(43:23)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v23|text', 'text' : 'Ὅτι ἕνεκά σου θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v23|text', 'text' : 'Por tu causa nos matan a cada rato, y nos vemos como ovejas ante el cuchillo.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v24|number', 'text' : '(43:24)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v24|text', 'text' : 'Ἐξεγέρθητι· ἱνατί ὑπνοῖς, Κύριε; ἀνάστηθι καὶ μὴ ἀπώσῃ εἰς τέλος.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v24|text', 'text' : 'Despiértate, ¿por qué duermes, Señor? ¡Levántate y ven a socorrernos!'}
 {'id_' : 'ps_spa_GT_odg|psa43|v25|number', 'text' : '(43:25)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v25|text', 'text' : 'Ἱνατί τὸ πρόσωπόν σου ἀποστρέφεις; ἐπιλανθάνῃ τῆς πτωχείας ἡμῶν καὶ τῆς θλίψεως ἡμῶν;'}
+{'id_' : 'ps_spa_GT_odg|psa43|v25|text', 'text' : '¿Por qué escondes tu cara? ¿olvidas nuestra opresión, nuestra miseria?'}
 {'id_' : 'ps_spa_GT_odg|psa43|v26|number', 'text' : '(43:26)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v26|text', 'text' : 'Ὅτι ἐταπεινώθη εἰς χοῦν ἡ ψυχὴ ἡμῶν, ἐκολλήθη εἰς γῆν ἡ γαστὴρ ἡμῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa43|v26|text', 'text' : 'Nos arrastramos por el polvo y a la tierra se pega nuestro vientre.'}
 {'id_' : 'ps_spa_GT_odg|psa43|v27|number', 'text' : '(43:27)'}
-{'id_' : 'ps_spa_GT_odg|psa43|v27|text', 'text' : 'Ἀνάστα, Κύριε, βοήθησον ἡμῖν καὶ λύτρωσαι ἡμᾶς ἕνεκεν τοῦ ὀνόματός σου.'}
-{'id_' : 'ps_spa_GT_odg|psa43|v27alt|text', 'text' : 'Ἀνάστα, Κύριε, βοήθησον ἡμῖν καὶ λύτρωσαι ἡμᾶς, ἕνεκεν τῆς δόξης τοῦ ὀνόματός σου.'}
-{'id_' : 'ps_spa_GT_odg|psa44|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa43|v27|text', 'text' : '¡Levántate, Señor, y socórrenos, acuérdate de tu bondad y líbranos!'}
+{'id_' : 'ps_spa_GT_odg|psa43|v27alt|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa44|title', 'text' : 'Salmo 44 (45)'}
 {'id_' : 'ps_spa_GT_odg|psa44|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa44|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa44|text', 'text' : 'Lleno me siento de palabras bellas, recitaré al rey, yo, mi poema: mi lengua es como un lápiz de escritor. Tú eres el más hermoso entre los hombres, en tus labios la gracia se derrama, así Dios te bendijo para siempre. Cíñete ya la espada, poderoso, con gloria y con honor anda y cabalga por la causa de la verdad, la piedad y el derecho. Haces proezas con armas en la mano: tus flechas son agudas, los pueblos se te rinden; los enemigos del rey pierden coraje. Tu trono, oh Dios, es firme para siempre. Cetro de rectitud es el de tu reinado. Amas lo justo y odias lo que es malo; por eso Dios, tu Dios, te dio a ti solo una unción con perfumes de alegría como no se la dio a tus compañeros. Mirra y áloe impregnan tus vestidos, el son del arpa alegra tu casa de marfil. Hijas de reyes son tus muy amadas, una reina se sienta a tu derecha, oro de Ofir en sus vestiduras luce. Ahora tú, hija, atiéndeme y escucha: olvida a tu pueblo y la casa de tu padre, y tu hermosura al rey conquistará. El es tu Señor: los grandes de Tiro ante él se postrarán. Ahí vienen los ricos del país a rendirte homenaje. La hija del rey, con oro engalanada, es introducida al interior, vestida de brocados al rey es conducida. La siguen sus compañeras vírgenes que te son presentadas. Escoltadas de alegría y júbilo, van entrando al palacio real. En lugar de tus padres tendrás hijos, que en todas partes príncipes serán. Gracias a mí yo quiero que tu nombre viva de una a otra generación y que los pueblos te aclamen para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v1|number', 'text' : '(44:1)'}
 {'id_' : 'ps_spa_GT_odg|psa44|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa44|v2|number', 'text' : '(44:2)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v2|text', 'text' : 'Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν, λέγω ἐγὼ τὰ ἔργα μου τῷ βασιλεῖ, ἡ γλῶσσά μου κάλαμος γραμματέως ὀξυγράφου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v2|text', 'text' : 'Lleno me siento de palabras bellas, recitaré al rey, yo, mi poema: mi lengua es como un lápiz de escritor.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v2a|number', 'text' : '(44:2a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v2a|text', 'text' : 'Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν, λέγω ἐγὼ τὰ ἔργα μου τῷ βασιλεῖ.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v2a|text', 'text' : 'Lleno me siento de palabras bellas, recitaré al rey, yo, mi poema:'}
 {'id_' : 'ps_spa_GT_odg|psa44|v2b|number', 'text' : '(44:2b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v2b|text', 'text' : 'Ἡ γλῶσσά μου κάλαμος γραμματέως ὀξυγράφου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v2b|text', 'text' : 'mi lengua es como un lápiz de escritor.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v3|number', 'text' : '(44:3)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v3|text', 'text' : 'Ὡραῖος κάλλει παρὰ τοὺς υἱοὺς τῶν ἀνθρώπων, ἐξεχύθη χάρις ἐν χείλεσί σου· διὰ τοῦτο εὐλόγησέ σε ὁ Θεὸς εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v3|text', 'text' : 'Tú eres el más hermoso entre los hombres, en tus labios la gracia se derrama, así Dios te bendijo para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v3a|number', 'text' : '(44:3a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v3a|text', 'text' : 'Ὡραῖος κάλλει παρὰ τοὺς υἱοὺς τῶν ἀνθρώπων.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v3a|text', 'text' : 'Tú eres el más hermoso entre los hombres,'}
 {'id_' : 'ps_spa_GT_odg|psa44|v3b|number', 'text' : '(44:3b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v3b|text', 'text' : 'Ἐξεχύθη χάρις ἐν χείλεσί σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v3b|text', 'text' : 'en tus labios la gracia se derrama,'}
 {'id_' : 'ps_spa_GT_odg|psa44|v3c|number', 'text' : '(44:3c)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v3c|text', 'text' : 'Διὰ τοῦτο εὐλόγησέ σε ὁ Θεὸς εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v3c|text', 'text' : 'así Dios te bendijo para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v4|number', 'text' : '(44:4)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v4|text', 'text' : 'Περίζωσαι τὴν ρομφαίαν σου ἐπὶ τὸν μηρόν σου, δυνατέ, τῇ ὡραιότητί σου καὶ τῷ κάλλει σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v4|text', 'text' : 'Cíñete ya la espada, poderoso, con gloria y con honor'}
 {'id_' : 'ps_spa_GT_odg|psa44|v5|number', 'text' : '(44:5)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v5|text', 'text' : 'Καὶ ἔντεινον καὶ κατευοδοῦ καὶ βασίλευε ἕνεκεν ἀληθείας καὶ πρᾳότητος καὶ δικαιοσύνης, καὶ ὁδηγήσει σε θαυμαστῶς ἡ δεξιά σου.'}
-{'id_' : 'ps_spa_GT_odg|psa44|v5a|text', 'text' : 'Καὶ ἔντεινον καὶ κατευοδοῦ καὶ βασίλευε ἕνεκεν ἀληθείας καὶ πρᾳότητος καὶ δικαιοσύνης.'}
-{'id_' : 'ps_spa_GT_odg|psa44|v5alt|text', 'text' : 'Ἔντεινε καὶ κατευοδοῦ καὶ βασίλευε ἕνεκεν ἀληθείας καὶ χρηστότητος.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v5|text', 'text' : 'anda y cabalga por la causa de la verdad, la piedad y el derecho. Haces proezas con armas en la mano:'}
+{'id_' : 'ps_spa_GT_odg|psa44|v5a|text', 'text' : 'anda y cabalga por la causa de la verdad, la piedad y el derecho.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v5alt|text', 'text' : 'anda y cabalga por la causa de la verdad y la piedad.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v6|number', 'text' : '(44:6)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v6|text', 'text' : 'Τὰ βέλη σου ἠκονημένα, δυνατέ, λαοὶ ὑποκάτω σου πεσοῦνται, ἐν καρδίᾳ τῶν ἐχθρῶν τοῦ βασιλέως.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v6|text', 'text' : 'tus flechas son agudas, los pueblos se te rinden; los enemigos del rey pierden coraje.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v7|number', 'text' : '(44:7)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v7|text', 'text' : 'Ὁ θρόνος σου, ὁ Θεός, εἰς τὸν αἰῶνα τοῦ αἰῶνος, ράβδος εὐθύτητος ἡ ῥάβδος τῆς βασιλείας σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v7|text', 'text' : 'Tu trono, oh Dios, es firme para siempre. Cetro de rectitud es el de tu reinado.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v7a|number', 'text' : '(44:7a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v7a|text', 'text' : 'Ὁ θρόνος σου, ὁ Θεός, εἰς τὸν αἰῶνα τοῦ αἰῶνος.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v7a|text', 'text' : 'Tu trono, oh Dios, es firme para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v7b|number', 'text' : '(44:7b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v7b|text', 'text' : 'Ράβδος εὐθύτητος ἡ ῥάβδος τῆς βασιλείας σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v7b|text', 'text' : 'Cetro de rectitud es el de tu reinado.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v8|number', 'text' : '(44:8)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v8|text', 'text' : 'Ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς ὁ Θεός σου ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v8|text', 'text' : 'Amas lo justo y odias lo que es malo; por eso Dios, tu Dios, te dio a ti solo una unción con perfumes de alegría como no se la dio a tus compañeros.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v8a|number', 'text' : '(44:8a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v8a|text', 'text' : 'Ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v8a|text', 'text' : 'Amas lo justo y odias lo que es malo;'}
 {'id_' : 'ps_spa_GT_odg|psa44|v8b|number', 'text' : '(44:8b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v8b|text', 'text' : 'Διὰ τοῦτο ἔχρισέ σε ὁ Θεὸς ὁ Θεός σου ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v8b|text', 'text' : 'por eso Dios, tu Dios, te dio a ti solo una unción con perfumes de alegría como no se la dio a tus compañeros.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v9|number', 'text' : '(44:9)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v9|text', 'text' : 'Σμύρνα καὶ στακτὴ καὶ κασσία ἀπὸ τῶν ἱματίων σου ἀπὸ βάρεων ἐλεφαντίνων, ἐξ ὧν εὔφρανάν σε.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v9|text', 'text' : 'Mirra y áloe impregnan tus vestidos, el son del arpa alegra tu casa de marfil.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v10|number', 'text' : '(44:10)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v10|text', 'text' : 'Θυγατέρας βασιλέων ἐν τῇ τιμῇ σου· παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου ἐν ἱματισμῷ διαχρύσῳ περιβεβλημένη, πεποικιλμένη.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v10|text', 'text' : 'Hijas de reyes son tus muy amadas, una reina se sienta a tu derecha, oro de Ofir en sus vestiduras luce.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v10b|number', 'text' : '(44:10b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v10b|text', 'text' : 'Παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου ἐν ἱματισμῷ διαχρύσῳ περιβεβλημένη, πεποικιλμένη.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v10b|text', 'text' : 'Una reina se sienta a tu derecha, oro de Ofir en sus vestiduras luce.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v11|number', 'text' : '(44:11)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v11|text', 'text' : 'Ἄκουσον, θύγατερ, καὶ ἴδε καὶ κλῖνον τὸ οὖς σου καὶ ἐπιλάθου τοῦ λαοῦ σου καὶ τοῦ οἴκου τοῦ πατρός σου·'}
+{'id_' : 'ps_spa_GT_odg|psa44|v11|text', 'text' : 'Ahora tú, hija, atiéndeme y escucha: olvida a tu pueblo y la casa de tu padre,'}
 {'id_' : 'ps_spa_GT_odg|psa44|v12|number', 'text' : '(44:12)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v12|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa44|v12|text', 'text' : 'y tu hermosura al rey conquistará. El es tu Señor:'}
 {'id_' : 'ps_spa_GT_odg|psa44|v12a|number', 'text' : '(44:12a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v12a|text', 'text' : 'Καὶ ἐπιθυμήσει ὁ βασιλεὺς τοῦ κάλλους σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v12a|text', 'text' : 'y tu hermosura al rey conquistará.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v12b|number', 'text' : '(44:12b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v12b|text', 'text' : 'Ὅτι αὐτός ἐστι Κύριός σου,'}
+{'id_' : 'ps_spa_GT_odg|psa44|v12b|text', 'text' : 'El es tu Señor:'}
 {'id_' : 'ps_spa_GT_odg|psa44|v13|number', 'text' : '(44:13)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v13|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa44|v13|text', 'text' : 'los grandes de Tiro ante él se postrarán. Ahí vienen los ricos del país a rendirte homenaje.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v13a|number', 'text' : '(44:13a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v13a|text', 'text' : 'Καὶ προσκυνήσεις αὐτῷ. καὶ θυγάτηρ Τύρου ἐν δώροις.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v13a|text', 'text' : 'los grandes de Tiro ante él se postrarán.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v13b|number', 'text' : '(44:13b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v13b|text', 'text' : 'Τὸ πρόσωπόν σου λιτανεύσουσιν οἱ πλούσιοι τοῦ λαοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v13b|text', 'text' : 'Ahí vienen los ricos del país a rendirte homenaje.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v14|number', 'text' : '(44:14)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v14|text', 'text' : 'Πᾶσα ἡ δόξα τῆς θυγατρὸς τοῦ βασιλέως ἔσωθεν, ἐν κροσσωτοῖς χρυσοῖς περιβεβλημένη, πεποικιλμένη.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v14|text', 'text' : 'La hija del rey, con oro engalanada, es introducida al interior,'}
 {'id_' : 'ps_spa_GT_odg|psa44|v15|number', 'text' : '(44:15)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v15|text', 'text' : 'Ἀπενεχθήσονται τῷ βασιλεῖ παρθένοι ὀπίσω αὐτῆς, αἱ πλησίον αὐτῆς ἀπενεχθήσονταί σοι.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v15|text', 'text' : 'vestida de brocados al rey es conducida. La siguen sus compañeras vírgenes que te son presentadas.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v15a|number', 'text' : '(44:15a)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v15a|text', 'text' : 'Ἀπενεχθήσονται τῷ βασιλεῖ παρθένοι ὀπίσω αὐτῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v15a|text', 'text' : 'vestida de brocados al rey es conducida.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v15b|number', 'text' : '(44:15b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v15b|text', 'text' : 'Αἱ πλησίον αὐτῆς ἀπενεχθήσονταί σοι.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v15b|text', 'text' : 'La siguen sus compañeras vírgenes que te son presentadas.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v16|number', 'text' : '(44:16)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v16|text', 'text' : 'Ἀπενεχθήσονται ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει, ἀχθήσονται εἰς ναὸν βασιλέως.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v16|text', 'text' : 'Escoltadas de alegría y júbilo, van entrando al palacio real.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v17|number', 'text' : '(44:17)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v17|text', 'text' : 'Ἀντὶ τῶν πατέρων σου ἐγενήθησαν υἱοί σου· καταστήσεις αὐτοὺς ἄρχοντας ἐπὶ πᾶσαν τὴν γῆν.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v17|text', 'text' : 'En lugar de tus padres tendrás hijos, que en todas partes príncipes serán.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v17a|number', 'text' : '(44:1a7)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v17a|text', 'text' : 'Ἀντὶ τῶν πατέρων σου ἐγενήθησαν υἱοί σου.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v17a|text', 'text' : 'En lugar de tus padres tendrás hijos,'}
 {'id_' : 'ps_spa_GT_odg|psa44|v17b|number', 'text' : '(44:17b)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v17b|text', 'text' : 'Καταστήσεις αὐτοὺς ἄρχοντας ἐπὶ πᾶσαν τὴν γῆν.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v17b|text', 'text' : 'que en todas partes príncipes serán.'}
 {'id_' : 'ps_spa_GT_odg|psa44|v18|number', 'text' : '(44:18)'}
-{'id_' : 'ps_spa_GT_odg|psa44|v18|text', 'text' : 'Μνησθήσονται τοῦ ὀνόματός σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ· διὰ τοῦτο λαοὶ ἐξομολογήσονταί σοι εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος.'}
-{'id_' : 'ps_spa_GT_odg|psa44|v18alt|text', 'text' : 'Μνησθήσομαι τοῦ ὀνόματός σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ.'}
-{'id_' : 'ps_spa_GT_odg|psa45|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa44|v18|text', 'text' : 'Gracias a mí yo quiero que tu nombre viva de una a otra generación y que los pueblos te aclamen para siempre.'}
+{'id_' : 'ps_spa_GT_odg|psa44|v18alt|text', 'text' : 'Gracias a mí yo quiero que tu nombre viva de una a otra generación.'}
+{'id_' : 'ps_spa_GT_odg|psa45|title', 'text' : 'Salmo 45 (46)'}
 {'id_' : 'ps_spa_GT_odg|psa45|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa45|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa45|text', 'text' : 'Dios es nuestro refugio y fortaleza, socorro siempre a mano en momentos de angustia. Por eso, si hay temblor no temeremos, o si al fondo del mar caen los montes; aunque sus aguas rujan y se encrespen y los montes a su ímpetu retiemblen: El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob. Un río, sus brazos regocijan a la ciudad de Dios, santifica las moradas del Altísimo. Dios está en ella, no puede ceder, Dios la socorre al despuntar la aurora. Los pueblos bramaban, los reinos en marcha se ponían... El eleva su voz y el mundo se hunde. El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob. Vengan a ver las hazañas del Señor, y los estragos que causó a la tierra. Pone fin a la guerra en todo el país, rompe el arco y en dos parte la lanza y consume los carros en el fuego. Paren y reconozcan que soy Dios, muy por encima de los pueblos y muy alto sobre la tierra. El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v1|number', 'text' : '(45:1)'}
 {'id_' : 'ps_spa_GT_odg|psa45|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa45|v2|number', 'text' : '(45:2)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v2|text', 'text' : 'Ὁ Θεὸς ἡμῶν καταφυγὴ καὶ δύναμις, βοηθὸς ἐν θλίψεσι ταῖς εὑρούσαις ἡμᾶς σφόδρα.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v2|text', 'text' : 'Dios es nuestro refugio y fortaleza, socorro siempre a mano en momentos de angustia.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v3|number', 'text' : '(45:3)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v3|text', 'text' : 'Διὰ τοῦτο οὐ φοβηθησόμεθα ἐν τῷ ταράσσεσθαι τὴν γῆν καὶ μετατίθεσθαι ὄρη ἐν καρδίαις θαλασσῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v3|text', 'text' : 'Por eso, si hay temblor no temeremos, o si al fondo del mar caen los montes;'}
 {'id_' : 'ps_spa_GT_odg|psa45|v4|number', 'text' : '(45:4)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v4|text', 'text' : 'Ἤχησαν καὶ ἐταράχθησαν τὰ ὕδατα αὐτῶν, ἐταράχθησαν τὰ ὄρη ἐν τῇ κραταιότητι αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v4|text', 'text' : 'aunque sus aguas rujan y se encrespen y los montes a su ímpetu retiemblen: El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v5|number', 'text' : '(45:5)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v5|text', 'text' : 'Τοῦ ποταμοῦ τὰ ὁρμήματα εὐφραίνουσι τὴν πόλιν τοῦ Θεοῦ· ἡγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v5|text', 'text' : 'Un río, sus brazos regocijan a la ciudad de Dios, santifica las moradas del Altísimo.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v5a|number', 'text' : '(45:5a)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v5a|text', 'text' : 'Τοῦ ποταμοῦ τὰ ὁρμήματα εὐφραίνουσι τὴν πόλιν τοῦ Θεοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v5a|text', 'text' : 'Un río, sus brazos regocijan a la ciudad de Dios,'}
 {'id_' : 'ps_spa_GT_odg|psa45|v5b|number', 'text' : '(45:5b)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v5b|text', 'text' : 'Ἡγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v5b|text', 'text' : 'santifica las moradas del Altísimo.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v6|number', 'text' : '(45:6)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v6|text', 'text' : 'Ὁ Θεὸς ἐν μέσῳ αὐτῆς καὶ οὐ σαλευθήσεται· βοηθήσει αὐτῇ ὁ Θεὸς τὸ πρὸς πρωΐ πρωΐ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v6|text', 'text' : 'Dios está en ella, no puede ceder, Dios la socorre al despuntar la aurora.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v7|number', 'text' : '(45:7)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v7|text', 'text' : 'Ἐταράχθησαν ἔθνη, ἔκλιναν βασιλεῖαι· ἔδωκε φωνὴν αὐτοῦ, ἐσαλεύθη ἡ γῆ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v7|text', 'text' : 'ἘLos pueblos bramaban, los reinos en marcha se ponían... El eleva su voz y el mundo se hunde.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v8|number', 'text' : '(45:8)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v8|text', 'text' : 'Κύριος τῶν δυνάμεων μεθ' ἡμῶν, ἀντιλήπτωρ ἡμῶν ὁ Θεὸς Ἰακώβ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v8|text', 'text' : 'El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v9|number', 'text' : '(45:9)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v9|text', 'text' : 'Δεῦτε καὶ ἴδετε τὰ ἔργα τοῦ Θεοῦ, ἃ ἔθετο τέρατα ἐπὶ τῆς γῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v9|text', 'text' : 'Vengan a ver las hazañas del Señor, y los estragos que causó a la tierra.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v10|number', 'text' : '(45:10)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v10|text', 'text' : 'Ἀνταναιρῶν πολέμους μέχρι τῶν περάτων τῆς γῆς τόξον συντρίψει καὶ συνθλάσει ὅπλον καὶ θυρεοὺς κατακαύσει ἐν πυρί.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v10|text', 'text' : 'Pone fin a la guerra en todo el país, rompe el arco y en dos parte la lanza y consume los carros en el fuego.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v11|number', 'text' : '(45:11)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v11|text', 'text' : 'Σχολάσατε καὶ γνῶτε ὅτι ἐγώ εἰμι ὁ Θεός· ὑψωθήσομαι ἐν τοῖς ἔθνεσιν, ὑψωθήσομαι ἐν τῇ γῇ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v11|text', 'text' : 'Paren y reconozcan que soy Dios, muy por encima de los pueblos y muy alto sobre la tierra.'}
 {'id_' : 'ps_spa_GT_odg|psa45|v12|number', 'text' : '(45:12)'}
-{'id_' : 'ps_spa_GT_odg|psa45|v12|text', 'text' : 'Κύριος τῶν δυνάμεων μεθ' ἡμῶν, ἀντιλήπτωρ ἡμῶν ὁ Θεὸς Ἰακώβ.'}
+{'id_' : 'ps_spa_GT_odg|psa45|v12|text', 'text' : 'El Señor Sabaot está con nosotros, es nuestro baluarte el Dios de Jacob.'}
 {'id_' : 'ps_spa_GT_odg|kathisma_7|title', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa46|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa46|title', 'text' : 'Salmo 46 (47)'}
 {'id_' : 'ps_spa_GT_odg|psa46|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa46|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa46|text', 'text' : 'Aplaudan, pueblos todos, aclamen a Dios con voces de alegría pues el Señor, el altísimo, es terrible, es un gran rey en toda la tierra. Bajo nuestro yugo pone a las naciones y los pueblos a nuestros pies; él eligió para nosotros nuestra herencia, orgullo de Jacob, su muy amado. Dios sube entre fanfarrias, para el Señor resuenan los cuernos; canten, canten a Dios; entonen salmos a nuestro rey; a Dios que es el rey de toda la tierra, cántenle un himno de alabanza. Dios reina sobre las naciones, Dios se sienta en su santo trono. Los jefes de los pueblos se han unido con el pueblo del Dios de Abrahán; porque él es el señor de los grandes de la tierra, él es Dios y es muy excelso.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v1|number', 'text' : '(46:1)'}
 {'id_' : 'ps_spa_GT_odg|psa46|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa46|v2|number', 'text' : '(46:2)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v2|text', 'text' : 'Πάντα τὰ ἔθνη κροτήσατε χεῖρας, ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v2|text', 'text' : 'Aplaudan, pueblos todos, aclamen a Dios con voces de alegría'}
 {'id_' : 'ps_spa_GT_odg|psa46|v2a|number', 'text' : '(46:2a)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v2a|text', 'text' : 'Πάντα τὰ ἔθνη κροτήσατε χεῖρας.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v2a|text', 'text' : 'Aplaudan, pueblos todos,'}
 {'id_' : 'ps_spa_GT_odg|psa46|v2b|number', 'text' : '(46:2b)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v2b|text', 'text' : 'Ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v2b|text', 'text' : 'aclamen a Dios con voces de alegría'}
 {'id_' : 'ps_spa_GT_odg|psa46|v3|number', 'text' : '(46:3)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v3|text', 'text' : 'Ὅτι Κύριος ὕψιστος, φοβερός, βασιλεὺς μέγας ἐπὶ πᾶσαν τὴν γῆν.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v3|text', 'text' : 'pues el Señor, el altísimo, es terrible, es un gran rey en toda la tierra.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v4|number', 'text' : '(46:4)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v4|text', 'text' : 'Ὑπέταξε λαοὺς ἡμῖν καὶ ἔθνη ὑπὸ τοὺς πόδας ἡμῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v4|text', 'text' : 'Bajo nuestro yugo pone a las naciones y los pueblos a nuestros pies;'}
 {'id_' : 'ps_spa_GT_odg|psa46|v5|number', 'text' : '(46:5)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v5|text', 'text' : 'Ἐξελέξατο ἡμῖν τὴν κληρονομίαν αὐτοῦ, τὴν καλλονὴν Ἰακώβ, ἣν ἠγάπησεν.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v5|text', 'text' : 'él eligió para nosotros nuestra herencia, orgullo de Jacob, su muy amado.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v6|number', 'text' : '(46:6)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v6|text', 'text' : 'Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v6|text', 'text' : 'Dios sube entre fanfarrias, para el Señor resuenan los cuernos;'}
+{'id_' : 'ps_spa_GT_odg|psa46|v6alt|text', 'text' : 'Dios ha sido ensalzado, el Señor a la voz de las trompetas.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v7|number', 'text' : '(46:7)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v7|text', 'text' : 'Ψάλατε τῷ Θεῷ ἡμῶν, ψάλατε, ψάλατε τῷ βασιλεῖ ἡμῶν, ψάλατε.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v7|text', 'text' : 'canten, canten a Dios; entonen salmos a nuestro rey;'}
 {'id_' : 'ps_spa_GT_odg|psa46|v8|number', 'text' : '(46:8)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v8|text', 'text' : 'Ὅτι βασιλεὺς πάσης τῆς γῆς ὁ Θεός, ψάλατε συνετῶς.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v8|text', 'text' : 'a Dios que es el rey de toda la tierra, cántenle un himno de alabanza.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v9|number', 'text' : '(46:9)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v9|text', 'text' : 'Ἐβασίλευσεν ὁ Θεὸς ἐπὶ τὰ ἔθνη, ὁ Θεὸς κάθηται ἐπὶ θρόνου ἁγίου αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa46|v9|text', 'text' : 'Dios reina sobre las naciones, Dios se sienta en su santo trono.'}
 {'id_' : 'ps_spa_GT_odg|psa46|v10|number', 'text' : '(46:10)'}
-{'id_' : 'ps_spa_GT_odg|psa46|v10|text', 'text' : 'Ἄρχοντες λαῶν συνήχθησαν μετὰ τοῦ Θεοῦ ῾Αβραάμ, ὅτι τοῦ Θεοῦ οἱ κραταιοὶ τῆς γῆς σφόδρα ἐπήρθησαν.'}
-{'id_' : 'ps_spa_GT_odg|psa47|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa46|v10|text', 'text' : 'Los jefes de los pueblos se han unido con el pueblo del Dios de Abrahán; porque él es el señor de los grandes de la tierra, él es Dios y es muy excelso.'}
+{'id_' : 'ps_spa_GT_odg|psa47|title', 'text' : 'Salmo 47 (48)'}
 {'id_' : 'ps_spa_GT_odg|psa47|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa47|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa47|text', 'text' : 'Grande es el Señor y muy digno de alabanzas, en la ciudad de nuestro Dios, en su monte santo de hermosa altivez, alegría de toda la tierra. ¡Monte Sión, morada divina, ciudad del Gran Rey! Dentro de sus torreones está Dios, se ha revelado como su baluarte. Los reyes se habían unido, y juntos avanzaban, hasta que la vieron... y quedaron pasmados, presas de pánico, se dieron a la fuga. Allí mismo los agarró un temblor, un escalofrío como de mujer en parto; así es como el viento del oriente estrella a los navíos de Tarsis. Tal como lo oímos, así lo vimos en la ciudad del Señor Sabaot, en la ciudad de nuestro Dios: él la ha asentado para siempre. Oh Dios, recordamos tus favores en los patios de tu Templo; que iguale, oh Dios, tu alabanza a tu nombre, y alcance los confines de la tierra. Impone tu diestra tu justicia; se alegra el monte Sión; los pueblos de Judá saltan de gozo al presenciar tus juicios. Recorran Sión y den la vuelta, cuenten sus torres y contemplen sus defensas recorran uno a uno sus palacios; y digan a las nuevas generaciones: ¡así es nuestro Dios! Nuestro Dios por los siglos de los siglos, él nos conducirá.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v1|number', 'text' : '(47:1)'}
 {'id_' : 'ps_spa_GT_odg|psa47|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa47|v2|number', 'text' : '(47:2)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v2|text', 'text' : 'Μέγας Κύριος καὶ αἰνετὸς σφόδρα ἐν πόλει τοῦ Θεοῦ ἡμῶν, ἐν ὄρει ἁγίῳ αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v2|text', 'text' : 'Grande es el Señor y muy digno de alabanzas, en la ciudad de nuestro Dios, en su monte santo'}
 {'id_' : 'ps_spa_GT_odg|psa47|v2a|number', 'text' : '(47:2a)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v2a|text', 'text' : 'Μέγας Κύριος καὶ αἰνετὸς σφόδρα.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v2a|text', 'text' : 'Grande es el Señor y muy digno de alabanzas,'}
 {'id_' : 'ps_spa_GT_odg|psa47|v2b|number', 'text' : '(47:2b)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v2b|text', 'text' : 'Ἐν πόλει τοῦ Θεοῦ ἡμῶν, ἐν ὄρει ἁγίῳ αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v2b|text', 'text' : 'en la ciudad de nuestro Dios, en su monte santo'}
 {'id_' : 'ps_spa_GT_odg|psa47|v3|number', 'text' : '(47:3)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v3|text', 'text' : 'Εὐρίζῳ ἀγαλλιάματι πάσης τῆς γῆς. ὄρη Σιών, τὰ πλευρὰ τοῦ Βορρᾶ, ἡ πόλις τοῦ βασιλέως τοῦ μεγάλου.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v3|text', 'text' : 'de hermosa altivez, alegría de toda la tierra. ¡Monte Sión, morada divina, ciudad del Gran Rey!'}
 {'id_' : 'ps_spa_GT_odg|psa47|v4|number', 'text' : '(47:4)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v4|text', 'text' : 'Ὁ Θεὸς ἐν τοῖς βάρεσιν αὐτῆς γινώσκεται, ὅταν ἀντιλαμβάνηται αὐτῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v4|text', 'text' : 'Dentro de sus torreones está Dios, se ha revelado como su baluarte.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v5|number', 'text' : '(47:5)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v5|text', 'text' : 'Ὅτι ἰδοὺ οἱ βασιλεῖς τῆς γῆς συνήχθησαν, ἤλθοσαν ἐπὶ τὸ αὐτό·'}
+{'id_' : 'ps_spa_GT_odg|psa47|v5|text', 'text' : 'Los reyes se habían unido, y juntos avanzaban, hasta que la vieron...'}
 {'id_' : 'ps_spa_GT_odg|psa47|v6|number', 'text' : '(47:6)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v6|text', 'text' : 'Αὐτοὶ ἰδόντες οὕτως ἐθαύμασαν, ἐταράχθησαν, ἐσαλεύθησαν,'}
+{'id_' : 'ps_spa_GT_odg|psa47|v6|text', 'text' : 'y quedaron pasmados, presas de pánico, se dieron a la fuga.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v7|number', 'text' : '(47:7)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v7|text', 'text' : 'Τρόμος ἐπελάβετο αὐτῶν, ἐκεῖ ὠδῖνες ὡς τικτούσης.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v7|text', 'text' : 'Allí mismo los agarró un temblor, un escalofrío como de mujer en parto;'}
 {'id_' : 'ps_spa_GT_odg|psa47|v8|number', 'text' : '(47:8)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v8|text', 'text' : 'Ἐν πνεύματι βιαίῳ συντρίψεις πλοῖα Θαρσίς.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v8|text', 'text' : 'así es como el viento del oriente estrella a los navíos de Tarsis.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v9|number', 'text' : '(47:9)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v9|text', 'text' : 'Καθάπερ ἠκούσαμεν, οὕτω καὶ εἴδομεν ἐν πόλει Κυρίου τῶν δυνάμεων, ἐν πόλει τοῦ Θεοῦ ἡμῶν· ὁ Θεὸς ἐθεμελίωσεν αὐτὴν εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v9|text', 'text' : 'Tal como lo oímos, así lo vimos en la ciudad del Señor Sabaot, en la ciudad de nuestro Dios: él la ha asentado para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v9a|number', 'text' : '(47:9a)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v9a|text', 'text' : 'Καθάπερ ἠκούσαμεν, οὕτω καὶ εἴδομεν ἐν πόλει Κυρίου τῶν δυνάμεων, ἐν πόλει τοῦ Θεοῦ ἡμῶν.'}
-{'id_' : 'ps_spa_GT_odg|psa47|v9alt|text', 'text' : 'Ἐν πόλει Κυρίου τῶν δυνάμεων, ἐν πόλει τοῦ Θεοῦ ἡμῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v9a|text', 'text' : 'Tal como lo oímos, así lo vimos en la ciudad del Señor Sabaot, en la ciudad de nuestro Dios:'}
+{'id_' : 'ps_spa_GT_odg|psa47|v9alt|text', 'text' : 'en la ciudad del Señor Sabaot, en la ciudad de nuestro Dios:'}
 {'id_' : 'ps_spa_GT_odg|psa47|v9b|number', 'text' : '(47:9b)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v9b|text', 'text' : 'Ὁ Θεὸς ἐθεμελίωσεν αὐτὴν εἰς τὸν αἰῶνα.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v9b|text', 'text' : 'él la ha asentado para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v10|number', 'text' : '(47:10)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v10|text', 'text' : 'Ὑπελάβομεν, ὁ Θεός, τὸ ἔλεός σου ἐν μέσῳ τοῦ λαοῦ σου.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v10|text', 'text' : 'Oh Dios, recordamos tus favores en los patios de tu Templo;'}
 {'id_' : 'ps_spa_GT_odg|psa47|v11|number', 'text' : '(47:11)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v11|text', 'text' : 'Κατὰ τὸ ὄνομά σου, ὁ Θεός, οὕτω καὶ ἡ αἴνεσίς σου ἐπὶ τὰ πέρατα τῆς γῆς· δικαιοσύνης πλήρης ἡ δεξιά σου.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v11|text', 'text' : 'que iguale, oh Dios, tu alabanza a tu nombre, y alcance los confines de la tierra.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v12|number', 'text' : '(47:12)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v12|text', 'text' : 'Εὐφρανθήτω τὸ ὄρος Σιών, ἀγαλλιάσθωσαν αἱ θυγατέρες τῆς Ἰουδαίας ἕνεκεν κριμάτων σου, Κύριε.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v12|text', 'text' : 'Impone tu diestra tu justicia; se alegra el monte Sión; los pueblos de Judá saltan de gozo al presenciar tus juicios.'}
 {'id_' : 'ps_spa_GT_odg|psa47|v13|number', 'text' : '(47:13)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v13|text', 'text' : 'Κυκλώσατε Σιὼν καὶ περιλάβετε αὐτήν, διηγήσασθε ἐν τοῖς πύργοις αὐτῆς,'}
+{'id_' : 'ps_spa_GT_odg|psa47|v13|text', 'text' : 'Recorran Sión y den la vuelta, cuenten sus torres'}
 {'id_' : 'ps_spa_GT_odg|psa47|v14|number', 'text' : '(47:14)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v14|text', 'text' : 'Θέσθε τὰς καρδίας ὑμῶν εἰς τὴν δύναμιν αὐτῆς καὶ καταδιέλεσθε τὰς βάρεις αὐτῆς, ὅπως ἂν διηγήσησθε εἰς γενεὰν ἑτέραν.'}
+{'id_' : 'ps_spa_GT_odg|psa47|v14|text', 'text' : 'y contemplen sus defensas recorran uno a uno sus palacios; y digan a las nuevas generaciones:'}
 {'id_' : 'ps_spa_GT_odg|psa47|v15|number', 'text' : '(47:15)'}
-{'id_' : 'ps_spa_GT_odg|psa47|v15|text', 'text' : 'Ὅτι οὗτός ἐστιν ὁ Θεὸς ἡμῶν εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος· αὐτὸς ποιμανεῖ ἡμᾶς εἰς τοὺς αἰῶνας.'}
-{'id_' : 'ps_spa_GT_odg|psa48|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa47|v15|text', 'text' : '¡así es nuestro Dios! Nuestro Dios por los siglos de los siglos, él nos conducirá.'}
+{'id_' : 'ps_spa_GT_odg|psa48|title', 'text' : 'Salmo 48 (49)'}
 {'id_' : 'ps_spa_GT_odg|psa48|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa48|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa48|text', 'text' : 'Oigan esto, pueblos todos, habitantes del mundo entero, escuchen: gente del pueblo y gente de apellido, ricos y pobres, todos en conjunto. Mi boca va a decir sabiduría y lo que pienso sobre cosas hondas; dejen que me concentre en un refrán, lo explicaré luego al son del arpa. ¿Por qué temer en días de desgracia, cuando me cercan el mal y la traición de los que en su fortuna se confían y hacen prevalecer su gran riqueza? Mas, comprada su vida nadie tiene, ni a Dios puede, con plata, sobornarlo, pues es muy caro el precio de la vida. ¿Vivir piensa por siempre, o cree que no irá a la fosa un día? Pues bien, verá que los sabios se mueren, que igual perecen el necio y el estúpido, y dejan para otros su riqueza. Sus tumbas son sus casas para siempre, por siglos y siglos, sus moradas, por más que su nombre a sus tierras hayan puesto. El hombre en los honores no comprende, es igual que el ganado que se mata. Hacia allá van los que en sí confían, ese será el fin de los que les gusta escucharse. Abajo, cual rebaño la muerte los reúne, los pastorea y les impone su ley. Son como un espectro desvaído que a la mañana vuelve a su casa abajo. Pero a mí Dios me rescatará, y me sacará de las garras de la muerte. No temas cuando el hombre se enriquece, cuando aumenta la fama de su casa. Nada podrá llevar él a su muerte, ni su riqueza podrá bajar con él. Su alma, que siempre en vida bendecía: 'Te alaban, porque te has tratado bien,' irá a unirse con la raza de sus padres, que jamás volverán a ver la luz. El hombre en los honores no comprende, es igual que el ganado que se mata.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v1|number', 'text' : '(48:1)'}
 {'id_' : 'ps_spa_GT_odg|psa48|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa48|v2|number', 'text' : '(48:2)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v2|text', 'text' : 'Ἀκούσατε ταῦτα, πάντα τὰ ἔθνη, ἐνωτίσασθε πάντες οἱ κατοικοῦντες τὴν οἰκουμένην.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v2|text', 'text' : 'Oigan esto, pueblos todos, habitantes del mundo entero, escuchen:'}
 {'id_' : 'ps_spa_GT_odg|psa48|v3|number', 'text' : '(48:3)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v3|text', 'text' : 'Οἵ τε γηγενεῖς καὶ οἱ υἱοὶ τῶν ἀνθρώπων, ἐπὶ τὸ αὐτὸ πλούσιος καὶ πένης.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v3|text', 'text' : 'gente del pueblo y gente de apellido, ricos y pobres, todos en conjunto.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v4|number', 'text' : '(48:4)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v4|text', 'text' : 'Τὸ στόμα μου λαλήσει σοφίαν καὶ ἡ μελέτη τῆς καρδίας μου σύνεσιν.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v4|text', 'text' : 'Mi boca va a decir sabiduría y lo que pienso sobre cosas hondas;'}
 {'id_' : 'ps_spa_GT_odg|psa48|v5|number', 'text' : '(48:5)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v5|text', 'text' : 'Κλινῶ εἰς παραβολὴν τὸ οὖς μου, ἀνοίξω ἐν ψαλτηρίῳ τὸ πρόβλημά μου.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v5|text', 'text' : 'dejen que me concentre en un refrán, lo explicaré luego al son del arpa.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v6|number', 'text' : '(48:6)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v6|text', 'text' : 'Ἱνατί φοβοῦμαι ἐν ἡμέρᾳ πονηρᾷ; ἡ ἀνομία τῆς πτέρνης μου κυκλώσει με.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v6|text', 'text' : '¿Por qué temer en días de desgracia, cuando me cercan el mal y la traición'}
 {'id_' : 'ps_spa_GT_odg|psa48|v7|number', 'text' : '(48:7)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v7|text', 'text' : 'Οἱ πεποιθότες ἐπὶ τῇ δυνάμει αὐτῶν καὶ ἐπὶ τῷ πλήθει τοῦ πλούτου αὐτῶν καυχώμενοι,'}
+{'id_' : 'ps_spa_GT_odg|psa48|v7|text', 'text' : 'de los que en su fortuna se confían y hacen prevalecer su gran riqueza?'}
 {'id_' : 'ps_spa_GT_odg|psa48|v8|number', 'text' : '(48:8)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v8|text', 'text' : 'Ἀδελφὸς οὐ λυτροῦται, λυτρώσεται ἄνθρωπος; οὐ δώσει τῷ Θεῷ ἐξίλασμα ἑαυτοῦ'}
+{'id_' : 'ps_spa_GT_odg|psa48|v8|text', 'text' : 'Mas, comprada su vida nadie tiene, ni a Dios puede, con plata, sobornarlo,'}
 {'id_' : 'ps_spa_GT_odg|psa48|v9|number', 'text' : '(48:9)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v9|text', 'text' : 'Καὶ τὴν τιμὴν τῆς λυτρώσεως τῆς ψυχῆς αὐτοῦ. καὶ ἐκοπίασεν εἰς τὸν αἰῶνα'}
+{'id_' : 'ps_spa_GT_odg|psa48|v9|text', 'text' : 'pues es muy caro el precio de la vida.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v10|number', 'text' : '(48:10)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v10|text', 'text' : 'Καὶ ζήσεται εἰς τέλος· οὐκ ὄψεται καταφθοράν,'}
+{'id_' : 'ps_spa_GT_odg|psa48|v10|text', 'text' : '¿Vivir piensa por siempre, o cree que no irá a la fosa un día?'}
 {'id_' : 'ps_spa_GT_odg|psa48|v11|number', 'text' : '(48:11)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v11|text', 'text' : 'Ὅταν ἴδῃ σοφοὺς ἀποθνήσκοντας. ἐπὶ τὸ αὐτὸ ἄφρων καὶ ἄνους ἀπολοῦνται καὶ καταλείψουσιν ἀλλοτρίοις τὸν πλοῦτον αὐτῶν,'}
+{'id_' : 'ps_spa_GT_odg|psa48|v11|text', 'text' : 'Pues bien, verá que los sabios se mueren, que igual perecen el necio y el estúpido, y dejan para otros su riqueza.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v12|number', 'text' : '(48:12)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v12|text', 'text' : 'Καὶ οἱ τάφοι αὐτῶν οἰκίαι αὐτῶν εἰς τὸν αἰῶνα, σκηνώματα αὐτῶν εἰς γενεὰν καὶ γενεάν. ἐπεκαλέσαντο τὰ ὀνόματα αὐτῶν ἐπὶ τῶν γαιῶν αὐτῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v12|text', 'text' : 'Sus tumbas son sus casas para siempre, por siglos y siglos, sus moradas, por más que su nombre a sus tierras hayan puesto.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v13|number', 'text' : '(48:13)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v13|text', 'text' : 'Καὶ ἄνθρωπος ἐν τιμῇ ὢν οὐ συνῆκε, παρασυνεβλήθη τοῖς κτήνεσι τοῖς ἀνοήτοις καὶ ὡμοιώθη αὐτοῖς.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v13|text', 'text' : 'El hombre en los honores no comprende, es igual que el ganado que se mata.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v14|number', 'text' : '(48:14)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v14|text', 'text' : 'Αὕτη ἡ ὁδὸς αὐτῶν σκάνδαλον αὐτοῖς, καὶ μετὰ ταῦτα ἐν τῷ στόματι αὐτῶν εὐδοκήσουσι.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v14|text', 'text' : 'Hacia allá van los que en sí confían, ese será el fin de los que les gusta escucharse.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v15|number', 'text' : '(48:15)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v15|text', 'text' : 'Ὡς πρόβατα ἐν ᾅδῃ ἔθεντο, θάνατος ποιμανεῖ αὐτούς· καὶ κατακυριεύσουσιν αὐτῶν οἱ εὐθεῖς τὸ πρωΐ, καὶ ἡ βοήθεια αὐτῶν παλαιωθήσεται ἐν τῷ ᾅδῃ, ἐκ τῆς δόξης αὐτῶν ἐξώσθησαν.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v15|text', 'text' : 'Abajo, cual rebaño la muerte los reúne, los pastorea y les impone su ley. Son como un espectro desvaído que a la mañana vuelve a su casa abajo.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v16|number', 'text' : '(48:16)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v16|text', 'text' : 'Πλὴν ὁ Θεὸς λυτρώσεται τὴν ψυχήν μου ἐκ χειρὸς ᾅδου, ὅταν λαμβάνῃ με.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v16|text', 'text' : 'Pero a mí Dios me rescatará, y me sacará de las garras de la muerte.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v17|number', 'text' : '(48:17)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v17|text', 'text' : 'Μὴ φοβοῦ, ὅταν πλουτήσῃ ἄνθρωπος καὶ ὅταν πληθυνθῇ ἡ δόξα τοῦ οἴκου αὐτοῦ·'}
+{'id_' : 'ps_spa_GT_odg|psa48|v17|text', 'text' : 'No temas cuando el hombre se enriquece, cuando aumenta la fama de su casa.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v18|number', 'text' : '(48:18)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v18|text', 'text' : 'Ὅτι οὐκ ἐν τῷ ἀποθνήσκειν αὐτὸν λήψεται τὰ πάντα, οὐδὲ συγκαταβήσεται αὐτῷ ἡ δόξα αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v18|text', 'text' : 'Nada podrá llevar él a su muerte, ni su riqueza podrá bajar con él.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v19|number', 'text' : '(48:19)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v19|text', 'text' : 'Ὅτι ἡ ψυχὴ αὐτοῦ ἐν τῇ ζωῇ αὐτοῦ εὐλογηθήσεται· ἐξομολογήσεταί σοι, ὅταν ἀγαθύνῃς αὐτῷ.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v19|text', 'text' : 'Su alma, que siempre en vida bendecía: 'Te alaban, porque te has tratado bien,''}
 {'id_' : 'ps_spa_GT_odg|psa48|v20|number', 'text' : '(48:20)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v20|text', 'text' : 'Εἰσελεύσεται ἕως γενεᾶς πατέρων αὐτοῦ, ἕως αἰῶνος οὐκ ὄψεται φῶς.'}
+{'id_' : 'ps_spa_GT_odg|psa48|v20|text', 'text' : 'irá a unirse con la raza de sus padres, que jamás volverán a ver la luz.'}
 {'id_' : 'ps_spa_GT_odg|psa48|v21|number', 'text' : '(48:21)'}
-{'id_' : 'ps_spa_GT_odg|psa48|v21|text', 'text' : 'Καὶ ἄνθρωπος ἐν τιμῇ ὢν οὐ συνῆκε, παρασυνεβλήθη τοῖς κτήνεσι τοῖς ἀνοήτοις καὶ ὡμοιώθη αὐτοῖς.'}
-{'id_' : 'ps_spa_GT_odg|psa49|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa48|v21|text', 'text' : 'El hombre en los honores no comprende, es igual que el ganado que se mata.'}
+{'id_' : 'ps_spa_GT_odg|psa49|title', 'text' : 'Salmo 49 (50)'}
 {'id_' : 'ps_spa_GT_odg|psa49|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa49|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa49|text', 'text' : 'Yavé, el Dios de los dioses ha hablado: de donde sale el sol hasta el ocaso, ha convocado él a la tierra. Desde Sión, la muy hermosa, Dios refulge: ¡Ahí viene nuestro Dios, que no se calla! Un fuego, delante de él, lo abrasa todo, y a su alrededor ruge la tormenta. De lo alto convoca a los cielos, y a la tierra para juzgar a su pueblo: 'Reúnan a mis fieles ante mí, que con un sacrificio sellaron mi alianza.' Serán los cielos los que anuncien la sentencia, porque el juez es Dios mismo: 'Escucha, pueblo mío, que te hablo; Israel, declaro en contra tuya, yo, Dios, que soy tu Dios. No te reprendo por tus sacrificios, o por tus holocaustos, que están siempre ante mí. No tomaría un toro de tu establo ni un chivo de tu corral, pues mío es cuanto vive en la selva y los miles de animales de los montes. Conozco a todas las aves del cielo y mío es cuanto se mueve en el campo. Si tuviera hambre, no te lo diría, pues mío es el orbe y lo que encierra. ¿Acaso comeré carne de toros o beberé la sangre de cabritos? Pero, dale gracias a Dios con sacrificios, y cumple tus mandas al Altísimo; invócame en el día de la angustia, te libraré y tú me darás gloria.' Pero al impío Dios le dice: '¿Por qué vas repitiendo mis preceptos, y andas siempre hablando de religión, tú que odias mis reprensiones y te echas mis palabras a la espalda? Si ves un ladrón, corres con él, y entre los adúlteros tienes tu sitio. Das rienda suelta a tu boca para el mal y tu lengua urde el engaño. Si te sientas, hablas mal de tu hermano, tú deshonras al hijo de tu madre. Si tú lo haces, ¿tendré yo que callarme? ¿o piensas que yo soy como tú? Te acusaré y te lo echaré en cara. ¡Oigan bien los que se olvidan de Dios! pues si doy un zarpazo no habrá quien los libere. Me honra el que da gracias con sacrificios, pero al que va por camino recto, le haré ver la salvación de Dios.''}
 {'id_' : 'ps_spa_GT_odg|psa49|v1|number', 'text' : '(49:1)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v1|text', 'text' : 'Θεὸς θεῶν Κύριος ἐλάλησε καὶ ἐκάλεσε τὴν γῆν ἀπὸ ἀνατολῶν ἡλίου μέχρι δυσμῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v1|text', 'text' : 'Yavé, el Dios de los dioses ha hablado: de donde sale el sol hasta el ocaso, ha convocado él a la tierra.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v2|number', 'text' : '(49:2)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v2|text', 'text' : 'Ἐκ Σιὼν ἡ εὐπρέπεια τῆς ὡραιότητος αὐτοῦ,'}
+{'id_' : 'ps_spa_GT_odg|psa49|v2|text', 'text' : 'Desde Sión, la muy hermosa, Dios refulge:'}
 {'id_' : 'ps_spa_GT_odg|psa49|v3|number', 'text' : '(49:3)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v3|text', 'text' : 'Ὁ Θεὸς ἐμφανῶς ἥξει, ὁ Θεὸς ἡμῶν, καὶ οὐ παρασιωπήσεται· πῦρ ἐνώπιον αὐτοῦ καυθήσεται, καὶ κύκλῳ αὐτοῦ καταιγὶς σφόδρα.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v3|text', 'text' : '¡Ahí viene nuestro Dios, que no se calla! Un fuego, delante de él, lo abrasa todo, y a su alrededor ruge la tormenta.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v3a|number', 'text' : '(49:3a)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v3a|text', 'text' : 'Ὁ Θεὸς ἐμφανῶς ἥξει, ὁ Θεὸς ἡμῶν, καὶ οὐ παρασιωπήσεται.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v3a|text', 'text' : '¡Ahí viene nuestro Dios, que no se calla!'}
 {'id_' : 'ps_spa_GT_odg|psa49|v3b|number', 'text' : '(49:3b)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v3b|text', 'text' : 'Πῦρ ἐνώπιον αὐτοῦ καυθήσεται, καὶ κύκλῳ αὐτοῦ καταιγὶς σφόδρα.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v3b|text', 'text' : 'Un fuego, delante de él, lo abrasa todo, y a su alrededor ruge la tormenta.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v4|number', 'text' : '(49:4)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v4|text', 'text' : 'Προσκαλέσεται τὸν οὐρανὸν ἄνω καὶ τὴν γῆν τοῦ διακρῖναι τὸν λαὸν αὐτοῦ·'}
+{'id_' : 'ps_spa_GT_odg|psa49|v4|text', 'text' : 'De lo alto convoca a los cielos, y a la tierra para juzgar a su pueblo:'}
 {'id_' : 'ps_spa_GT_odg|psa49|v5|number', 'text' : '(49:5)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v5|text', 'text' : 'Συναγάγετε αὐτῷ τοὺς ὁσίους αὐτοῦ, τοὺς διατιθεμένους τὴν διαθήκην αὐτοῦ ἐπὶ θυσίαις.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v5|text', 'text' : ''Reúnan a mis fieles ante mí, que con un sacrificio sellaron mi alianza.''}
 {'id_' : 'ps_spa_GT_odg|psa49|v6|number', 'text' : '(49:6)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v6|text', 'text' : 'Καὶ ἀναγγελοῦσιν οἱ οὐρανοὶ τὴν δικαιοσύνην αὐτοῦ, ὅτι ὁ Θεὸς κριτής ἐστι.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v6|text', 'text' : 'Serán los cielos los que anuncien la sentencia, porque el juez es Dios mismo:'}
 {'id_' : 'ps_spa_GT_odg|psa49|v7|number', 'text' : '(49:7)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v7|text', 'text' : 'Ἄκουσον, λαός μου, καὶ λαλήσω σοι, Ἰσραήλ, καὶ διαμαρτύρομαί σοι· ὁ Θεὸς ὁ Θεός σού εἰμι ἐγώ.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v7|text', 'text' : ''Escucha, pueblo mío, que te hablo; Israel, declaro en contra tuya, yo, Dios, que soy tu Dios.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v8|number', 'text' : '(49:8)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v8|text', 'text' : 'Οὐκ ἐπὶ ταῖς θυσίαις σου ἐλέγξω σε, τὰ δὲ ὁλοκαυτώματά σου ἐνώπιόν μου ἐστὶ διαπαντός.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v8|text', 'text' : 'No te reprendo por tus sacrificios, o por tus holocaustos, que están siempre ante mí.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v9|number', 'text' : '(49:9)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v9|text', 'text' : 'Οὐ δέξομαι ἐκ τοῦ οἴκου σου μόσχους οὐδὲ ἐκ τῶν ποιμνίων σου χιμάρους.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v9|text', 'text' : 'No tomaría un toro de tu establo ni un chivo de tu corral,'}
 {'id_' : 'ps_spa_GT_odg|psa49|v10|number', 'text' : '(49:10)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v10|text', 'text' : 'Ὅτι ἐμά ἐστι πάντα τὰ θηρία τοῦ δρυμοῦ, κτήνη ἐν τοῖς ὄρεσι καὶ βόες·'}
+{'id_' : 'ps_spa_GT_odg|psa49|v10|text', 'text' : 'pues mío es cuanto vive en la selva y los miles de animales de los montes.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v11|number', 'text' : '(49:11)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v11|text', 'text' : 'Ἔγνωκα πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ὡραιότης ἀγροῦ μετ' ἐμοῦ ἐστιν.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v11|text', 'text' : 'Conozco a todas las aves del cielo y mío es cuanto se mueve en el campo.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v12|number', 'text' : '(49:12)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v12|text', 'text' : 'Ἐὰν πεινάσω, οὐ μή σοι εἴπω· ἐμὴ γάρ ἐστιν ἡ οἰκουμένη καὶ τὸ πλήρωμα αὐτῆς.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v12|text', 'text' : 'Si tuviera hambre, no te lo diría, pues mío es el orbe y lo que encierra.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v13|number', 'text' : '(49:13)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v13|text', 'text' : 'Μὴ φάγομαι κρέα ταύρων, ἢ αἷμα τράγων πίομαι;'}
+{'id_' : 'ps_spa_GT_odg|psa49|v13|text', 'text' : '¿Acaso comeré carne de toros o beberé la sangre de cabritos?'}
 {'id_' : 'ps_spa_GT_odg|psa49|v14|number', 'text' : '(49:14)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v14|text', 'text' : 'Θῦσον τῷ Θεῷ θυσίαν αἰνέσεως καὶ ἀπόδος τῷ Ὑψίστῳ τὰς εὐχάς σου·'}
+{'id_' : 'ps_spa_GT_odg|psa49|v14|text', 'text' : 'Pero, dale gracias a Dios con sacrificios, y cumple tus mandas al Altísimo;'}
 {'id_' : 'ps_spa_GT_odg|psa49|v15|number', 'text' : '(49:15)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v15|text', 'text' : 'Καὶ ἐπικάλεσαί με ἐν ἡμέρᾳ θλίψεώς σου, καὶ ἐξελοῦμαί σε, καὶ δοξάσεις με.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v15|text', 'text' : 'invócame en el día de la angustia, te libraré y tú me darás gloria.''}
 {'id_' : 'ps_spa_GT_odg|psa49|v16|number', 'text' : '(49:16)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v16|text', 'text' : 'Τῷ δὲ ἁμαρτωλῷ εἶπεν ὁ Θεός· ἱνατί σὺ διηγῇ τὰ δικαιώματά μου καὶ ἀναλαμβάνεις τὴν διαθήκην μου διὰ στόματός σου;'}
+{'id_' : 'ps_spa_GT_odg|psa49|v16|text', 'text' : 'Pero al impío Dios le dice: '¿Por qué vas repitiendo mis preceptos, y andas siempre hablando de religión,'}
 {'id_' : 'ps_spa_GT_odg|psa49|v17|number', 'text' : '(49:17)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v17|text', 'text' : 'Σὺ δὲ ἐμίσησας παιδείαν καὶ ἐξέβαλες τοὺς λόγους μου εἰς τὰ ὀπίσω.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v17|text', 'text' : 'tú que odias mis reprensiones y te echas mis palabras a la espalda?'}
 {'id_' : 'ps_spa_GT_odg|psa49|v18|number', 'text' : '(49:18)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v18|text', 'text' : 'Εἰ ἐθεώρεις κλέπτην, συνέτρεχες αὐτῷ, καὶ μετὰ μοιχοῦ τὴν μερίδα σου ἐτίθεις.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v18|text', 'text' : 'Si ves un ladrón, corres con él, y entre los adúlteros tienes tu sitio.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v19|number', 'text' : '(49:19)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v19|text', 'text' : 'Τὸ στόμα σου ἐπλεόνασε κακίαν, καὶ ἡ γλῶσσά σου περιέπλεκε δολιότητα·'}
+{'id_' : 'ps_spa_GT_odg|psa49|v19|text', 'text' : 'Das rienda suelta a tu boca para el mal y tu lengua urde el engaño.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v20|number', 'text' : '(49:20)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v20|text', 'text' : 'Καθήμενος κατὰ τοῦ ἀδελφοῦ σου κατελάλεις καὶ κατὰ τοῦ υἱοῦ τῆς μητρός σου ἐτίθεις σκάνδαλον.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v20|text', 'text' : 'Si te sientas, hablas mal de tu hermano, tú deshonras al hijo de tu madre.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v21|number', 'text' : '(49:21)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v21|text', 'text' : 'Ταῦτα ἐποίησας, καὶ ἐσίγησα· ὑπέλαβες ἀνομίαν, ὅτι ἔσομαί σοι ὅμοιος· ἐλέγξω σε καὶ παραστήσω κατὰ πρόσωπόν σου τὰς ἁμαρτίας σου.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v21|text', 'text' : 'Si tú lo haces, ¿tendré yo que callarme? ¿o piensas que yo soy como tú? Te acusaré y te lo echaré en cara.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v22|number', 'text' : '(49:22)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v22|text', 'text' : 'Σύνετε δὴ ταῦτα, οἱ ἐπιλανθανόμενοι τοῦ Θεοῦ, μήποτε ἁρπάσῃ, καὶ οὐ μὴ ᾖ ὁ ρυόμενος.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v22|text', 'text' : '¡Oigan bien los que se olvidan de Dios! pues si doy un zarpazo no habrá quien los libere.'}
 {'id_' : 'ps_spa_GT_odg|psa49|v23|number', 'text' : '(49:23)'}
-{'id_' : 'ps_spa_GT_odg|psa49|v23|text', 'text' : 'Θυσία αἰνέσεως δοξάσει με, καὶ ἐκεῖ ὁδός, ᾗ δείξω αὐτῷ τὸ σωτήριόν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa49|v23|text', 'text' : 'Me honra el que da gracias con sacrificios, pero al que va por camino recto, le haré ver la salvación de Dios.''}
 {'id_' : 'ps_spa_GT_odg|psa50|title', 'text' : 'Salmo 50 (51)'}
 {'id_' : 'ps_spa_GT_odg|psa50|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa50|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa50|text', 'text' : 'Ten piedad de mí, oh Dios, en tu bondad, por tu gran corazón, borra mi falta. Que mi alma quede limpia de malicia, purifícame tú de mi pecado. Pues mi falta yo bien la conozco y mi pecado está siempre ante mí; contra ti, contra ti sólo pequé, lo que es malo a tus ojos yo lo hice. Por eso en tu sentencia tú eres justo, no hay reproche en el juicio de tus labios. Tú ves que malo soy de nacimiento, pecador desde el seno de mi madre. Mas tú quieres rectitud de corazón, y me enseñas en secreto lo que es sabio. Rocíame con agua, y quedaré limpio; lávame y quedaré más blanco que la nieve. Haz que sienta otra vez júbilo y gozo y que bailen los huesos que moliste. Aparta tu semblante de mis faltas, borra en mí todo rastro de malicia. Crea en mí, oh Dios, un corazón puro, renueva en mi interior un firme espíritu. No me rechaces lejos de tu rostro ni me retires tu espíritu santo. Dame tu salvación que regocija, y que un espíritu noble me dé fuerza. Mostraré tu camino a los que pecan, a ti se volverán los descarriados. Líbrame, oh Dios, de la deuda de sangre, Dios de mi salvación, y aclamará mi lengua tu justicia. Señor, abre mis labios y cantará mi boca tu alabanza. Un sacrificio no te gustaría, ni querrás si te ofrezco, un holocausto. Mi espíritu quebrantado a Dios ofreceré, pues no desdeñas a un corazón contrito. Favorece a Sión en tu bondad: reedifica las murallas de Jerusalén; entonces te gustarán los sacrificios, ofrendas y holocaustos que se te deben; entonces ofrecerán novillos en tu altar.'}
+{'id_' : 'ps_spa_GT_odg|psa50alt|text', 'text' : 'Ten piedad de mí, Dios, por tu bondad, por tu inmensa ternura borra mi delito, lávame a fondo de mi culpa, purifícame de mi pecado. Pues yo reconozco mi delito, mi pecado está siempre ante mí; contra ti, contra ti sólo pequé, lo malo a tus ojos cometí. Porque seas justo cuando hablas e irreprochable cuando juzgas. Mira que nací culpable, pecador me concibió mi madre. Y tu amas la verdad en lo íntimo del ser, en mi interior me inculcas sabiduría. Rocíame con hisopo hasta quedar limpio, lávame hasta blanquear más que la nieve. Devuélveme el son del gozo y la alegría, se alegren los huesos que tu machacaste. Aparta tu vista de mis yerros y borra todas mis culpas. Crea en mí, Dios, un corazón puro, renueva en mi interior un espíritu firme; no me rechaces lejos de tu rostro, no retires de mí tu Santo Espíritu. Devuélveme el gozo de tu salvación, afiánzame con espíritu generoso; enseñaré a los rebeldes tus caminos y los pecadores volverán a ti. Líbrame de la sangre,  Dios, Dios salvador mío, y aclamará mi lengua tu justicia; abre, Señor, mis labios, y publicará mi boca tu alabanza. Pues no te complaces en sacrificios, si ofrezco un holocausto, no lo aceptas. Dios quiere el sacrificio de un espíritu contrito, un corazón contrito y humillado,  Dios, no lo desprecias. ¡Sé benévolo y favorece a Sión, reconstruye los muros de Jerusalén! Entonces te agradarán los sacrificios legítimos–-holocausto y oblación entera—-entonces se ofrecerán novillos en tu altar.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v1|number', 'text' : '(50:1)'}
 {'id_' : 'ps_spa_GT_odg|psa50|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa50|v2|number', 'text' : '(50:2)'}
 {'id_' : 'ps_spa_GT_odg|psa50|v2|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa50|v3|number', 'text' : '(50:3)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v3|text', 'text' : 'Ἐλέησόν με, ὁ Θεός, κατὰ τὸ μέγα ἔλεός σου καὶ κατὰ τὸ πλῆθος τῶν οἰκτιρμῶν σου ἐξάλειψον τὸ ἀνόμημά μου.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v3|text', 'text' : 'Ten piedad de mí, oh Dios, en tu bondad, por tu gran corazón, borra mi falta.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v4|number', 'text' : '(50:4)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v4|text', 'text' : 'Ἐπὶ πλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν με.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v4|text', 'text' : 'Que mi alma quede limpia de malicia, purifícame tú de mi pecado.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v5|number', 'text' : '(50:5)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v5|text', 'text' : 'Ὅτι τὴν ἀνομίαν μου ἐγὼ γινώσκω, καὶ ἡ ἁμαρτία μου ἐνώπιόν μού ἐστι διαπαντός.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v5|text', 'text' : 'Pues mi falta yo bien la conozco y mi pecado está siempre ante mí;'}
 {'id_' : 'ps_spa_GT_odg|psa50|v6|number', 'text' : '(50:6)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v6|text', 'text' : 'Σοὶ μόνῳ ἥμαρτον καὶ τὸ πονηρὸν ἐνώπιόν σου ἐποίησα, ὅπως ἂν δικαιωθῇς ἐν τοῖς λόγοις σου, καὶ νικήσῃς ἐν τῷ κρίνεσθαί σε.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v6|text', 'text' : 'contra ti, contra ti sólo pequé, lo que es malo a tus ojos yo lo hice. Por eso en tu sentencia tú eres justo, no hay reproche en el juicio de tus labios.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v7|number', 'text' : '(50:7)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v7|text', 'text' : 'Ἰδοὺ γὰρ ἐν ἀνομίαις συνελήφθην, καὶ ἐν ἁμαρτίαις ἐκίσσησέ με ἡ μήτηρ μου.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v7|text', 'text' : 'Tú ves que malo soy de nacimiento, pecador desde el seno de mi madre.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v8|number', 'text' : '(50:8)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v8|text', 'text' : 'Ἰδοὺ γὰρ ἀλήθειαν ἠγάπησας, τὰ ἄδηλα καὶ τὰ κρύφια τῆς σοφίας σου ἐδήλωσάς μοι.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v8|text', 'text' : 'Mas tú quieres rectitud de corazón, y me enseñas en secreto lo que es sabio.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v9|number', 'text' : '(50:9)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v9|text', 'text' : 'Ῥαντιεῖς με ὑσσώπῳ, καὶ καθαρισθήσομαι, πλυνεῖς με, καὶ ὑπὲρ χιόνα λευκανθήσομαι.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v9|text', 'text' : 'Rocíame con agua, y quedaré limpio; lávame y quedaré más blanco que la nieve.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v10|number', 'text' : '(50:10)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v10|text', 'text' : 'Ἀκουτιεῖς μοι ἀγαλλίασιν καὶ εὐφροσύνην, ἀγαλλιάσονται ὀστέα τεταπεινωμένα.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v10|text', 'text' : 'Haz que sienta otra vez júbilo y gozo y que bailen los huesos que moliste.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v11|number', 'text' : '(50:11)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v11|text', 'text' : 'Ἀπόστρεψον τὸ πρόσωπόν σου ἀπὸ τῶν ἁμαρτιῶν μου, καὶ πάσας τὰς ἀνομίας μου ἐξάλειψον.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v11|text', 'text' : 'Aparta tu semblante de mis faltas, borra en mí todo rastro de malicia.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v12|number', 'text' : '(50:12)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v12|text', 'text' : 'Καρδίαν καθαρὰν κτίσον ἐν ἐμοί, ὁ Θεός, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν τοῖς ἐγκάτοις μου.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v12|text', 'text' : 'Crea en mí, oh Dios, un corazón puro, renueva en mi interior un firme espíritu.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v13|number', 'text' : '(50:13)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v13|text', 'text' : 'Μὴ ἀποῤῥίψῃς με ἀπὸ τοῦ προσώπου σου καὶ τὸ πνεῦμά σου τὸ ἅγιον μὴ ἀντανέλῃς ἀπ' ἐμοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v13|text', 'text' : 'No me rechaces lejos de tu rostro ni me retires tu espíritu santo.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v14|number', 'text' : '(50:14)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v14|text', 'text' : 'Ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου καὶ πνεύματι ἡγεμονικῷ στήριξόν με.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v14|text', 'text' : 'Dame tu salvación que regocija, y que un espíritu noble me dé fuerza.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v15|number', 'text' : '(50:15)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v15|text', 'text' : 'Διδάξω ἀνόμους τὰς ὁδούς σου, καὶ ἀσεβεῖς ἐπὶ σὲ ἐπιστρέψουσι.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v15|text', 'text' : 'Mostraré tu camino a los que pecan, a ti se volverán los descarriados.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v16|number', 'text' : '(50:16)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v16|text', 'text' : 'Ῥῦσαί με ἐξ αἱμάτων, ὁ Θεὸς ὁ Θεὸς τῆς σωτηρίας μου· ἀγαλλιάσεται ἡ γλῶσσά μου τὴν δικαιοσύνην σου.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v16|text', 'text' : 'Líbrame, oh Dios, de la deuda de sangre, Dios de mi salvación, y aclamará mi lengua tu justicia.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v17|number', 'text' : '(50:17)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v17|text', 'text' : 'Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v17|text', 'text' : 'Señor, abre mis labios y cantará mi boca tu alabanza.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v18|number', 'text' : '(50:18)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v18|text', 'text' : 'Ὅτι εἰ ἠθέλησας θυσίαν, ἔδωκα ἄν· ὁλοκαυτώματα οὐκ εὐδοκήσεις.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v18|text', 'text' : 'Un sacrificio no te gustaría, ni querrás si te ofrezco, un holocausto.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v19|number', 'text' : '(50:19)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v19|text', 'text' : 'Θυσία τῷ Θεῷ πνεῦμα συντετριμμένον, καρδίαν συντετριμμένην καὶ τεταπεινωμένην ὁ Θεὸς οὐκ ἐξουδενώσει.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v19|text', 'text' : 'Mi espíritu quebrantado a Dios ofreceré, pues no desdeñas a un corazón contrito.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v20|number', 'text' : '(50:20)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v20|text', 'text' : 'Ἀγάθυνον, Κύριε, ἐν τῇ εὐδοκίᾳ σου τὴν Σιών, καὶ οἰκοδομηθήτω τὰ τείχη Ἰερουσαλήμ.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v20|text', 'text' : 'Favorece a Sión en tu bondad: reedifica las murallas de Jerusalén;'}
 {'id_' : 'ps_spa_GT_odg|psa50|v21|number', 'text' : '(50:21)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v21|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa50|v21|text', 'text' : 'entonces te gustarán los sacrificios, ofrendas y holocaustos que se te deben; entonces ofrecerán novillos en tu altar.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v21a|number', 'text' : '(50:21a)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v21a|text', 'text' : 'Τότε εὐδοκήσεις θυσίαν δικαιοσύνης, ἀναφορὰν καὶ ὁλοκαυτώματα.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v21a|text', 'text' : 'entonces te gustarán los sacrificios, ofrendas y holocaustos que se te deben;'}
 {'id_' : 'ps_spa_GT_odg|psa50|v21b|number', 'text' : '(50:21b)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v21b|text', 'text' : 'Τότε ἀνοίσουσιν ἐπὶ τὸ θυσιαστήριόν σου μόσχους.'}
+{'id_' : 'ps_spa_GT_odg|psa50|v21b|text', 'text' : 'entonces se ofrecerán novillos en tu altar.'}
 {'id_' : 'ps_spa_GT_odg|psa50|v00|number', 'text' : '(50:00)'}
-{'id_' : 'ps_spa_GT_odg|psa50|v00|text', 'text' : '[Καὶ ἐλέησόν με, ὁ Θεός.]'}
-{'id_' : 'ps_spa_GT_odg|psa51|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa50|v00|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa51|title', 'text' : 'Salmo 51 (52)'}
 {'id_' : 'ps_spa_GT_odg|psa51|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa51|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa51|text', 'text' : '¿Por qué de tu maldad te jactas tanto tú que te sientes fuerte en tu injusticia y meditas en crímenes todo el día? Una navaja afilada es tu lengua, hacedor de imposturas. Amas el mal más que el bien, prefieres la mentira a la verdad. Lengua embustera, que te gusta lanzar toda palabra que hace mal. Por eso Dios te aplastará, te va a tomar y echarte de tu tienda, te extirpará de la tierra de los vivos. Los buenos lo verán y temerán y dirán riéndose de él: 'Miren al hombre que no hizo de Dios su fortaleza, sino que confió en sus muchas riquezas y se encastilló en su crimen.' Pero yo quiero ser olivo vigoroso en la casa de Dios, en el amor de Dios yo me confío para siempre jamás. Te alabaré por todo lo que has hecho, tu Nombre será siempre mi esperanza, porque eres bueno, Señor, con los que te aman.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v1|number', 'text' : '(51:1)'}
 {'id_' : 'ps_spa_GT_odg|psa51|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa51|v2|number', 'text' : '(51:2)'}
 {'id_' : 'ps_spa_GT_odg|psa51|v2|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa51|v3|number', 'text' : '(51:3)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v3|text', 'text' : 'Τί ἐγκαυχᾷ ἐν κακίᾳ, ὁ δυνατός, ἀνομίαν ὅλην τὴν ἡμέραν;'}
+{'id_' : 'ps_spa_GT_odg|psa51|v3|text', 'text' : '¿Por qué de tu maldad te jactas tanto tú que te sientes fuerte en tu injusticia'}
 {'id_' : 'ps_spa_GT_odg|psa51|v4|number', 'text' : '(51:4)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v4|text', 'text' : 'Ἀδικίαν ἐλογίσατο ἡ γλῶσσά σου· ὡσεὶ ξυρὸν ἠκονημένον ἐποίησας δόλον.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v4|text', 'text' : 'y meditas en crímenes todo el día? Una navaja afilada es tu lengua, hacedor de imposturas.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v5|number', 'text' : '(51:5)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v5|text', 'text' : 'Ἠγάπησας κακίαν ὑπὲρ ἀγαθωσύνην, ἀδικίαν ὑπὲρ τὸ λαλῆσαι δικαιοσύνην.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v5|text', 'text' : 'Amas el mal más que el bien, prefieres la mentira a la verdad.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v6|number', 'text' : '(51:6)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v6|text', 'text' : 'Ἠγάπησας πάντα τὰ ρήματα καταποντισμοῦ, γλῶσσαν δολίαν.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v6|text', 'text' : 'Lengua embustera, que te gusta lanzar toda palabra que hace mal.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v7|number', 'text' : '(51:7)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v7|text', 'text' : 'Διὰ τοῦτο ὁ Θεὸς καθέλοι σε εἰς τέλος· ἐκτίλαι σε καὶ μεταναστεύσαι σε ἀπὸ σκηνώματός σου καὶ τὸ ρίζωμά σου ἐκ γῆς ζώντων.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v7|text', 'text' : 'Por eso Dios te aplastará, te va a tomar y echarte de tu tienda, te extirpará de la tierra de los vivos.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v8|number', 'text' : '(51:8)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v8|text', 'text' : 'Ὄψονται δίκαιοι καὶ φοβηθήσονται καὶ ἐπ' αὐτὸν γελάσονται καὶ ἐροῦσιν·'}
+{'id_' : 'ps_spa_GT_odg|psa51|v8|text', 'text' : 'Los buenos lo verán y temerán y dirán riéndose de él:'}
 {'id_' : 'ps_spa_GT_odg|psa51|v9|number', 'text' : '(51:9)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v9|text', 'text' : 'Ἰδοὺ ἄνθρωπος, ὃς οὐκ ἔθετο τὸν Θεὸν βοηθὸν αὐτοῦ, ἀλλ' ἐπήλπισεν ἐπὶ τὸ πλῆθος τοῦ πλούτου αὐτοῦ καὶ ἐνεδυναμώθη ἐπὶ τῇ ματαιότητι αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v9|text', 'text' : ''Miren al hombre que no hizo de Dios su fortaleza, sino que confió en sus muchas riquezas y se encastilló en su crimen.''}
 {'id_' : 'ps_spa_GT_odg|psa51|v10|number', 'text' : '(51:10)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v10|text', 'text' : 'Ἐγὼ δὲ ὡσεὶ ἐλαία κατάκαρπος ἐν τῷ οἴκῳ τοῦ Θεοῦ· ἤλπισα ἐπὶ τὸ ἔλεος τοῦ Θεοῦ εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v10|text', 'text' : 'Pero yo quiero ser olivo vigoroso en la casa de Dios, en el amor de Dios yo me confío para siempre jamás.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v10a|number', 'text' : '(51:10a)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v10a|text', 'text' : 'Ἐγὼ δὲ ὡσεὶ ἐλαία κατάκαρπος ἐν τῷ οἴκῳ τοῦ Θεοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v10a|text', 'text' : 'Pero yo quiero ser olivo vigoroso en la casa de Dios,'}
 {'id_' : 'ps_spa_GT_odg|psa51|v10b|number', 'text' : '(51:10b)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v10b|text', 'text' : 'Ἤλπισα ἐπὶ τὸ ἔλεος τοῦ Θεοῦ εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος.'}
+{'id_' : 'ps_spa_GT_odg|psa51|v10b|text', 'text' : 'en el amor de Dios yo me confío para siempre jamás.'}
 {'id_' : 'ps_spa_GT_odg|psa51|v11|number', 'text' : '(51:11)'}
-{'id_' : 'ps_spa_GT_odg|psa51|v11|text', 'text' : 'Ἐξομολογήσομαί σοι εἰς τὸν αἰῶνα, ὅτι ἐποίησας, καὶ ὑπομενῶ τὸ ὄνομά σου, ὅτι χρηστὸν ἐναντίον τῶν ὁσίων σου.'}
-{'id_' : 'ps_spa_GT_odg|psa52|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa51|v11|text', 'text' : 'Te alabaré por todo lo que has hecho, tu Nombre será siempre mi esperanza, porque eres bueno, Señor, con los que te aman.'}
+{'id_' : 'ps_spa_GT_odg|psa52|title', 'text' : 'Salmo 52 (53)'}
 {'id_' : 'ps_spa_GT_odg|psa52|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa52|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa52|text', 'text' : 'Dijo en su corazón el insensato: '¡Mentira, Dios no existe!' Son gente pervertida, hacen cosas infames, ya no hay quien haga el bien. Se asoma Dios desde el cielo, mira a los hijos de Adán, para ver si hay alguno que valga, alguien que busque a Dios. Pero todos se han descarriado, y se han corrompido juntos. No queda ni un hombre honrado ni uno de muestra siquiera. ¿No comprenderán esos malhechores que comen a mi pueblo como se come el pan? ¡No le han pedido a Dios la bendición! ¡Mira cómo se asustan de repente! les cae una desgracia inesperada. Dios dispersa los huesos del renegado; todos se ríen de ellos: '¡Cómo Dios los ha rechazado!' ¿Quién traerá de Sión la salvación de Israel? Cuando a su pueblo Dios traiga de vuelta, habrá alegría en Jacob, Israel será colmado.'}
 {'id_' : 'ps_spa_GT_odg|psa52|v1|number', 'text' : '(52:1)'}
 {'id_' : 'ps_spa_GT_odg|psa52|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa52|v2|number', 'text' : '(52:2)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v2|text', 'text' : 'Εἶπεν ἄφρων ἐν καρδίᾳ αὐτοῦ· Οὐκ ἔστι Θεός. διεφθάρησαν καὶ ἐβδελύχθησαν ἐν ἀνομίαις, οὐκ ἔστι ποιῶν ἀγαθόν.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v2|text', 'text' : 'Dijo en su corazón el insensato: '¡Mentira, Dios no existe!' Son gente pervertida, hacen cosas infames, ya no hay quien haga el bien.'}
 {'id_' : 'ps_spa_GT_odg|psa52|v3|number', 'text' : '(52:3)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v3|text', 'text' : 'Ὁ Θεὸς ἐκ τοῦ οὐρανοῦ διέκυψεν ἐπὶ τοὺς υἱοὺς τῶν ἀνθρώπων τοῦ ἰδεῖν εἰ ἔστι συνιὼν ἢ ἐκζητῶν τὸν Θεόν.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v3|text', 'text' : 'Se asoma Dios desde el cielo, mira a los hijos de Adán, para ver si hay alguno que valga, alguien que busque a Dios.'}
 {'id_' : 'ps_spa_GT_odg|psa52|v4|number', 'text' : '(52:4)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v4|text', 'text' : 'Πάντες ἐξέκλιναν, ἅμα ἠχρειώθησαν, οὐκ ἔστι ποιῶν ἀγαθόν, οὐκ ἔστιν ἕως ἑνός.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v4|text', 'text' : 'Pero todos se han descarriado, y se han corrompido juntos. No queda ni un hombre honrado ni uno de muestra siquiera.'}
 {'id_' : 'ps_spa_GT_odg|psa52|v5|number', 'text' : '(52:5)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v5|text', 'text' : 'Οὐχί γνώσονται πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν; οἱ κατεσθίοντες τὸν λαόν μου ἐν βρώσει ἄρτου τὸν Κύριον οὐκ ἐπεκαλέσαντο.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v5|text', 'text' : '¿No comprenderán esos malhechores que comen a mi pueblo como se come el pan? ¡No le han pedido a Dios la bendición!'}
 {'id_' : 'ps_spa_GT_odg|psa52|v6|number', 'text' : '(52:6)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v6|text', 'text' : 'Ἐκεῖ ἐφοβήθησαν φόβον, οὗ οὐκ ἦν φόβος, ὅτι ὁ Θεὸς διεσπόρπισεν ὀστᾶ ἀνθρωπαρέσκων· κατῃσχύνθησαν, ὅτι ὁ Θεὸς ἐξουδένωσεν αὐτούς.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v6|text', 'text' : '¡Mira cómo se asustan de repente! les cae una desgracia inesperada. Dios dispersa los huesos del renegado; todos se ríen de ellos: '¡Cómo Dios los ha rechazado!''}
 {'id_' : 'ps_spa_GT_odg|psa52|v7|number', 'text' : '(52:7)'}
-{'id_' : 'ps_spa_GT_odg|psa52|v7|text', 'text' : 'Τίς δώσει ἐκ Σιὼν τὸ σωτήριον τοῦ Ἰσραήλ; ἐν τῷ ἀποστρέψαι τὸν Θεὸν τὴν αἰχμαλωσίαν τοῦ λαοῦ αὐτοῦ ἀγαλλιάσεται Ἰακὼβ καὶ εὐφρανθήσεται Ἰσραήλ.'}
-{'id_' : 'ps_spa_GT_odg|psa52|v7balt|text', 'text' : 'Ἐν τῷ ἐποστρέψαι Κύριον τὴν αἰχμαλωσίαν τοῦ λαοῦ αὐτοῦ ἀγαλλιάσεται Ἰακὼβ καὶ εὐφρανθήσεται Ἰσραήλ.'}
-{'id_' : 'ps_spa_GT_odg|psa53|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa52|v7|text', 'text' : '¿Quién traerá de Sión la salvación de Israel? Cuando a su pueblo Dios traiga de vuelta, habrá alegría en Jacob, Israel será colmado.'}
+{'id_' : 'ps_spa_GT_odg|psa52|v7balt|text', 'text' : 'Cuando a su pueblo el Señor traiga de vuelta, habrá alegría en Jacob, Israel será colmado.'}
+{'id_' : 'ps_spa_GT_odg|psa53|title', 'text' : 'Salmo 53 (54)'}
 {'id_' : 'ps_spa_GT_odg|psa53|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa53|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa53|text', 'text' : 'Oh Dios, por tu Nombre sálvame; por tu poder hazme justicia. Oh Dios, escucha mi plegaria, escucha las palabras de mi boca, pues se alzan contra mí los arrogantes y buscan mi muerte los violentos, hombres para los cuales Dios no cuenta.. Pero a mí Dios me ayuda, entre los que me apoyan está el Señor. Que el mal recaiga sobre los que me espían; destrúyelos, Señor, pues tú eres fiel. Te ofreceré de buena gana un sacrificio, y alabaré tu nombre, porque es bueno, pues me has sacado de cualquier angustia y he visto humillado a mis enemigos.'}
 {'id_' : 'ps_spa_GT_odg|psa53|v1|number', 'text' : '(53:1)'}
 {'id_' : 'ps_spa_GT_odg|psa53|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa53|v2|number', 'text' : '(53:2)'}
 {'id_' : 'ps_spa_GT_odg|psa53|v2|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa53|v3|number', 'text' : '(53:3)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v3|text', 'text' : 'Ὁ Θεός, ἐν τῷ ὀνόματί σου σῶσόν με καὶ ἐν τῇ δυνάμει σου κρῖνόν με.'}
-{'id_' : 'ps_spa_GT_odg|psa53|v3alt|text', 'text' : 'Ὁ Θεός, ἐν τῷ ὀνόματί σου σῶσόν με καὶ ἐν τῇ δυνάμει σου κρινεῖς με.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v3|text', 'text' : 'Oh Dios, por tu Nombre sálvame; por tu poder hazme justicia.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v3alt|text', 'text' : 'Oh Dios, por tu Nombre sálvame; por tu poder me haces justicia.'}
 {'id_' : 'ps_spa_GT_odg|psa53|v4|number', 'text' : '(53:4)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v4|text', 'text' : 'Ὁ Θεός, εἰσάκουσον τῆς προσευχῆς μου, ἐνώτισαι τὰ ρήματα τοῦ στόματός μου.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v4|text', 'text' : 'Oh Dios, escucha mi plegaria, escucha las palabras de mi boca,'}
 {'id_' : 'ps_spa_GT_odg|psa53|v5|number', 'text' : '(53:5)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v5|text', 'text' : 'Ὅτι ἀλλότριοι ἐπανέστησαν ἐπ' ἐμὲ καὶ κραταιοὶ ἐζήτησαν τὴν ψυχήν μου καὶ οὐ προέθεντο τὸν Θεὸν ἐνώπιον αὐτῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v5|text', 'text' : 'pues se alzan contra mí los arrogantes y buscan mi muerte los violentos, hombres para los cuales Dios no cuenta..'}
 {'id_' : 'ps_spa_GT_odg|psa53|v6|number', 'text' : '(53:6)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v6|text', 'text' : 'Ἰδοὺ γὰρ ὁ Θεὸς βοηθεῖ μοι, καὶ ὁ Κύριος ἀντιλήπτωρ τῆς ψυχῆς μου.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v6|text', 'text' : 'Pero a mí Dios me ayuda, entre los que me apoyan está el Señor.'}
 {'id_' : 'ps_spa_GT_odg|psa53|v7|number', 'text' : '(53:7)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v7|text', 'text' : 'Ἀποστρέψει τὰ κακὰ τοῖς ἐχθροῖς μου· ἐν τῇ ἀληθείᾳ σου ἐξολόθρευσον αὐτούς.'}
+{'id_' : 'ps_spa_GT_odg|psa53|v7|text', 'text' : 'Que el mal recaiga sobre los que me espían; destrúyelos, Señor, pues tú eres fiel.'}
 {'id_' : 'ps_spa_GT_odg|psa53|v8|number', 'text' : '(53:8)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v8|text', 'text' : 'Ἑκουσίως θύσω σοι, ἐξομολογήσομαι τῷ ὀνόματί σου, Κύριε, ὅτι ἀγαθόν·'}
+{'id_' : 'ps_spa_GT_odg|psa53|v8|text', 'text' : 'Te ofreceré de buena gana un sacrificio, y alabaré tu nombre, porque es bueno,'}
 {'id_' : 'ps_spa_GT_odg|psa53|v9|number', 'text' : '(53:9)'}
-{'id_' : 'ps_spa_GT_odg|psa53|v9|text', 'text' : 'Ὅτι ἐκ πάσης θλίψεως ἐρρύσω με, καὶ ἐν τοῖς ἐχθροῖς μου ἐπεῖδεν ὁ ὀφθαλμός μου.'}
-{'id_' : 'ps_spa_GT_odg|psa54|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa53|v9|text', 'text' : 'pues me has sacado de cualquier angustia y he visto humillado a mis enemigos.'}
+{'id_' : 'ps_spa_GT_odg|psa54|title', 'text' : 'Salmo 54 (55)'}
 {'id_' : 'ps_spa_GT_odg|psa54|version', 'text' : ''}
-{'id_' : 'ps_spa_GT_odg|psa54|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|psa54|text', 'text' : 'Oh Dios, pon atención a mi plegaria; no desatiendas mis súplicas. Atiéndeme y respóndeme: me agito lamentándome y gimiendo, al oír la voz del enemigo y las amenazas del impío. Con sus aullidos me ensordecen y me persiguen con alevosía. Mi corazón se estremece en mi pecho, una angustia mortal me sobrecoge; me invaden el miedo y el terror y el pavor me atenaza. Y yo dije: Si tuviera alas de paloma volaría a donde pudiera posarme. Huiría muy lejos, y pasaría la noche en el desierto. Buscaría un asilo a toda prisa contra la tempestad y contra el viento. Dispérsalos, Señor, confúndeles las lenguas, pues violencia y discordia he visto en la ciudad; rondan por sus murallas día y noche y dentro están la injusticia y el crimen. El mal aloja en ella; de su plaza no se alejan la astucia y el engaño. Si llegara a insultarme un enemigo, yo lo soportaría; si el que me odia se alzara en contra mía, me escondería de él; mas fuiste tú, un hombre como yo, mi familiar, mi amigo, a quien me unía una dulce amistad; juntos íbamos a la casa de Dios en alegre convivencia. Que la muerte los sorprenda, que bajen vivos al lugar de los muertos, pues el mal se cobija en su interior. Pero yo clamo a Dios y el Señor me salvará. De tarde, de mañana, al mediodía, me lamento y me aflijo y escuchará mi voz. Me dará la paz, me sacará del combate, aunque muchos estén en contra mía. Dios atenderá y los humillará, el que reina desde siempre. ¿Podrán convertirse si no temen a Dios? Alzan la mano contra sus amigos, no cumplen sus compromisos, su boca es más untuosa que una crema pero su corazón es agresivo; sus palabras, más suaves que el aceite, son espadas desenvainadas. Descarga en el Señor todo tu peso, porque él te sostendrá; no dejará que el justo se hunda para siempre. Tú, oh Dios, los echarás al pozo de la muerte los hombres sanguinarios y embusteros: no llegarán a la mitad de su vida, pero yo, confío en ti.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v1|number', 'text' : '(54:1)'}
 {'id_' : 'ps_spa_GT_odg|psa54|v1|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa54|v2|number', 'text' : '(54:2)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v2|text', 'text' : 'Ἐνώτισαι, ὁ Θεός, τὴν προσευχήν μου καὶ μὴ ὑπερίδῃς τὴν δέησίν μου.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v2|text', 'text' : 'Oh Dios, pon atención a mi plegaria; no desatiendas mis súplicas.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v3|number', 'text' : '(54:3)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v3|text', 'text' : 'Πρόσχες μοι καὶ εἰσάκουσόν μου. Ἐλυπήθην ἐν τῇ ἀδολεσχίᾳ μου καὶ ἐταράχθην.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v3|text', 'text' : 'Atiéndeme y respóndeme: me agito lamentándome y gimiendo,'}
 {'id_' : 'ps_spa_GT_odg|psa54|v4|number', 'text' : '(54:4)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v4|text', 'text' : 'Ἀπὸ φωνῆς ἐχθροῦ καὶ ἀπὸ θλίψεως ἁμαρτωλοῦ, ὅτι ἐξέκλιναν ἐπ' ἐμὲ ἀνομίαν καὶ ἐν ὀργῇ ἐνεκότουν μοι.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v4|text', 'text' : 'al oír la voz del enemigo y las amenazas del impío. Con sus aullidos me ensordecen y me persiguen con alevosía.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v4a|number', 'text' : '(54:4a)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v4a|text', 'text' : 'Ἀπὸ φωνῆς ἐχθροῦ καὶ ἀπὸ θλίψεως ἁμαρτωλοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v4a|text', 'text' : 'al oír la voz del enemigo y las amenazas del impío.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v4b|number', 'text' : '(54:4b)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v4b|text', 'text' : 'Ὅτι ἐξέκλιναν ἐπ' ἐμὲ ἀνομίαν καὶ ἐν ὀργῇ ἐνεκότουν μοι.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v4b|text', 'text' : 'Con sus aullidos me ensordecen y me persiguen con alevosía.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v5|number', 'text' : '(54:5)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v5|text', 'text' : 'Ἡ καρδία μου ἐταράχθη ἐν ἐμοί, καὶ δειλία θανάτου ἐπέπεσεν ἐπ' ἐμέ·'}
+{'id_' : 'ps_spa_GT_odg|psa54|v5|text', 'text' : 'Mi corazón se estremece en mi pecho, una angustia mortal me sobrecoge;'}
 {'id_' : 'ps_spa_GT_odg|psa54|v6|number', 'text' : '(54:6)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v6|text', 'text' : 'Φόβος καὶ τρόμος ἦλθεν ἐπ' ἐμέ, καὶ ἐκάλυψέ με σκότος.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v6|text', 'text' : 'me invaden el miedo y el terror y el pavor me atenaza.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v7|number', 'text' : '(54:7)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v7|text', 'text' : 'Καὶ εἶπα· τίς δώσει μοι πτέρυγας ὡσεὶ περιστερᾶς καὶ πετασθήσομαι καὶ καταπαύσω;'}
+{'id_' : 'ps_spa_GT_odg|psa54|v7|text', 'text' : 'Y yo dije: Si tuviera alas de paloma volaría a donde pudiera posarme.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v8|number', 'text' : '(54:8)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v8|text', 'text' : 'Ἰδοὺ ἐμάκρυνα φυγαδεύων καὶ ηὐλίσθην ἐν τῇ ἐρήμῳ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v8|text', 'text' : 'Huiría muy lejos, y pasaría la noche en el desierto.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v9|number', 'text' : '(54:9)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v9|text', 'text' : 'Προσεδεχόμην τὸν σῴζοντά με, ἀπὸ ὀλιγοψυχίας καὶ ἀπὸ καταιγίδος.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v9|text', 'text' : 'Buscaría un asilo a toda prisa contra la tempestad y contra el viento.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v10|number', 'text' : '(54:10)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v10|text', 'text' : 'Καταπόντισον, Κύριε, καὶ καταδίελε τὰς γλώσσας αὐτῶν, ὅτι εἶδον ἀνομίαν καὶ ἀντιλογίαν ἐν τῇ πόλει.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v10|text', 'text' : 'Dispérsalos, Señor, confúndeles las lenguas, pues violencia y discordia he visto en la ciudad;'}
 {'id_' : 'ps_spa_GT_odg|psa54|v11|number', 'text' : '(54:11)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v11|text', 'text' : 'Ἡμέρας καὶ νυκτὸς κυκλώσει αὐτὴν ἐπὶ τὰ τείχη αὐτῆς, καὶ ἀνομία καὶ κόπος ἐν μέσῳ αὐτῆς'}
+{'id_' : 'ps_spa_GT_odg|psa54|v11|text', 'text' : 'rondan por sus murallas día y noche y dentro están la injusticia y el crimen.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v12|number', 'text' : '(54:12)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v12|text', 'text' : 'Καὶ ἀδικία, καὶ οὐκ ἐξέλιπεν ἐκ τῶν πλατειῶν αὐτῆς τόκος καὶ δόλος.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v12|text', 'text' : 'El mal aloja en ella; de su plaza no se alejan la astucia y el engaño.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v13|number', 'text' : '(54:13)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v13|text', 'text' : 'Ὅτι εἰ ἐχθρὸς ὠνείδισέ με, ὑπήνεγκα ἄν, καὶ εἰ ὁ μισῶν ἐπ' ἐμὲ ἐμεγαλορρημόνησεν, ἐκρύβην ἂν ἀπ' αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v13|text', 'text' : 'Si llegara a insultarme un enemigo, yo lo soportaría; si el que me odia se alzara en contra mía, me escondería de él;'}
 {'id_' : 'ps_spa_GT_odg|psa54|v14|number', 'text' : '(54:14)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v14|text', 'text' : 'Σὺ δέ, ἄνθρωπε ἰσόψυχε, ἡγεμών μου καὶ γνωστέ μου,'}
+{'id_' : 'ps_spa_GT_odg|psa54|v14|text', 'text' : 'mas fuiste tú, un hombre como yo, mi familiar, mi amigo,'}
 {'id_' : 'ps_spa_GT_odg|psa54|v15|number', 'text' : '(54:15)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v15|text', 'text' : 'Ὃς ἐπὶ τὸ αὐτὸ ἐγλύκανάς μοι ἐδέσματα, ἐν τῷ οἴκῳ τοῦ Θεοῦ ἐπορεύθην ἐν ὁμονοίᾳ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v15|text', 'text' : 'a quien me unía una dulce amistad; juntos íbamos a la casa de Dios en alegre convivencia.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v16|number', 'text' : '(54:16)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v16|text', 'text' : 'Ἐλθέτω δὴ θάνατος ἐπ' αὐτούς, καὶ καταβήτωσαν εἰς ᾅδου ζῶντες· ὅτι πονηρία ἐν ταῖς παροικίαις αὐτῶν ἐν μέσῳ αὐτῶν.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v16|text', 'text' : 'Que la muerte los sorprenda, que bajen vivos al lugar de los muertos, pues el mal se cobija en su interior.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v17|number', 'text' : '(54:17)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v17|text', 'text' : 'Ἐγὼ πρὸς τὸν Θεὸν ἐκέκραξα, καὶ ὁ Κύριος εἰσήκουσέ μου.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v17|text', 'text' : 'Pero yo clamo a Dios y el Señor me salvará.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v18|number', 'text' : '(54:18)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v18|text', 'text' : 'Ἑσπέρας καὶ πρωΐ καὶ μεσημβρίας διηγήσομαι καὶ ἀπαγγελῶ, καὶ εἰσακούσεται τῆς φωνῆς μου.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v18|text', 'text' : 'De tarde, de mañana, al mediodía, me lamento y me aflijo y escuchará mi voz.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v19|number', 'text' : '(54:19)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v19|text', 'text' : 'Λυτρώσεται ἐν εἰρήνῃ τὴν ψυχήν μου ἀπὸ τῶν ἐγγιζόντων μοι, ὅτι ἐν πολλοῖς ἦσαν σὺν ἐμοί.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v19|text', 'text' : 'Me dará la paz, me sacará del combate, aunque muchos estén en contra mía.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v20|number', 'text' : '(54:20)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v20|text', 'text' : 'Εἰσακούσεται ὁ Θεὸς καὶ ταπεινώσει αὐτοὺς ὁ ὑπάρχων πρὸ τῶν αἰώνων. οὐ γάρ ἐστιν αὐτοῖς ἀντάλλαγμα, ὅτι οὐκ ἐφοβήθησαν τὸν Θεόν.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v20|text', 'text' : 'Dios atenderá y los humillará, el que reina desde siempre. ¿Podrán convertirse si no temen a Dios?'}
 {'id_' : 'ps_spa_GT_odg|psa54|v21|number', 'text' : '(54:21)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v21|text', 'text' : 'Ἐξέτεινε τὴν χεῖρα αὐτοῦ ἐν τῷ ἀποδιδόναι· ἐβεβήλωσαν τὴν διαθήκην αὐτοῦ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v21|text', 'text' : 'Alzan la mano contra sus amigos, no cumplen sus compromisos,'}
 {'id_' : 'ps_spa_GT_odg|psa54|v22|number', 'text' : '(54:22)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v22|text', 'text' : 'Διεμερίσθησαν ἀπὸ ὀργῆς τοῦ προσώπου αὐτοῦ, καὶ ἤγγισαν αἱ καρδίαι αὐτῶν· ἡπαλύνθησαν οἱ λόγοι αὐτοῦ ὑπὲρ ἔλαιον, καὶ αὐτοί εἰσι βολίδες.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v22|text', 'text' : 'su boca es más untuosa que una crema pero su corazón es agresivo; sus palabras, más suaves que el aceite, son espadas desenvainadas.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v23|number', 'text' : '(54:23)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v23|text', 'text' : 'Ἐπίρριψον ἐπὶ Κύριον τὴν μέριμνάν σου, καὶ αὐτός σε διαθρέψει· οὐ δώσει εἰς τὸν αἰῶνα σάλον τῷ δικαίῳ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v23|text', 'text' : 'Descarga en el Señor todo tu peso, porque él te sostendrá; no dejará que el justo se hunda para siempre.'}
 {'id_' : 'ps_spa_GT_odg|psa54|v24|number', 'text' : '(54:24)'}
-{'id_' : 'ps_spa_GT_odg|psa54|v24|text', 'text' : 'Σὺ δέ, ὁ Θεός, κατάξεις αὐτοὺς εἰς φρέαρ διαφθορᾶς· ἄνδρες αἱμάτων καὶ δολιότητος οὐ μὴ ἡμισεύσωσι τὰς ἡμέρας αὐτῶν, ἐγὼ δέ, Κύριε, ἐλπιῶ ἐπὶ σέ.'}
+{'id_' : 'ps_spa_GT_odg|psa54|v24|text', 'text' : 'Tú, oh Dios, los echarás al pozo de la muerte los hombres sanguinarios y embusteros: no llegarán a la mitad de su vida, pero yo, confío en ti.'}
 {'id_' : 'ps_spa_GT_odg|kathisma_8|title', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa55|title', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa55|version', 'text' : ''}
