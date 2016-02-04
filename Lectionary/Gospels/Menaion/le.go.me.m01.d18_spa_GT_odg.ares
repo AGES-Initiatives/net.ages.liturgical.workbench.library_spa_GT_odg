@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m01.d18_spa_GT_odg
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = "Evangelio según San Mateo"
+lemeLI.Gospel.chapverse = "(5:14-19)"
+lemeLI.Gospel.text = "«Ustedes son la luz del mundo: ¿cómo se puede esconder una ciudad asentada sobre un monte? Nadie enciende una lámpara para taparla con un cajón; la ponen más bien sobre un candelero, y alumbra a todos los que están en la casa. Hagan, pues, que brille su luz ante los hombres; que vean estas buenas obras, y por ello den gloria al Padre de ustedes que está en los Cielos. No crean que he venido a suprimir la Ley o los Profetas. He venido, no para deshacer, sino para llevar a la forma perfecta. En verdad les digo: mientras dure el cielo y la tierra, no pasará una letra o una coma de la Ley hasta que todo se realice. Por tanto, el que ignore el último de esos mandamientos y enseñe a los demás a hacer lo mismo, será el más pequeño en el Reino de los Cielos. En cambio el que los cumpla y los enseñe, será grande en el Reino de los Cielos.»"
+lemeLI.Gospel.pagenumber = ""

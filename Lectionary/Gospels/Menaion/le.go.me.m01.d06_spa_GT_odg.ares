@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = le.go.me.m01.d06_spa_GT_odg
+
+lemeVE.Gospel.title = "For the Feast."
+lemeVE.Gospel.version = ""
+lemeVE.Gospel.book = le.go.me.m01.d05_spa_GT_odg.lemeH9.Gospel.book
+lemeVE.Gospel.chapverse = le.go.me.m01.d05_spa_GT_odg.lemeH9.Gospel.chapverse
+lemeVE.Gospel.text = le.go.me.m01.d05_spa_GT_odg.lemeH9.Gospel.text
+
+lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = "Evangelio según San Marcos"
+lemeMA.Gospel.chapverse = "(1:9-11)"
+lemeMA.Gospel.text = "En aquellos días Jesús vino de Nazaret, pueblo de Galilea, y se hizo bautizar por Juan en el río Jordán. Al momento de salir del agua, Jesús vio los Cielos abiertos: el Espíritu bajaba sobre él como lo hace la paloma, mientras se escuchaban estas palabras del Cielo: «Tú eres mi Hijo, el Amado, mi Elegido.»"
+
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = "Evangelio según San Mateo"
+lemeLI.Gospel.chapverse = "(3:13-17)"
+lemeLI.Gospel.text = "Por entonces vino Jesús de Galilea al Jordán, para encontrar a Juan y para que éste lo bautizara. Juan quiso disuadirlo y le dijo: «¿Tú vienes a mí? Soy yo quien necesita ser bautizado por ti.» Jesús le respondió: «Deja que hagamos así por ahora. De este modo respetaremos el debido orden.» Entonces Juan aceptó. Una vez bautizado, Jesús salió del agua. En ese momento se abrieron los Cielos y vio al Espíritu de Dios que bajaba como una paloma y se posaba sobre él. Al mismo tiempo se oyó una voz del cielo que decía: «Este es mi Hijo, el Amado; éste es mi Elegido.»"
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m12.d12_spa_GT_odg
+
+lemeMA.Gospel.title = "Orthros. For the Saint."
+lemeMA.Gospel.version = le.go.me.m11.d13_spa_GT_odg.lemeMA.Gospel.version
+lemeMA.Gospel.book = le.go.me.m11.d13_spa_GT_odg.lemeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_spa_GT_odg.lemeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_spa_GT_odg.lemeMA.Gospel.text
+
+lemeLI.Gospel.title = "Liturgy. For the Saint."
+lemeLI.Gospel.version = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.version
+lemeLI.Gospel.book = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

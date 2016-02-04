@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.me.m05.d08_spa_GT_odg
+
+lemeMA.Gospel.title = "For the Evangelist."
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = le.go.eo.w11_spa_GT_odg.leeoMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.eo.w11_spa_GT_odg.leeoMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.eo.w11_spa_GT_odg.leeoMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Evangelist."
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = "Evangelio según San Juan"
+lemeLI.Gospel.chapverse = "(19:25-27, 21:24-25)"
+lemeLI.Gospel.text = "Cerca de la cruz de Jesús estaba su madre, con María, la hermana de su madre, esposa de Cleofás, y María de Magdala. Jesús, al ver a la Madre y junto a ella al discípulo que más quería, dijo a la Madre: «Mujer, ahí tienes a tu hijo.» Después dijo al discípulo: «Ahí tienes a tu madre.» Y desde aquel momento el discípulo se la llevó a su casa. Este es el mismo discípulo que da testimonio de estas cosas y que las ha escrito aquí, y nosotros sabemos que dice la verdad. Jesús hizo también otras muchas cosas. Si se escribieran una por una, creo que no habría lugar en el mundo para tantos libros."
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For the Saint."
+lemeLI.Gospel2.version = ""
+lemeLI.Gospel2.book = "Evangelio según San Mateo"
+lemeLI.Gospel2.chapverse = "(11:26-30)"
+lemeLI.Gospel2.text = "«Mi Padre ha puesto todas las cosas en mis manos. Nadie conoce al Hijo sino el Padre, y nadie conoce al Padre sino el Hijo y aquellos a quienes el Hijo se lo quiera dar a conocer. Vengan a mí los que van cansados, llevando pesadas cargas, y yo los aliviaré. Carguen con mi yugo y aprendan de mí, que soy paciente y humilde de corazón, y sus almas encontrarán descanso. Pues mi yugo es suave y mi carga liviana.»"

@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.go.me.m01.d17_spa_GT_odg
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = le.go.me.m12.d05_spa_GT_odg.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m12.d05_spa_GT_odg.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m12.d05_spa_GT_odg.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = "Evangelio según San Lucas"
+lemeLI.Gospel.chapverse = "(6:17-23)"
+lemeLI.Gospel.text = "Jesús bajó con ellos y se detuvo en un lugar llano. Había allí un grupo impresionante de discípulos suyos y una cantidad de gente procedente de toda Judea y de Jerusalén, y también de la costa de Tiro y de Sidón. Habían venido para oírlo y para que los sanara de sus enfermedades; también los atormentados por espíritus malos recibían curación. Por eso cada cual trataba de tocarlo, porque de él salía una fuerza que los sanaba a todos. El, entonces, levantó los ojos hacia sus discípulos y les dijo: «Felices ustedes los pobres, porque de ustedes es el Reino de Dios. Felices ustedes, los que ahora tienen hambre, porque serán saciados. Felices ustedes, los que lloran, porque reirán. Felices ustedes, si los hombres los odian, los expulsan, los insultan y los consideran unos delincuentes a causa del Hijo del Hombre. Alégrense en ese momento y llénense de gozo, porque les espera una recompensa grande en el cielo. Recuerden que de esa manera trataron también a los profetas en tiempos de sus padres.»"
+lemeLI.Gospel.pagenumber = ""
+

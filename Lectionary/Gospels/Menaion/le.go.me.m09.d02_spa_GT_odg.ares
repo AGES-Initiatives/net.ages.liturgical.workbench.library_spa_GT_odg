@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m09.d02_spa_GT_odg
+
+lemeLI.Gospel.title = "For St. Mamas."
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = "Evangelio según San Juan"
+lemeLI.Gospel.chapverse = "(15:1-11)"
+lemeLI.Gospel.text = "«Yo soy la vid verdadera y mi Padre es el labrador. Toda rama que no da fruto en mí, la corta. Y toda rama que da fruto, la limpia para que dé más fruto. Ustedes ya están limpios gracias a la palabra que les he anunciado, pero permanezcan en mí como yo en ustedes. Una rama no puede producir fruto por sí misma si no permanece unida a la vid; tampoco ustedes pueden producir fruto si no permanecen en mí. Yo soy la vid y ustedes las ramas. El que permanece en mí y yo en él, ése da mucho fruto, pero sin mí, no pueden hacer nada. El que no permanece en mí lo tiran y se seca; como a las ramas, que las amontonan, se echan al fuego y se queman. Mientras ustedes permanezcan en mí y mis palabras permanezcan en ustedes, pidan lo que quieran y lo conseguirán. Mi Padre es glorificado cuando ustedes producen abundantes frutos: entonces pasan a ser discípulos míos. Como el Padre me amó, así también los he amado yo: permanezcan en mi amor. Si cumplen mis mandamientos, permanecerán en mi amor, como yo he cumplido los mandamientos de mi Padre y permanezco en su amor. Les he dicho todas estas cosas para que mi alegría esté en ustedes y su alegría sea completa.»"
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For St. John."
+lemeLI2.Gospel.version = ""
+lemeLI2.Gospel.book = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.book
+lemeLI2.Gospel.chapverse = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.chapverse
+lemeLI2.Gospel.text = le.go.me.m11.d13_spa_GT_odg.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
