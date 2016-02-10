@@ -1,0 +1,96 @@
+A_Resource_Whose_Name = le.go.os_spa_GT_odg
+
+leosVE.Prayer_NynApolyeis.title = "Song of Simeon."
+leosVE.Prayer_NynApolyeis.version = ""
+leosVE.Prayer_NynApolyeis.book = "Evangelio según San Lucas"
+leosVE.Prayer_NynApolyeis.chapverse = "(2:29-32)"
+leosVE.Prayer_NynApolyeis.text = "Ahora, Señor, ya puedes dejar que tu servidor muera en paz como le has dicho. Porque mis ojos han visto a tu salvador, que has preparado y ofreces a todos los pueblos, luz que se revelará a las naciones y gloria de tu pueblo, Israel."
+leosVE.Prayer_NynApolyeis1.text = "Ahora, Señor, ya puedes dejar que tu servidor muera en paz como le has dicho. Porque mis ojos han visto a tu salvador, que has preparado y ofreces a todos los pueblos,"
+leosVE.Prayer_NynApolyeis2.text = "luz que se revelará a las naciones y gloria de tu pueblo, Israel."
+
+leosMA.SixPsalmsIntro1.title = ""
+leosMA.SixPsalmsIntro1.version = ""
+leosMA.SixPsalmsIntro1.book = "Evangelio según San Lucas"
+leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
+leosMA.SixPsalmsIntro1.text = "Gloria a Dios en lo más alto del cielo y en la tierra paz a los hombres: ésta es la hora de su gracia."
+
+//The NT Odes are referenced here and the template (MatinsParts) references these leos keys
+//so that the Scripture version of these NT texts will be controlled by the version option
+//for NT and not the option for Psalter, which is where the Odes live
+leosMA.Ode91.title = ps.bodes_spa_GT_odg.bode9.title
+leosMA.Ode91.version = 
+leosMA.Ode91.book = "Evangelio según San Lucas"
+leosMA.Ode91.heading1 = ps.bodes_spa_GT_odg.bode9_mag.heading1
+leosMA.Ode91.source = ps.bodes_spa_GT_odg.bode9_mag.chapverse
+leosMA.Ode91.heading2 = ps.bodes_spa_GT_odg.bode9_mag.heading2
+leosMA.Ode91.intro = ps.bodes_spa_GT_odg.bode9_mag.intro
+leosMA.Ode91.v1.number = ps.bodes_spa_GT_odg.bode9_mag.v1.number
+leosMA.Ode91.v1.text = ps.bodes_spa_GT_odg.bode9_mag.v1.text
+leosMA.Ode91.v2.number = ps.bodes_spa_GT_odg.bode9_mag.v2.number
+leosMA.Ode91.v2.text = ps.bodes_spa_GT_odg.bode9_mag.v2.text
+leosMA.Ode91.v3.number = ps.bodes_spa_GT_odg.bode9_mag.v3.number
+leosMA.Ode91.v3.text = ps.bodes_spa_GT_odg.bode9_mag.v3.text
+leosMA.Ode91.v4.number = ps.bodes_spa_GT_odg.bode9_mag.v4.number
+leosMA.Ode91.v4.text = ps.bodes_spa_GT_odg.bode9_mag.v4.text
+leosMA.Ode91.v5.number = ps.bodes_spa_GT_odg.bode9_mag.v5.number
+leosMA.Ode91.v5.text = ps.bodes_spa_GT_odg.bode9_mag.v5.text
+leosMA.Ode91.v6.number = ps.bodes_spa_GT_odg.bode9_mag.v6.number
+leosMA.Ode91.v6.text = ps.bodes_spa_GT_odg.bode9_mag.v6.text
+
+leosMA.Ode92.title = ""
+leosMA.Ode92.version = 
+leosMA.Ode92.book = "Evangelio según San Lucas"
+leosMA.Ode92.heading1 = ps.bodes_spa_GT_odg.bode9.heading1
+leosMA.Ode92.source = ps.bodes_spa_GT_odg.bode9.chapverse
+leosMA.Ode92.heading2 = ""
+leosMA.Ode92.intro = ps.bodes_spa_GT_odg.bode9.intro
+leosMA.Ode92.v1.number = ps.bodes_spa_GT_odg.bode9.v1.number
+leosMA.Ode92.v1.text = ps.bodes_spa_GT_odg.bode9.v1.text
+leosMA.Ode92.v2.number = ps.bodes_spa_GT_odg.bode9.v2.number
+leosMA.Ode92.v2.text = ps.bodes_spa_GT_odg.bode9.v2.text
+leosMA.Ode92.v3.number = ps.bodes_spa_GT_odg.bode9.v3.number
+leosMA.Ode92.v3.text = ps.bodes_spa_GT_odg.bode9.v3.text
+leosMA.Ode92.v4.number = ps.bodes_spa_GT_odg.bode9.v4.number
+leosMA.Ode92.v4.text = ps.bodes_spa_GT_odg.bode9.v4.text
+leosMA.Ode92.v5.number = ps.bodes_spa_GT_odg.bode9.v5.number
+leosMA.Ode92.v5.text = ps.bodes_spa_GT_odg.bode9.v5.text
+leosMA.Ode92.eight = "" 
+leosMA.Ode92.v6.number = ps.bodes_spa_GT_odg.bode9.v6.number
+leosMA.Ode92.v6.text = ps.bodes_spa_GT_odg.bode9.v6.text
+leosMA.Ode92.v7.number = ps.bodes_spa_GT_odg.bode9.v7.number
+leosMA.Ode92.v7.text = ps.bodes_spa_GT_odg.bode9.v7.text
+leosMA.Ode92.six = "" 
+leosMA.Ode92.v8.number = ps.bodes_spa_GT_odg.bode9.v8.number
+leosMA.Ode92.v8.text = ps.bodes_spa_GT_odg.bode9.v8.text
+leosMA.Ode92.v9.number = ps.bodes_spa_GT_odg.bode9.v9.number
+leosMA.Ode92.v9.text = ps.bodes_spa_GT_odg.bode9.v9.text
+leosMA.Ode92.four = "" 
+leosMA.Ode92.v10.number = ps.bodes_spa_GT_odg.bode9.v10.number
+leosMA.Ode92.v10.text = ps.bodes_spa_GT_odg.bode9.v10.text
+leosMA.Ode92.v11.number = ps.bodes_spa_GT_odg.bode9.v11.number
+leosMA.Ode92.v11.text = ps.bodes_spa_GT_odg.bode9.v11.text
+
+leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost."
+leosLI.pe.d095.CommunionHymn.version = ""
+leosLI.pe.d095.CommunionHymn.book = "Evangelio según San Juan"
+leosLI.pe.d095.CommunionHymn.number = "(6:56)"
+leosLI.pe.d095.CommunionHymn.text = "El que come mi carne y bebe mi sangre permanece en mí y yo en él. Así dijo el Señor."
+
+leosTY.Beatitudes.title = "THE BEATITUDES"
+leosTY.Beatitudes.version = ""
+leosTY.Beatitudes.book = "Evangelio según San Mateo"
+leosTY.Beatitudes.chapverse = "(5)"
+leosTY.Beatitudes_Intro.text = ""
+leosTY.Beatitudes_v01.text = "Felices los que tienen el espíritu del pobre, porque de ellos es el Reino de los Cielos."
+leosTY.Beatitudes_v02.text = "Felices los que lloran, porque recibirán consuelo."
+leosTY.Beatitudes_v03.text = "Felices los pacientes, porque recibirán la tierra en herencia."
+leosTY.Beatitudes_v04.text = "Felices los que tienen hambre y sed de justicia, porque serán saciados."
+leosTY.Beatitudes_v05.text = "Felices los compasivos, porque obtendrán misericordia."
+leosTY.Beatitudes_v06.text = "Felices los de corazón limpio, porque verán a Dios."
+leosTY.Beatitudes_v07.text = "Felices los que trabajan por la paz, porque serán reconocidos como hijos de Dios."
+leosTY.Beatitudes_v08.text = "Felices los que son perseguidos por causa del bien, porque de ellos es el Reino de los Cielos."
+leosTY.Beatitudes_v09.text = "Felices ustedes, cuando por causa mía los insulten, los persigan y les levanten toda clase de calumnias."
+leosTY.Beatitudes_v10.text = "Alégrense y muéstrense contentos, porque será grande la recompensa que recibirán en el cielo. "
+leosTY.Beatitudes_Refrain1.text = ""
+leosTY.Beatitudes_Refrain2.text = ""
+leosTY.Beatitudes_Refrain3.text = ""
