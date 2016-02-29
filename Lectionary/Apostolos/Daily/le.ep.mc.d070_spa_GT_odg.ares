@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.ep.mc.d070_spa_GT_odg
+
+lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
+lemcVE.Epistle.version = ""
+lemcVE.Epistle.book = "1 Carta a los Corintios"
+lemcVE.Epistle.chapverse = "(1:18-31; 2:1-2)"
+lemcVE.Epistle.text = "Porque el lenguaje de la cruz resulta una locura para los que se pierden; pero para los que se salvan, para nosotros, es poder de Dios. Ya lo dijo la Escritura: Destruiré la sabiduría de los sabios y haré fracasar la pericia de los instruidos. Sabios, entendidos, teóricos de este mundo: ¡cómo quedan puestos! ¿Y la sabiduría de este mundo? Dios la dejó como loca. Pues el mundo, con su sabiduría, no reconoció a Dios cuando ponía por obra su sabiduría; entonces a Dios le pareció bien salvar a los creyentes con esta locura que predicamos. Mientras los judíos piden milagros y los griegos buscan el saber, nosotros proclamamos a un Mesías crucificado: para los judíos ¡qué escándalo! Y para los griegos ¡qué locura! Pero para los que Dios ha llamado, judíos o griegos, este Mesías es fuerza de Dios y sabiduría de Dios. Pues las locuras de Dios tienen más sabiduría que los hombres, y la debilidad de Dios es más fuerte que los hombres. Fíjense, hermanos, en ustedes, los elegidos de Dios: ¿cuántos de ustedes tienen el saber humano o son de familias nobles e influyentes? Dios ha elegido lo que el mundo considera necio para avergonzar a los sabios, y ha tomado lo que es débil en este mundo para confundir lo que es fuerte. Dios ha elegido lo que es común y despreciado en este mundo, lo que es nada, para reducir a la nada lo que es. Y así ningún mortal podrá alabarse a sí mismo ante Dios. Por gracia de Dios ustedes están en Cristo Jesús. El ha pasado a ser sabiduría nuestra venida de Dios, y nuestro mérito y santidad, y el precio de nuestra libertad. Así está escrito: El que se gloríe, que se gloríe en el Señor. Pues yo, hermanos, cuando fui a ustedes para darles a conocer el proyecto misterioso de Dios, no llegué con oratoria ni grandes teorías. Con ustedes decidí no conocer más que a Jesús, el Mesías, y un Mesías crucificado."
+lemcVE.Epistle.pagenumber = ""
+
+// This is at the end of Friday Night service
+lemcLI.Epistle.title = ""
+lemcLI.Epistle.version = ""
+lemcLI.Epistle.book = "1 Carta a los Corintios"
+lemcLI.Epistle.chapverse = "(1 Cor. 5:6-8; Gal. 3:13-14)"
+lemcLI.Epistle.text = "¿No saben que un poco de levadura hace fermentar toda la masa? Echen fuera la vieja levadura y purifíquense; ustedes han de ser una masa nueva, pues si Cristo es para nosotros la víctima pascual, ustedes son los panes sin levadura. Entonces basta ya de vieja levadura, la levadura del mal y del vicio, y celebren la fiesta con el pan sin levadura, que es pureza y sinceridad. Pero Cristo nos ha rescatado de la maldición de la Ley, al hacerse maldición por nosotros, como dice la Escritura: Maldito todo el que está colgado de un madero. De este modo la bendición de Abrahán alcanzó a las naciones paganas en Cristo Jesús: por la fe recibimos la promesa, que es el Espíritu."
+lemcLI.Epistle.pagenumber = ""

@@ -6309,3 +6309,515 @@
 {'id_' : 'ps_spa_GT_odg|psa151|v6|text', 'text' : ''}
 {'id_' : 'ps_spa_GT_odg|psa151|v7|number', 'text' : '(151:7)'}
 {'id_' : 'ps_spa_GT_odg|psa151|v7|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|book', 'text' : 'Exodo'}
+{'id_' : 'ps_spa_GT_odg|bode1|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|chapverse', 'text' : '(15:1-19)'}
+{'id_' : 'ps_spa_GT_odg|bode1|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|v1|number', 'text' : '(1:1)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v1|text', 'text' : 'Cantaré a Yavé, que se hizo famoso; arrojó en el mar al caballo y su jinete.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v2|number', 'text' : '(1:2)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v2|text', 'text' : '¡Yavé, mi fortaleza!, a él le cantaré, él fue mi salvación, él es mi Dios y lo alabaré, el Dios de mi padre, lo ensalzaré.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v3|number', 'text' : '(1:3)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v3|text', 'text' : 'Yavé es un guerrero, Yavé es su nombre.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v4|number', 'text' : '(1:4)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v4|text', 'text' : 'Los carros de Faraón y su ejército: ¡los precipitó en el mar! Los mejores de sus oficiales, ¡hundidos en el Mar Rojo!'}
+{'id_' : 'ps_spa_GT_odg|bode1|v4a|number', 'text' : '(1:4a)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v4a|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|v5|number', 'text' : '(1:5)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v5|text', 'text' : 'Las aguas profundas los han sepultado, hasta el fondo cayeron como piedra.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v6|number', 'text' : '(1:6)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v6|text', 'text' : 'Tu diestra, Yavé, de tremendo poder, tu diestra, Yavé, aplasta al enemigo.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v7|number', 'text' : '(1:7)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v7|text', 'text' : 'Tu Gloria derriba a tus adversarios, despachas tu furor y los devora como paja.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v8|number', 'text' : '(1:8)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v8|text', 'text' : 'Al soplo de tus narices retroceden las aguas, las olas se paran como murallas; los torbellinos cuajan en medio del mar.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v9|number', 'text' : '(1:9)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v9|text', 'text' : 'Dijo el enemigo: «Los perseguiré y los alcanzaré, los tendré a merced, llevaré sus despojos; sacaré mi espada y mi mano los matará.»'}
+{'id_' : 'ps_spa_GT_odg|bode1|v10|number', 'text' : '(1:10)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v10|text', 'text' : 'Mandaste tu soplo y el mar los cubrió, y se hundieron como plomo en las aguas majestuosas.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v11|number', 'text' : '(1:11)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v11|text', 'text' : 'Quién como Tú, Yavé, entre los dioses? ¿Quién como Tú, glorioso y santo, terrible en tus hazañas, autor de maravillas?'}
+{'id_' : 'ps_spa_GT_odg|bode1|v12|number', 'text' : '(1:12)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v12|text', 'text' : '¡Extiendes tu mano y se los traga la tierra!'}
+{'id_' : 'ps_spa_GT_odg|bode1|v13|number', 'text' : '(1:13)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v13|text', 'text' : 'Guiaste con amor al pueblo que rescataste, lo llevaste con poder a tu santa morada.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v14|number', 'text' : '(1:14)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v14|text', 'text' : 'Lo oyeron los pueblos y se turbaron, se asustaron los filisteos;'}
+{'id_' : 'ps_spa_GT_odg|bode1|v15|number', 'text' : '(1:15)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v15|text', 'text' : 'los jefes de Edom vacilan y los generales de Moab se asustan, se angustian los pobladores de Canaán:'}
+{'id_' : 'ps_spa_GT_odg|bode1|v16|number', 'text' : '(1:16)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v16|text', 'text' : '¡pavor y espanto cayó sobre ellos! Diste golpes, y quedan mudos como piedra hasta que pase tu pueblo, Yavé, hasta que pase el pueblo que compraste.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v17|number', 'text' : '(1:17)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v17|text', 'text' : 'Tú lo llevarás y lo plantarás en el monte que es tuyo, el lugar en que habitas, oh Yavé; el Santuario del Señor, obra de sus manos.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v18|number', 'text' : '(1:18)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v18|text', 'text' : '¡Que Yavé reine eternamente!»'}
+{'id_' : 'ps_spa_GT_odg|bode1|v18b|number', 'text' : '(1:18b)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v18b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|v19|number', 'text' : '(1:19)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v19|text', 'text' : 'Como Faraón entrara en el mar, con sus carros y sus caballos, Yavé hizo volver sobre ellos las aguas del mar, mientras los israelitas pasaban en seco por medio del mar.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v20|number', 'text' : '(1:20)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v20|text', 'text' : 'Entonces Miriam, la profetisa, hermana de Aarón, tomó en sus manos un instrumento, un pandero, y todas las mujeres la seguían con tímpanos, danzando en coro.'}
+{'id_' : 'ps_spa_GT_odg|bode1|v20a|number', 'text' : '(1:20a)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v20a|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode1|v20c|number', 'text' : '(1:20c)'}
+{'id_' : 'ps_spa_GT_odg|bode1|v20c|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|book', 'text' : 'Deuteronomio'}
+{'id_' : 'ps_spa_GT_odg|bode2|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|chapverse', 'text' : '(32:1-43)'}
+{'id_' : 'ps_spa_GT_odg|bode2|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v1|number', 'text' : '(2:1)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v1|text', 'text' : 'Cielos, presten oídos, que voy a hablar, y la tierra toda escuche las palabras de mi boca.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v2|number', 'text' : '(2:2)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v2|text', 'text' : 'Como lluvia se derrame mi doctrina, caiga como rocío mi palabra, como suave lluvia sobre la verde hierba, como aguacero sobre el césped.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v3|number', 'text' : '(2:3)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v3|text', 'text' : 'Voy a proclamar el nombre de Yavé: ¡alaben a nuestro Dios!'}
+{'id_' : 'ps_spa_GT_odg|bode2|v4|number', 'text' : '(2:4)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v4|text', 'text' : 'El es la Roca, cuya obra es perfecta, y todos sus caminos son justicia. Es Dios leal, enemigo del mal, es recto y justo.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v5|number', 'text' : '(2:5)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v5|text', 'text' : 'Se portaron mal con él, ¡hijos indignos! generación perversa y depravada.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v6|number', 'text' : '(2:6)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v6|text', 'text' : '¿Así pagas a Yavé, pueblo tonto y estúpido? ¿No es él tu Padre, el que te creó, el que te hizo y te estableció?'}
+{'id_' : 'ps_spa_GT_odg|bode2|v7|number', 'text' : '(2:7)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v7|text', 'text' : 'Acuérdate de los días pasados, recuerda las generaciones anteriores. Interroga a tu padre, que te cuente, a tus ancianos, que te expliquen.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v8|number', 'text' : '(2:8)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v8|text', 'text' : 'Cuando el Altísimo dio a cada pueblo su tierra, cuando repartió a los hijos de Adán, fijó las fronteras de los pueblos según el número de los Hijos de Dios.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v9|number', 'text' : '(2:9)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v9|text', 'text' : 'Pero la parte de Yavé fue su pueblo, Jacob fue su propio dominio.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v10|number', 'text' : '(2:10)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v10|text', 'text' : 'Lo encontró en el desierto, en la soledad rugiente, y lo cubrió, lo alimentó, lo cuidó como a la niña de sus ojos.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v11|number', 'text' : '(2:11)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v11|text', 'text' : 'Como un águila cubre a sus polluelos, y revolotea sobre ellos, así él extendió sus alas y lo tomó y lo llevó sobre sus plumas.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v12|number', 'text' : '(2:12)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v12|text', 'text' : 'Sólo Yavé lo guiaba, no estaba con él ningún dios ajeno.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v13|number', 'text' : '(2:13)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v13|text', 'text' : 'Lo estableció en las tierras altas, lo alimentó de los frutos del campo, le dio a gustar la miel de una peña que sale como aceite del hueco de la roca,'}
+{'id_' : 'ps_spa_GT_odg|bode2|v14|number', 'text' : '(2:14)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v14|text', 'text' : 'la crema de la vaca y la leche de las ovejas. la grasa de los corderos, y la flor de los granos de trigo. tuvo por bebida el jugo de la uva.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v15|number', 'text' : '(2:15)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v15|text', 'text' : 'Comió el Regalón y se sació, engordó Israel y dio coces, rechazó a Dios, que lo formó, despreció a su Roca, que lo salvó.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v16|number', 'text' : '(2:16)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v16|text', 'text' : 'Despertaron sus celos con dioses ajenos, lo irritaron con sus ídolos.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v17|number', 'text' : '(2:17)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v17|text', 'text' : 'Sacrificaron, no a Dios, sino a demonios. A dioses que no eran suyos, dioses nuevos, recién llegados, a los que nunca veneraron sus padres.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v18|number', 'text' : '(2:18)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v18|text', 'text' : '¿Cómo? Olvidas a la Roca que te creó, ignoras al Dios que te engendró?'}
+{'id_' : 'ps_spa_GT_odg|bode2|v19|number', 'text' : '(2:19)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v19|text', 'text' : 'Yavé lo ha visto, y desprecia a sus hijos e hijas que lo han ofendido.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v20|number', 'text' : '(2:20)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v20|text', 'text' : 'Les voy a esconder mi rostro, a ver qué será de ellos. Estos son una generación perversa, hijos de los que uno no se puede fiar.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v21|number', 'text' : '(2:21)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v21|text', 'text' : 'Me pusieron celoso con lo que no es Dios, me molestaron con cosas que no sirven. Por eso yo los pondré celosos de una gente que no es pueblo, y los molestará una nación que no sirve.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v22|number', 'text' : '(2:22)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v22|text', 'text' : '¡Miren que saltó fuego de mi cólera y la llama consume hasta el mundo de abajo, devora la tierra y sus frutos, abrasa los cimientos de los cerros!'}
+{'id_' : 'ps_spa_GT_odg|bode2|v23|number', 'text' : '(2:23)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v23|text', 'text' : 'Descargaré mis plagas sobre ellos y agotaré en ellos mis dardos.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v24|number', 'text' : '(2:24)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v24|text', 'text' : 'Los consumirán el hambre, la peste y las fiebres mortales. Dientes de fiera mandaré contra ellos, y el veneno de los reptiles.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v25|number', 'text' : '(2:25)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v25|text', 'text' : 'Por fuera la espada hará estragos y dentro reinará el espanto. Caerán sobre el joven y la doncella, el niño de pecho y el viejo encanecido.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v26|number', 'text' : '(2:26)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v26|text', 'text' : '¿Acaso diré: A polvo los reduciré, borraré su recuerdo de en medio de los hombres?'}
+{'id_' : 'ps_spa_GT_odg|bode2|v27|number', 'text' : '(2:27)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v27|text', 'text' : 'Temo que se jacten sus enemigos, ya que no entenderían y dirían: «Les ganamos nosotros, no es Yavé quien lo hizo.»'}
+{'id_' : 'ps_spa_GT_odg|bode2|v28|number', 'text' : '(2:28)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v28|text', 'text' : 'Israel no sabe conducirse y no hay en ellos sensatez.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v29|number', 'text' : '(2:29)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v29|text', 'text' : 'Si fueran inteligentes, lo entenderían, y sabrían en qué van a parar:'}
+{'id_' : 'ps_spa_GT_odg|bode2|v30|number', 'text' : '(2:30)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v30|text', 'text' : 'Un solo enemigo persigue a mil de ellos y dos ponen en fuga a diez mil, ¿no será porque su Roca los ha vendido, porque Yavé los ha entregado?'}
+{'id_' : 'ps_spa_GT_odg|bode2|v31|number', 'text' : '(2:31)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v31|text', 'text' : 'El enemigo, su roca no es como nuestra Roca, no hay sabiduría en nuestros adversarios.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v32|number', 'text' : '(2:32)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v32|text', 'text' : 'Porque su viña es viña de Sodoma y de las plantaciones de Gomorra uvas venenosas son sus uvas, racimos amargos sus racimos.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v33|number', 'text' : '(2:33)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v33|text', 'text' : 'Su vino es veneno de serpiente, mortal ponzoña de áspid.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v34|number', 'text' : '(2:34)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v34|text', 'text' : '¿Qué suerte les tengo reservada, sellada y guardada junto a mí?'}
+{'id_' : 'ps_spa_GT_odg|bode2|v35|number', 'text' : '(2:35)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v35|text', 'text' : '¡A mí la venganza y la sanción en el momento que su pie vacile! Pues se acerca el día de su ruina, y pronto llega su fin.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v36|number', 'text' : '(2:36)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v36|text', 'text' : 'Porque Yavé hará justicia a su pueblo y se apiadará de sus siervos, cuando vea que su fuerza se agota, que no queda ya ni hombre libre ni esclavo.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v37|number', 'text' : '(2:37)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v37|text', 'text' : 'Y les dirá: ¿Dónde están sus dioses, la roca en la que buscaban su refugio,'}
+{'id_' : 'ps_spa_GT_odg|bode2|v38|number', 'text' : '(2:38)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v38|text', 'text' : 'los que comían la grasa de sus sacrificios y bebían el vino de sus ofrendas? ¡Que se levanten y los salven a ustedes!, ¡sean ellos su amparo y refugio!'}
+{'id_' : 'ps_spa_GT_odg|bode2|v39|number', 'text' : '(2:39)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v39|text', 'text' : 'Vean ahora que Yo, sólo Yo soy, y que no hay más Dios que yo. Yo doy la muerte y la vida, yo hiero, y soy yo mismo el que sano, y no hay quien se libre de mi mano.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v40|number', 'text' : '(2:40)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v40|text', 'text' : 'Sí, yo alzo al cielo mi mano y digo: «Tan cierto como vivo yo para siempre,'}
+{'id_' : 'ps_spa_GT_odg|bode2|v41|number', 'text' : '(2:41)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v41|text', 'text' : 'afilaré la punta de mi espada, y mi mano empuñará el Juicio; me vengaré de mis adversarios, y daré el pago a quienes me aborrecen.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v42|number', 'text' : '(2:42)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v42|text', 'text' : 'Embriagaré de sangre mis saetas, y mi espada se hartará de carne: sangre de muertos y cautivos, cabezas de caudillos enemigos.'}
+{'id_' : 'ps_spa_GT_odg|bode2|v43|number', 'text' : '(2:43)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v43|text', 'text' : '¡Que los cielos festejen a su pueblo! ¡Hijos de Dios, póstrense ante él! Porque él venga la sangre de sus siervos y devuelve la venganza a sus adversarios, mientras purifica la tierra de su pueblo.»'}
+{'id_' : 'ps_spa_GT_odg|bode2|v44|number', 'text' : '(2:44)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v44|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v45|number', 'text' : '(2:45)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v45|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v46|number', 'text' : '(2:46)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v46|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v47|number', 'text' : '(2:47)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v47|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v48|number', 'text' : '(2:48)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v48|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode2|v49|number', 'text' : '(2:49)'}
+{'id_' : 'ps_spa_GT_odg|bode2|v49|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|book', 'text' : '1 Samuel'}
+{'id_' : 'ps_spa_GT_odg|bode3|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|chapverse', 'text' : '(2:1-10)'}
+{'id_' : 'ps_spa_GT_odg|bode3|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v1|number', 'text' : '(3:1)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v1|text', 'text' : 'Mi alma se alegra en Yavé, en Dios me siento llena de fuerza, ahora puedo responder a mis enemigos, pues me siento feliz con tu auxilio.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v2|number', 'text' : '(3:2)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v2|text', 'text' : 'Sólo Yavé es Santo, pues nada hay fuera de Ti, no hay roca tan firme como nuestro Dios.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v3|number', 'text' : '(3:3)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v3|text', 'text' : 'No digan tantas palabras altaneras, ni salga de su boca la arrogancia, porque Yavé es un Dios que lo sabe todo, él juzga las acciones de todos.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v4|number', 'text' : '(3:4)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v4|text', 'text' : 'El arco de los fuertes se ha quebrado y los débiles se han hecho fuertes.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v5|number', 'text' : '(3:5)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v5|text', 'text' : 'Los que estaban satisfechos van a trabajar por un pedazo de pan, mientras que los débiles descansan. La mujer estéril da a luz siete veces; pero se marchita la madre de muchos hijos.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v6|number', 'text' : '(3:6)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v6|text', 'text' : 'Yavé es quien da muerte y vida, quien hace bajar al lugar de los muertos y volver a la vida. Yavé da y quita riquezas, humilla y ensalza.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v7|number', 'text' : '(3:7)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v7|text', 'text' : 'Levanta del polvo al desvalido'}
+{'id_' : 'ps_spa_GT_odg|bode3|v8|number', 'text' : '(3:8)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v8|text', 'text' : 'y, de la mugre, saca al pobre para que pueda sentarse con los grandes y ocupar un lugar de privilegio. Yavé ha hecho los pilares de la tierra y sobre ellos ha puesto el universo.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v9|number', 'text' : '(3:9)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v9|text', 'text' : 'El guía los pasos de sus fieles y los malos desaparecen en las tinieblas, los fuertes no son ya los vencedores.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v10|number', 'text' : '(3:10)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v10|text', 'text' : 'Yavé humilla a sus contrarios; él sube a los cielos y truena para juzgar al orbe entero. El fortalece a su rey haciendo sobresalir a su Elegido.'}
+{'id_' : 'ps_spa_GT_odg|bode3|v11|number', 'text' : '(3:11)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v11|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v11b|number', 'text' : '(3:11b)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v11b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v12|number', 'text' : '(3:12)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v12|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v13|number', 'text' : '(3:13)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v13|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v14|number', 'text' : '(3:14)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v14|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode3|v15|number', 'text' : '(3:15)'}
+{'id_' : 'ps_spa_GT_odg|bode3|v15|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|book', 'text' : 'Habacuc'}
+{'id_' : 'ps_spa_GT_odg|bode4|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|chapverse', 'text' : '(3:2-19)'}
+{'id_' : 'ps_spa_GT_odg|bode4|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v1|number', 'text' : '(4:1)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v1|text', 'text' : 'Después de lo que acabo de oír, me llena de terror lo que vas a hacer, oh Yavé, y que realizarás a los muchos años, que darás a conocer en aquellos días. ¡No olvides tu misericordia en el tiempo de tu enojo!'}
+{'id_' : 'ps_spa_GT_odg|bode4|v2|number', 'text' : '(4:2)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v2|text', 'text' : 'Viene Dios de Temán, el Santo, desde el monte Parán. Su majestad envuelve los cielos y su Gloria repleta la tierra.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v2b|number', 'text' : '(4:2b)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v2b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v3|number', 'text' : '(4:3)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v3|text', 'text' : 'Se asemeja a la luz su resplandor, un par de rayos brotan de sus manos.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v4|number', 'text' : '(4:4)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v4|text', 'text' : 'Abriéndole camino va la peste, y viene detrás de él la fiebre ardiente.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v5|number', 'text' : '(4:5)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v5|text', 'text' : 'Se detiene, y la tierra se estremece, mira, y se sobresaltan las naciones; las montañas eternas se desploman, las colinas antiguas se derriten ¡Yavé sale como en tiempos pasados!'}
+{'id_' : 'ps_spa_GT_odg|bode4|v6|number', 'text' : '(4:6)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v6|text', 'text' : 'Vi que cundía el miedo en las tiendas de Cusán; que temblaban de espanto las carpas de Madián.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v7|number', 'text' : '(4:7)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v7|text', 'text' : '¿Contra quién, oh Yavé, se enciende tu ira? ¿Es tu cólera en contra de los ríos o estás enfurecido con el mar, para que andes montado en tus caballos, de pie sobre tus carros victoriosos?'}
+{'id_' : 'ps_spa_GT_odg|bode4|v8|number', 'text' : '(4:8)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v8|text', 'text' : 'Preparas tu arco para disparar y sacas tus flechas de la aljaba, se abre la tierra y saltan torrentes;'}
+{'id_' : 'ps_spa_GT_odg|bode4|v9|number', 'text' : '(4:9)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v9|text', 'text' : 'las montañas te ven y se estremecen; caen lluvias de diluvio mientras truena la voz del abismo.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v10|number', 'text' : '(4:10)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v10|text', 'text' : 'El sol detiene su luz y la luna se para de repente al ver el relámpago de tus flechas, el rayo fulgurante de tu lanza.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v11|number', 'text' : '(4:11)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v11|text', 'text' : 'Caminas muy molesto por la tierra, y con ira pisoteas las naciones.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v12|number', 'text' : '(4:12)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v12|text', 'text' : 'Pues llegas en socorro de tu pueblo, para salvar a tu ungido. Al opresor le rompes la cabeza y lo arrasas hasta sus cimientos.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v13|number', 'text' : '(4:13)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v13|text', 'text' : 'Traspasas con tus flechas la cabeza de sus jefes, que se lanzaban gozosos para aplastarnos, para devorar callando al desdichado.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v14|number', 'text' : '(4:14)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v14|text', 'text' : 'Tus caballos han atravesado la mar, las olas que se agitan con violencia.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v15|number', 'text' : '(4:15)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v15|text', 'text' : 'Al oírlo, mi corazón palpita, al sentirlo, mis labios se estremecen, se corrompe la médula en mis huesos, y temblequean mis piernas. Espero, sin embargo, el día amargo que sobrevendrá al pueblo opresor.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v16|number', 'text' : '(4:16)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v16|text', 'text' : 'Pues aunque no florezca la higuera ni den las viñas uva en adelante; aunque falte el producto del olivo y se niegue la tierra a darnos pan; aunque no tenga ovejas el corral y se queden sin bueyes los establos;'}
+{'id_' : 'ps_spa_GT_odg|bode4|v17|number', 'text' : '(4:17)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v17|text', 'text' : 'yo seguiré alegrándome en Yavé, lleno de gozo en Dios, mi Salvador.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v18|number', 'text' : '(4:18)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v18|text', 'text' : 'Yavé, que es mi Señor, es mi fuerza el da a mis pies la agilidad de un ciervo y me hace caminar por las alturas.'}
+{'id_' : 'ps_spa_GT_odg|bode4|v19|number', 'text' : '(4:19)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v19|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v20|number', 'text' : '(4:20)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v20|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v21|number', 'text' : '(4:21)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v21|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v22|number', 'text' : '(4:22)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v22|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v23|number', 'text' : '(4:23)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v23|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v24|number', 'text' : '(4:24)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v24|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode4|v25|number', 'text' : '(4:25)'}
+{'id_' : 'ps_spa_GT_odg|bode4|v25|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|book', 'text' : 'Isaías'}
+{'id_' : 'ps_spa_GT_odg|bode5|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|chapverse', 'text' : '(26:9-20)'}
+{'id_' : 'ps_spa_GT_odg|bode5|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|v1|number', 'text' : '(5:1)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v1|text', 'text' : 'Mi alma te desea por la noche y mi espíritu se despierta en mí desde la mañana. Cuando a la tierra le llegan tus juicios, los habitantes del mundo aprenden a ser justos.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v2|number', 'text' : '(5:2)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v2|text', 'text' : 'Pues si se perdona al malvado, no aprende la justicia y sigue haciendo el mal en la tierra del derecho, pues no teme la majestad de Yavé.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v3|number', 'text' : '(5:3)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v3|text', 'text' : '¿Hasta cuándo los estarás amenazando sin que comprendan? Haz que vean, para vergüenza suya, que cuidas de tu pueblo; ¡que tu furor, cual fuego, devore a tus enemigos!'}
+{'id_' : 'ps_spa_GT_odg|bode5|v4|number', 'text' : '(5:4)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v4|text', 'text' : 'Yavé, dígnate darnos la paz, pues, sólo tú llevas a feliz término lo que hacemos nosotros.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v5|number', 'text' : '(5:5)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v5|text', 'text' : 'Oh Yavé, nuestro Dios, otros señores, fuera de ti, nos han dominado, mas no recordaremos otro nombre que el tuyo, a ti solo conocemos.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v6|number', 'text' : '(5:6)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v6|text', 'text' : 'Los muertos no volverán, y sus sombras no se levantarán, pues los has juzgado y los hiciste morir; has borrado hasta el recuerdo de su nombre.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v7|number', 'text' : '(5:7)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v7|text', 'text' : 'Yavé, has hecho crecer tu nación, ensanchaste nuestro país y, mientras más crecía, te hacías más famoso.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v8|number', 'text' : '(5:8)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v8|text', 'text' : 'Yavé, en la angustia te buscábamos; vivíamos bajo la opresión y tu castigo nos apretaba.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v9|number', 'text' : '(5:9)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v9|text', 'text' : 'Como la mujer sufre al dar a luz, se retuerce y grita en sus dolores, así estuvimos ante ti, Yavé.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v10|number', 'text' : '(5:10)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v10|text', 'text' : 'Hemos concebido, tuvimos dolores como si diéramos a luz, pero ¡puro aire!; no hemos traído al país la salvación, y no se ven los pioneros de un mundo nuevo.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v11|number', 'text' : '(5:11)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v11|text', 'text' : '¡Tus muertos revivirán, y sus cadáveres resucitarán! Despierten y den gritos de júbilo todos ustedes, que yacen en el polvo. Que baje tu rocío, Señor, rocío de luz, y la tierra nos devolverá a los muertos.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v12|number', 'text' : '(5:12)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v12|text', 'text' : 'Entra, pueblo mío, en tus habitaciones y cierra las puertas tras de ti; escóndete un momento hasta que pase la cólera.'}
+{'id_' : 'ps_spa_GT_odg|bode5|v13|number', 'text' : '(5:13)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v13|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|v14|number', 'text' : '(5:14)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v14|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|v15|number', 'text' : '(5:15)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v15|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode5|v16|number', 'text' : '(5:16)'}
+{'id_' : 'ps_spa_GT_odg|bode5|v16|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|book', 'text' : 'Jonás'}
+{'id_' : 'ps_spa_GT_odg|bode6|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|chapverse', 'text' : '(2:3-10)'}
+{'id_' : 'ps_spa_GT_odg|bode6|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v1|number', 'text' : '(6:1)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v1|text', 'text' : 'En mi angustia llamé a Yavé y me respondió, grité desde el lugar de los muertos y tú oíste mi voz.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v1a|number', 'text' : '(6:1a)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v1a|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v2|number', 'text' : '(6:2)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v2|text', 'text' : 'Me habías arrojado en el corazón del mar, y la corriente me cercaba, tus olas y tus remolinos pasaban sobre mí.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v3|number', 'text' : '(6:3)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v3|text', 'text' : 'Y dije: He sido arrojado de tu presencia, nunca más veré tu santo templo.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v4|number', 'text' : '(6:4)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v4|text', 'text' : 'Me subían las aguas hasta el cuello, el abismo me rodeaba, las algas se enredaban en mi cabeza.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v5|number', 'text' : '(6:5)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v5|text', 'text' : 'A las raíces de los montes descendí, al país cuyos cerrojos se cierran para siempre, pero me hiciste subir de la fosa, ¡oh Yavé, mi Dios!'}
+{'id_' : 'ps_spa_GT_odg|bode6|v5a|number', 'text' : '(6:5a)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v5a|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v5b|number', 'text' : '(6:5b)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v5b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v6|number', 'text' : '(6:6)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v6|text', 'text' : 'Cuando en mí se me desfallecía el alma, me acordé de Yavé, y mi oración llegó a ti, a tu santo templo.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v7|number', 'text' : '(6:7)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v7|text', 'text' : 'Los que sirven los ídolos vanos sacrifican sus esperanzas;'}
+{'id_' : 'ps_spa_GT_odg|bode6|v7b|number', 'text' : '(6:7b)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v7b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v8|number', 'text' : '(6:8)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v8|text', 'text' : 'pero yo en acción de gracias te ofreceré un sacrificio y cumpliré mis votos: de Yavé viene la salvación.'}
+{'id_' : 'ps_spa_GT_odg|bode6|v9|number', 'text' : '(6:9)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v9|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode6|v9b|number', 'text' : '(6:9b)'}
+{'id_' : 'ps_spa_GT_odg|bode6|v9b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|book', 'text' : 'Daniel'}
+{'id_' : 'ps_spa_GT_odg|bode7|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|chapverse', 'text' : '(3:25-56)'}
+{'id_' : 'ps_spa_GT_odg|bode7|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|v1|number', 'text' : '(7:1)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v1|text', 'text' : 'Y Azarías, de pie en medio del fuego, tomó la palabra y oró así:'}
+{'id_' : 'ps_spa_GT_odg|bode7|v2|number', 'text' : '(7:2)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v2|text', 'text' : 'Bendito seas, Señor, Dios de nuestros padres; que tu Nombre sea alabado y glorificado eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v3|number', 'text' : '(7:3)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v3|text', 'text' : 'Porque eres justo en todo lo que has hecho; todas tus obras son verdaderas; rectos todos tus caminos; y verdaderos todos tus juicios.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v3a|number', 'text' : '(7:3a)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v3a|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|v3b|number', 'text' : '(7:3b)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v3b|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode7|v4|number', 'text' : '(7:4)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v4|text', 'text' : 'Has llevado a efecto una sentencia justa al traer el mal sobre nosotros y sobre Jerusalén, la Ciudad Santa de nuestros padres. Has obrado conforme a la verdad y la justicia, para castigo de nuestros pecados.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v5|number', 'text' : '(7:5)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v5|text', 'text' : 'Porque hemos pecado y obrado perversamente alejándonos de ti. Pecamos mucho en todo y no dimos oído a tus mandamientos.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v6|number', 'text' : '(7:6)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v6|text', 'text' : 'No lo observamos y no cumplimos lo que nos mandabas para nuestro bien.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v7|number', 'text' : '(7:7)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v7|text', 'text' : 'Todos los males que has traído sobre nosotros, todo lo que nos has hecho, lo has hecho conforme a tu justa sentencia.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v8|number', 'text' : '(7:8)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v8|text', 'text' : 'Nos entregaste en manos de nuestros enemigos, gente sin ley, pésimos impíos, en manos de un rey injusto, el más perverso de toda la tierra.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v9|number', 'text' : '(7:9)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v9|text', 'text' : 'Y hoy no podemos abrir la boca, la vergüenza y la humillación han alcanzado a los que te sirven y te adoran.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v10|number', 'text' : '(7:10)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v10|text', 'text' : 'No nos abandones para siempre, por amor de tu Nombre no rechaces tu alianza.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v11|number', 'text' : '(7:11)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v11|text', 'text' : 'No nos retires tu misericordia, por Abraham, tu amigo, por Isaac, tu siervo, por Israel, tu santo,'}
+{'id_' : 'ps_spa_GT_odg|bode7|v12|number', 'text' : '(7:12)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v12|text', 'text' : 'a quienes tú prometiste multiplicar su raza como las estrellas del cielo y como la arena de la orilla del mar.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v13|number', 'text' : '(7:13)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v13|text', 'text' : 'Porque, Señor, hemos pasado a ser la nación más pequeña de toda la tierra y somos humillados a causa de nuestros pecados.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v14|number', 'text' : '(7:14)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v14|text', 'text' : 'En esta hora ya no tenemos rey, ni profeta, ni jefe; no podemos ofrecerte víctimas, sacrificios, ofrendas ni incienso. No tenemos un lugar en que presentarte las primicias de nuestras cosechas y así conseguir tu favor.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v15|number', 'text' : '(7:15)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v15|text', 'text' : 'Pero, a lo menos, que al presentarnos con alma contrita y espíritu humillado te seamos agradables, más que cuando íbamos con carneros y becerros consumidos por el fuego y con miles de gordos corderos.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v16|number', 'text' : '(7:16)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v16|text', 'text' : 'Que hoy este sacrificio nuestro nos consiga tu favor, pues sabemos que los que confían en ti jamás serán defraudados.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v17|number', 'text' : '(7:17)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v17|text', 'text' : 'Y ahora te seguimos de todo corazón, te tememos y buscamos tu rostro. No nos dejes en la humillación,'}
+{'id_' : 'ps_spa_GT_odg|bode7|v18|number', 'text' : '(7:18)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v18|text', 'text' : 'sino trátanos de acuerdo a tu bondad y según la abundancia de tu misericordia.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v19|number', 'text' : '(7:19)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v19|text', 'text' : 'Líbranos de acuerdo a tus maravillas, y da, Señor, gloria a tu Nombre.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v20|number', 'text' : '(7:20)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v20|text', 'text' : 'Queden confundidos los que maltratan a tus siervos, sean cubiertos de vergüenza, privados de todo su poder;'}
+{'id_' : 'ps_spa_GT_odg|bode7|v21|number', 'text' : '(7:21)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v21|text', 'text' : 'aplasta tú su fuerza, y sepan que tú eres el único Dios y Señor, glorioso por toda la tierra.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v22|number', 'text' : '(7:22)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v22|text', 'text' : 'Los siervos del rey, que los habían arrojado al horno, no cesaban de atizar el fuego con petróleo, alquitrán, estopa y sarmientos,'}
+{'id_' : 'ps_spa_GT_odg|bode7|v23|number', 'text' : '(7:23)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v23|text', 'text' : 'tanto que las llamas se elevaban por encima del horno unos veinticinco metros,'}
+{'id_' : 'ps_spa_GT_odg|bode7|v24|number', 'text' : '(7:24)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v24|text', 'text' : 'y al extenderse abrasó a los caldeos que se encontraban alrededor del horno.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v25|number', 'text' : '(7:25)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v25|text', 'text' : 'Pero el ángel del Señor bajó al horno junto a Azarías y sus compañeros; empujó fuera del horno la llama de fuego,'}
+{'id_' : 'ps_spa_GT_odg|bode7|v26|number', 'text' : '(7:26)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v26|text', 'text' : 'y les sopló, en medio del horno, como una frescura de brisa y de rocío, de modo que el fuego no los tocó ni les causó dolor ni molestia.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v27|number', 'text' : '(7:27)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v27|text', 'text' : 'Entonces los tres, a coro, se pusieron a cantar, glorificando y bendiciendo a Dios dentro del horno, y diciendo:'}
+{'id_' : 'ps_spa_GT_odg|bode7|v28|number', 'text' : '(7:28)'}
+{'id_' : 'ps_spa_GT_odg|bode7|v28|text', 'text' : 'Bendito seas, Señor, Dios de nuestros padres, alabado y exaltado eternamente; Bendito sea tu santo y glorioso Nombre, cantado y exaltado eternamente'}
+{'id_' : 'ps_spa_GT_odg|bode7|v29|text', 'text' : 'Bendito seas en el templo de tu santa gloria, cantado y alabado eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v30|text', 'text' : 'Bendito seas en el trono de tu reino, cantado y glorificado eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v31|text', 'text' : 'Bendito seas tú, que sondeas los abismos, que te sientas sobre querubines, alabado y ensalzado enternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode7|v32|text', 'text' : 'Bendito seas en el firmamento del cielo, alabado y glorificado eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|title', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|book', 'text' : 'Daniel'}
+{'id_' : 'ps_spa_GT_odg|bode8|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|chapverse', 'text' : '(3:57-88)'}
+{'id_' : 'ps_spa_GT_odg|bode8|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|refrain|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|hymn|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|hymn_plural|text', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode8|v1|number', 'text' : '(8:1)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v1|text', 'text' : 'Obras todas del Señor, bendíganlo, alábenlo, ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v2|number', 'text' : '(8:2)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v2|text', 'text' : 'Angeles del Señor, bendíganlo, alábenlo y glorifíquenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v3|number', 'text' : '(8:3)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v3|text', 'text' : 'Cielos, bendigan al Señor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v4|number', 'text' : '(8:4)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v4|text', 'text' : 'Aguas todas del cielo, bendigan al Señor, alábenlo y exáltenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v5|number', 'text' : '(8:5)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v5|text', 'text' : 'Potencias todas del Señor, bendigan al Señor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v6|number', 'text' : '(8:6)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v6|text', 'text' : 'Sol y luna, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v7|number', 'text' : '(8:7)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v7|text', 'text' : 'Astros del cielo, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v8|number', 'text' : '(8:8)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v8|text', 'text' : 'Lluvia y rocío, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v9|number', 'text' : '(8:9)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v9|text', 'text' : 'Vientos todos, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v10|number', 'text' : '(8:10)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v10|text', 'text' : 'Fuego y calor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v11|number', 'text' : '(8:11)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v11|text', 'text' : 'Frío y ardor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v12|number', 'text' : '(8:12)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v12|text', 'text' : 'Rocíos y escarchas, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v13|number', 'text' : '(8:13)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v13|text', 'text' : 'Hielos y frío, alábenlo y ensálcenlo enternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v14|number', 'text' : '(8:14)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v14|text', 'text' : 'Heladas y nieves, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v15|number', 'text' : '(8:15)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v15|text', 'text' : 'Noches y días, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v16|number', 'text' : '(8:16)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v16|text', 'text' : 'Luz y tinieblas, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v17|number', 'text' : '(8:17)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v17|text', 'text' : 'Rayos y nubes, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v18|number', 'text' : '(8:18)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v18|text', 'text' : 'Tierra, alábalo y ensálzalo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v19|number', 'text' : '(8:19)'}
+{'id_' : 'ps_spa_GT_odg|bode8|v19|text', 'text' : 'Montes y cerros, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v20|text', 'text' : 'Todo lo que brota en la tierra, alábelo y ensálcelo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v21|text', 'text' : 'Vertientes, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v22|text', 'text' : 'Mares y ríos, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v23|text', 'text' : 'Ballenas y peces, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v24|text', 'text' : 'Aves todas del cielo, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v25|text', 'text' : 'Fieras y animales, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v26|text', 'text' : 'Hijos de los hombres, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v27|text', 'text' : 'Israel, alábalo y ensálzalo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v28|text', 'text' : 'Sacerdotes del Señor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v29|text', 'text' : 'Servidores del Señor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v30|text', 'text' : 'Espíritus y almas de los justos, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v31|text', 'text' : 'Santos y humildes de corazón, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode8|v32|text', 'text' : 'Ananías, Azarías, Misael, bendigan al Señor, alábenlo y ensálcenlo eternamente.'}
+{'id_' : 'ps_spa_GT_odg|bode9|title', 'text' : 'Ode Nine'}
+{'id_' : 'ps_spa_GT_odg|bode9|version', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|book', 'text' : 'Evangelio según San Lucas'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|chapverse', 'text' : '(1:46-55)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v1|number', 'text' : '(9a:1)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v1|text', 'text' : 'Proclama mi alma la grandeza del Señor, y mi espíritu se alegra en Dios mi Salvador,'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v2|number', 'text' : '(9a:2)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v2|text', 'text' : 'porque se fijó en su humilde esclava, y desde ahora todas las generaciones me dirán feliz.'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v3|number', 'text' : '(9a:3)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v3|text', 'text' : 'El Poderoso ha hecho grandes cosas por mí: ¡Santo es su Nombre! Muestra su misericordia siglo tras siglo a todos aquellos que viven en su presencia.'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v4|number', 'text' : '(9a:4)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v4|text', 'text' : 'Dio un golpe con todo su poder: deshizo a los soberbios y sus planes.'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v5|number', 'text' : '(9a:5)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v5|text', 'text' : 'Derribó a los poderosos de sus tronos y exaltó a los humildes. Colmó de bienes a los hambrientos, y despidió a los ricos con las manos vacías.'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v6|number', 'text' : '(9a:6)'}
+{'id_' : 'ps_spa_GT_odg|bode9_mag|v6|text', 'text' : 'Socorrió a Israel, su siervo, se acordó de su misericordia, como lo había prometido a nuestros padres, a Abraham y a sus descendientes para siempre.'}
+{'id_' : 'ps_spa_GT_odg|bode9|book', 'text' : 'Evangelio según San Lucas'}
+{'id_' : 'ps_spa_GT_odg|bode9|heading1', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9|chapverse', 'text' : '(1:68-79)'}
+{'id_' : 'ps_spa_GT_odg|bode9|heading2', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9|intro', 'text' : ''}
+{'id_' : 'ps_spa_GT_odg|bode9|v1|number', 'text' : '(9b:1)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v1|text', 'text' : 'Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo.'}
+{'id_' : 'ps_spa_GT_odg|bode9|v2|number', 'text' : '(9b:2)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v2|text', 'text' : 'Ahora sale triunfante nuestra salvación en la casa de David, su siervo,'}
+{'id_' : 'ps_spa_GT_odg|bode9|v3|number', 'text' : '(9b:3)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v3|text', 'text' : 'como lo había dicho desde tiempos antiguos por boca de sus santos profetas:'}
+{'id_' : 'ps_spa_GT_odg|bode9|v4|number', 'text' : '(9b:4)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v4|text', 'text' : 'que nos salvaría de nuestros enemigos y de la mano de todos los que nos odian;'}
+{'id_' : 'ps_spa_GT_odg|bode9|v5|number', 'text' : '(9b:5)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v5|text', 'text' : 'que nos mostraría el amor que tiene a nuestros padres y cómo recuerda su santa alianza.'}
+{'id_' : 'ps_spa_GT_odg|bode9|v6|number', 'text' : '(9b:6)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v6|text', 'text' : 'Pues juró a nuestro padre Abraham que nos libraría de nuestros enemigos'}
+{'id_' : 'ps_spa_GT_odg|bode9|v7|number', 'text' : '(9b:7)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v7|text', 'text' : 'para que lo sirvamos sin temor, justos y santos, todos los días de nuestra vida.'}
+{'id_' : 'ps_spa_GT_odg|bode9|v8|number', 'text' : '(9b:8)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v8|text', 'text' : 'Y tú, niño, serás llamado Profeta del Altísimo, porque irás delante del Señor para preparle sus caminos,'}
+{'id_' : 'ps_spa_GT_odg|bode9|v9|number', 'text' : '(9b:9)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v9|text', 'text' : 'para decir a su pueblo lo que será su salvación. Pues van a recibir el perdón de sus pecados, obra de la misericordia de nuestro Dios,'}
+{'id_' : 'ps_spa_GT_odg|bode9|v10|number', 'text' : '(9b:10)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v10|text', 'text' : 'cuando venga de lo alto para visitarnos cual sol naciente, iluminando a los que viven en tinieblas, sentados en la sombra de la muerte,'}
+{'id_' : 'ps_spa_GT_odg|bode9|v11|number', 'text' : '(9b:11)'}
+{'id_' : 'ps_spa_GT_odg|bode9|v11|text', 'text' : 'y guiar nuestros pasos por un sendero de paz.'}
