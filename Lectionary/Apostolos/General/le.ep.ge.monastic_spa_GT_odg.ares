@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.ep.ge.monastic_spa_GT_odg
+
+legeLI.Epistle.title = "For Monastics"
+legeLI.Epistle.version = ""
+legeLI.Epistle.book = "Carta a los Gálatas"
+legeLI.Epistle.chapverse = "(5:22-26; 6:1-2)"
+legeLI.Epistle.text = le.ep.mc.d308_spa_GT_odg.lemcLI.Epistle.text

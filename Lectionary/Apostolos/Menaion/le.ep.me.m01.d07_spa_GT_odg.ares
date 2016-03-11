@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.me.m01.d07_spa_GT_odg
+
+lemeLI.Epistle.title = "For the Forerunner."
+lemeLI.Epistle.version = ""
+lemeLI.Epistle.book = le.ep.mc.d111_spa_GT_odg.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d111_spa_GT_odg.lemcLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.mc.d111_spa_GT_odg.lemcLI.Epistle.text 
+lemeLI.Epistle.pagenumber = ""
