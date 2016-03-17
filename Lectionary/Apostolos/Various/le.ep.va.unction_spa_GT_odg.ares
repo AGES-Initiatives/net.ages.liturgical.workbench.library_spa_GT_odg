@@ -1,0 +1,44 @@
+A_Resource_Whose_Name = le.ep.va.unction_spa_GT_odg
+
+levaUNC.Epistle1.title = "1st Epistle"
+levaUNC.Epistle1.version = 
+levaUNC.Epistle1.book = bible_en_US_rsv.James
+levaUNC.Epistle1.chapverse = "(5:10-16)"
+levaUNC.Epistle1.text = "Brethren, take as an example of suffering and patience the prophets who spoke in the name of the Lord. Behold, we call those happy who were steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. But above all, my brethren, do not swear, either by heaven or by earth or with any other oath, but let your yes be yes and your no be no, that you may not fall under condemnation. Is any one among you suffering? Let him pray. Is any cheerful? Let him sing praise. Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven. Therefore confess your sins to one another, and pray for one another, that you may be healed. The prayer of a righteous man has great power in its effects."
+
+levaUNC.Epistle2.title = "2nd Epistle"
+levaUNC.Epistle2.version = 
+levaUNC.Epistle2.book = "Carta a los Romanos"
+levaUNC.Epistle2.chapverse = "(15:1-7)"
+levaUNC.Epistle2.text = "Nosotros, si realmente somos fuertes, debemos cargar con la debilidad de quienes no tienen esa fuerza y no buscar nuestro propio agrado. Que cada uno busque lo que agrada a su prójimo, ayudándole a crecer en el bien. El mismo Cristo no hizo lo que le agradaba, como dice la Escritura: Los insultos de los que te insultaban cayeron sobre mí. Todas esas escrituras proféticas se escribieron para enseñanza nuestra, de modo que, perseverando y teniendo el consuelo de las Escrituras, no nos falte la esperanza. Que Dios, de quien procede toda perseverancia y consuelo, les conceda también a todos vivir en buen acuerdo, según el espíritu de Cristo Jesús. Entonces ustedes, con un mismo entusiasmo, alabarán a una sola voz a Dios, Padre de nuestro Señor Jesucristo. Acójanse unos a otros como Cristo los acogió para gloria de Dios."
+
+levaUNC.Epistle3.title = "3rd Epistle"
+levaUNC.Epistle3.version = 
+levaUNC.Epistle3.book = "1 Carta a los Corintios"
+levaUNC.Epistle3.chapverse = "(12:27-13:8)"
+levaUNC.Epistle3.text = "Ustedes son el cuerpo de Cristo y cada uno en su lugar es parte de él. En primer lugar están los que Dios hizo apóstoles en la Iglesia; en segundo lugar los profetas; en tercer lugar los maestros; después vienen los milagros, luego el don de curaciones, la asistencia material, la administración en la Iglesia y los diversos dones de lenguas. ¿Acaso son todos apóstoles?, ¿o todos profetas?, ¿o todos maestros? ¿Pueden todos obrar milagros, curar enfermos, hablar lenguas o explicar lo que se dijo en lenguas? Ustedes, con todo, aspiren a los carismas más elevados, y yo quisiera mostrarles un camino que los supera a todos. Aunque hablara todas las lenguas de los hombres y de los ángeles, si me falta el amor sería como bronce que resuena o campana que retiñe. Aunque tuviera el don de profecía y descubriera todos los misterios, -el saber más elevado-, aunque tuviera tanta fe como para trasladar montes, si me falta el amor nada soy. Aunque repartiera todo lo que poseo e incluso sacrificara mi cuerpo, pero para recibir alabanzas y sin tener el amor, de nada me sirve. El amor es paciente y muestra comprensión. El amor no tiene celos, no aparenta ni se infla. No actúa con bajeza ni busca su propio interés, no se deja llevar por la ira y olvida lo malo. No se alegra de lo injusto, sino que se goza en la verdad. Perdura a pesar de todo, lo cree todo, lo espera todo y lo soporta todo. El amor nunca pasará."
+
+levaUNC.Epistle4.title = "4th Epistle"
+levaUNC.Epistle4.version = 
+levaUNC.Epistle4.book = bible_en_US_rsv.Corinthians2
+levaUNC.Epistle4.chapverse = "(6:16-7:1)"
+levaUNC.Epistle4.text = "Brethren, you are the temple of the living God; as God said, \"I will live in them and move among them, and I will be their God, and they shall be my people. Therefore come out from them, and be separate from them, says the Lord, and touch nothing unclean; then I will welcome you, and I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty.\" Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, and make holiness perfect in the fear of God."
+
+levaUNC.Epistle5.title = "5th Epistle"
+levaUNC.Epistle5.version = 
+levaUNC.Epistle5.book = bible_en_US_rsv.Corinthians2
+levaUNC.Epistle5.chapverse = "(1:8-11)"
+levaUNC.Epistle5.text = "Brethren, we do not want you to be ignorant, brethren, of the affliction we experienced in Asia; for we were so utterly, unbearably crushed that we despaired of life itself. Why, we felt that we had received the sentence of death; but that was to make us rely not on ourselves but on God who raises the dead; he delivered us from so deadly a peril, and he will deliver us; on him we have set our hope that he will deliver us again. You also must help us by prayer, so that many will give thanks on our behalf for the blessing granted us in answer to many prayers."
+
+levaUNC.Epistle6.title = "6th Epistle"
+levaUNC.Epistle6.version = 
+levaUNC.Epistle6.book = bible_en_US_rsv.Galatians
+levaUNC.Epistle6.chapverse = "(5:22-26, 6:1-2)"
+levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. Let us have no self-conceit, no provoking of one another, no envy of one another. Brethren, if a man is overtaken in any trespass, you who are spiritual should restore him in a spirit of gentleness. Look to yourself, lest you too be tempted. Bear one another's burdens, and so fulfill the law of Christ."
+
+levaUNC.Epistle7.title = "7th Epistle"
+levaUNC.Epistle7.version = 
+levaUNC.Epistle7.book = bible_en_US_rsv.Thessalonians1
+levaUNC.Epistle7.chapverse = "(5:14-23)"
+levaUNC.Epistle7.text = "Brethren, we exhort you, admonish the idlers, encourage the fainthearted, help the weak, be patient with them all. See that none of you repays evil for evil, but always seek to do good to one another and to all. Rejoice always, pray constantly, give thanks in all circumstances; for this is the will of God in Christ Jesus for you. Do not quench the Spirit, do not despise prophesying, but test everything; hold fast what is good, abstain from every form of evil. May the God of peace himself sanctify you wholly; and may your spirit and soul and body be kept sound and blameless at the coming of our Lord Jesus Christ."
+

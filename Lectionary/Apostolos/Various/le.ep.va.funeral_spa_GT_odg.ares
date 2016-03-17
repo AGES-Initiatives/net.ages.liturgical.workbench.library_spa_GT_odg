@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.ep.va.funeral_spa_GT_odg
+
+levaFUN.Epistle.title = "At Funerals"
+levaFUN.Epistle.version = 
+levaFUN.Epistle.book = le.ep.va.deceased_spa_GT_odg.levaDEC.Epistle1.book
+levaFUN.Epistle.chapverse = le.ep.va.deceased_spa_GT_odg.levaDEC.Epistle1.chapverse
+levaFUN.Epistle.text = le.ep.va.deceased_spa_GT_odg.levaDEC.Epistle1.text
