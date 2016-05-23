@@ -1,0 +1,9 @@
+A_Resource_Whose_Name = le.pr.me.r72_spa_GT_odg
+
+leprVE.reading.title = ""
+leprVE.reading.version = ""
+leprVE.reading.book = "Isaías"
+//leprVE.reading.chapverse = ""
+//leprVE.reading.text = ""
+leprVE.reading.chapverse = "(26:3-12, 14-17, 19-20, 22, 33, 40b-41a)"
+leprVE.reading.text = "" // could not find this text in the translations from the Hebrew

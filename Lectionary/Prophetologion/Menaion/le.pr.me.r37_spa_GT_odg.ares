@@ -1,0 +1,9 @@
+A_Resource_Whose_Name = le.pr.me.r37_spa_GT_odg
+
+leprVE.reading.title = ""
+leprVE.reading.version = ""
+leprVE.reading.book = "Sabiduría"
+//leprVE.reading.chapverse = ""
+//leprVE.reading.text = ""
+leprVE.reading.text = "" // could not find this text in the translations from the Hebrew
+leprVE.reading.chapverse = "(4:7a, 16a, 17a, 19b-20; 5:1-7)"

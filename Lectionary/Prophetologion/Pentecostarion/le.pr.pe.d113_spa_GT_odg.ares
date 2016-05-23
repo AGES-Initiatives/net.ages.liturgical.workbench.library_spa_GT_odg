@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.pr.pe.d113_spa_GT_odg
+
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = le.pr.me.r61_spa_GT_odg.leprVE.reading.book
+lemcVE.reading1.chapverse = le.pr.me.r61_spa_GT_odg.leprVE.reading.chapverse
+lemcVE.reading1.text = le.pr.me.r61_spa_GT_odg.leprVE.reading.text
+
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = "Deuteronomio"
+lemcVE.reading2.chapverse = "(1:8-11, 15-17)"
+lemcVE.reading2.text = "Miren: ésta es la tierra que les he reservado; vayan y tomen posesión de la tierra que Yavé juró dar a sus padres, Abrahán, Isaac y Jacob y a todos sus descendientes. Fue entonces cuando les dije: 'No puedo hacerme cargo yo solo de todos ustedes. Yavé, el Dios de ustedes, los ha multiplicado y son ahora tan numerosos como las estrellas del cielo. ¡Yavé, Dios de sus padres, los haga crecer mil veces más y los bendiga como se lo prometió! Tomé entonces de entre los jefes de sus tribus hombres sabios y experimentados y los puse al frente de ustedes como jefes de millar, de cien, de cincuenta y de diez, así como también secretarios para cada una de las tribus. Entonces di a los jueces las siguientes instrucciones: 'Ustedes atenderán las quejas de sus hermanos, y decidirán, sea que el pleito oponga un israelita a su hermano, o bien un israelita a uno de los extranjeros que viven en medio de nosotros.Cuando juzguen, no se dejarán influenciar por persona alguna, sino que escucharán lo mismo al pobre que al rico, al poderoso que al débil, y no tendrán miedo de nadie, pues el juicio es cosa de Dios. Si un problema les resulta demasiado difícil, me lo pasarán a mí, y yo lo veré.'"
+
+lemcVE.reading3.title = ""
+lemcVE.reading3.version = ""
+lemcVE.reading3.book = le.pr.me.r29_spa_GT_odg.leprVE.reading.book
+lemcVE.reading3.chapverse = le.pr.me.r29_spa_GT_odg.leprVE.reading.chapverse
+lemcVE.reading3.text = le.pr.me.r29_spa_GT_odg.leprVE.reading.text
+
